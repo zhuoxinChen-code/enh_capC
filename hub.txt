@@ -1,0 +1,7 @@
+hub enh_capC
+shortLabel enh
+longLabel enh_capC
+genomesFile genomes.txt
+email zhuoxinc@uci.edu
+descriptionUrl blank.html
+
