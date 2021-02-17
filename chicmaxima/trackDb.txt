@@ -3,47 +3,47 @@ bigDataUrl FB2_chicmaxima.bb
 shortLabel FB2_chicmaxima
 longLabel FB2_chicmaxima
 type bigBed
-visibility full
+visibility dense
 
 track bb_chicmaxima_FL2
 bigDataUrl FL2_chicmaxima.bb
 shortLabel FL2_chicmaxima
 longLabel FL2_chicmaxima
 type bigBed
-visibility full
+visibility dense
 
 track bb_chicmaxima_HL3
 bigDataUrl HL3_chicmaxima.bb
 shortLabel HL3_chicmaxima
 longLabel HL3_chicmaxima
 type bigBed
-visibility full
+visibility dense
 
 track bb_chicmaxima_HRT3
 bigDataUrl HRT3_chicmaxima.bb
 shortLabel HRT3_chicmaxima
 longLabel HRT3_chicmaxima
 type bigBed
-visibility full
+visibility dense
 
 track bb_chicmaxima_LV3
 bigDataUrl LV3_chicmaxima.bb
 shortLabel LV3_chicmaxima
 longLabel LV3_chicmaxima
 type bigBed
-visibility full
+visibility dense
 
 track bb_chicmaxima_MB2
 bigDataUrl MB2_chicmaxima.bb
 shortLabel MB2_chicmaxima
 longLabel MB2_chicmaxima
 type bigBed
-visibility full
+visibility dense
 
 track bb_chicmaxima_NT2
 bigDataUrl NT2_chicmaxima.bb
 shortLabel NT2_chicmaxima
 longLabel NT2_chicmaxima
 type bigBed
-visibility full
+visibility dense
 
