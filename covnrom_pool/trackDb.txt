@@ -1,0 +1,49 @@
+track bb_covnorm_FB2
+bigDataUrl FB2_interactions_covnorm.bb
+shortLabel FB2_covnorm
+longLabel FB2_covnorm
+type bigBed
+visibility dense
+
+track bb_covnorm_FL2
+bigDataUrl FL2_interactions_covnorm.bb
+shortLabel FL2_covnorm
+longLabel FL2_covnorm
+type bigBed
+visibility dense
+
+track bb_covnorm_HL3
+bigDataUrl HL3_interactions_covnorm.bb
+shortLabel HL3_covnorm
+longLabel HL3_covnorm
+type bigBed
+visibility dense
+
+track bb_covnorm_HRT3
+bigDataUrl HRT3_interactions_covnorm.bb
+shortLabel HRT3_covnorm
+longLabel HRT3_covnorm
+type bigBed
+visibility dense
+
+track bb_covnorm_LV3
+bigDataUrl LV3_interactions_covnorm.bb
+shortLabel LV3_covnorm
+longLabel LV3_covnorm
+type bigBed
+visibility dense
+
+track bb_covnorm_MB2
+bigDataUrl MB2_interactions_covnorm.bb
+shortLabel MB2_covnorm
+longLabel MB2_covnorm
+type bigBed
+visibility dense
+
+track bb_covnorm_NT2
+bigDataUrl NT2_interactions_covnorm.bb
+shortLabel NT2_covnorm
+longLabel NT2_covnorm
+type bigBed
+visibility dense
+
