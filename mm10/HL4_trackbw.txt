@@ -7880,7 +7880,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_16315491_16318268_hs299.bw
 shortLabel HL4_hs299
 longLabel HL4_chr6_16315491_16318268_hs299
 type bigWig
-color 212,230,146
+color 107,248,12
 
 track HL4_hs300
 parent bw_combo_HL4
@@ -7888,7 +7888,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_16333059_16334858_hs300.bw
 shortLabel HL4_hs300
 longLabel HL4_chr6_16333059_16334858_hs300
 type bigWig
-color 107,248,12
+color 175,143,4
 
 track HL4_hs1798
 parent bw_combo_HL4
@@ -7896,7 +7896,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_16726106_16729828_hs1798.bw
 shortLabel HL4_hs1798
 longLabel HL4_chr6_16726106_16729828_hs1798
 type bigWig
-color 175,143,4
+color 114,28,100
 
 track HL4_hs301
 parent bw_combo_HL4
@@ -7904,7 +7904,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_16834542_16836344_hs301.bw
 shortLabel HL4_hs301
 longLabel HL4_chr6_16834542_16836344_hs301
 type bigWig
-color 114,28,100
+color 78,166,241
 
 track HL4_hs2071
 parent bw_combo_HL4
@@ -7912,7 +7912,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_17170294_17173502_hs2071.bw
 shortLabel HL4_hs2071
 longLabel HL4_chr6_17170294_17173502_hs2071
 type bigWig
-color 78,166,241
+color 248,71,235
 
 track HL4_hs1809
 parent bw_combo_HL4
@@ -7920,7 +7920,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_23271726_23275136_hs1809.bw
 shortLabel HL4_hs1809
 longLabel HL4_chr6_23271726_23275136_hs1809
 type bigWig
-color 248,71,235
+color 215,90,48
 
 track HL4_hs1308
 parent bw_combo_HL4
@@ -7928,7 +7928,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_28394826_28398286_hs1308.bw
 shortLabel HL4_hs1308
 longLabel HL4_chr6_28394826_28398286_hs1308
 type bigWig
-color 215,90,48
+color 16,80,207
 
 track HL4_hs2077
 parent bw_combo_HL4
@@ -7936,7 +7936,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_35631434_35636369_hs2077.bw
 shortLabel HL4_hs2077
 longLabel HL4_chr6_35631434_35636369_hs2077
 type bigWig
-color 16,80,207
+color 199,112,142
 
 track HL4_hs2082
 parent bw_combo_HL4
@@ -7944,7 +7944,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_39239494_39243710_hs2082.bw
 shortLabel HL4_hs2082
 longLabel HL4_chr6_39239494_39243710_hs2082
 type bigWig
-color 199,112,142
+color 156,21,105
 
 track HL4_mm1321
 parent bw_combo_HL4
@@ -7952,7 +7952,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_39541737_39546069_mm1321.bw
 shortLabel HL4_mm1321
 longLabel HL4_chr6_39541737_39546069_mm1321
 type bigWig
-color 156,21,105
+color 86,211,43
 
 track HL4_hs1626
 parent bw_combo_HL4
@@ -7960,7 +7960,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_4455835_4459092_hs1626.bw
 shortLabel HL4_hs1626
 longLabel HL4_chr6_4455835_4459092_hs1626
 type bigWig
-color 86,211,43
+color 79,234,94
 
 track HL4_mm400
 parent bw_combo_HL4
@@ -7968,7 +7968,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_4553371_4555600_mm400.bw
 shortLabel HL4_mm400
 longLabel HL4_chr6_4553371_4555600_mm400
 type bigWig
-color 79,234,94
+color 225,211,63
 
 track HL4_mm402
 parent bw_combo_HL4
@@ -7976,7 +7976,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_50821304_50823998_mm402.bw
 shortLabel HL4_mm402
 longLabel HL4_chr6_50821304_50823998_mm402
 type bigWig
-color 225,211,63
+color 184,145,151
 
 track HL4_hs1677
 parent bw_combo_HL4
@@ -7984,7 +7984,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_50889641_50892685_hs1677.bw
 shortLabel HL4_hs1677
 longLabel HL4_chr6_50889641_50892685_hs1677
 type bigWig
-color 184,145,151
+color 234,56,12
 
 track HL4_mm403
 parent bw_combo_HL4
@@ -7992,7 +7992,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_50924087_50926313_mm403.bw
 shortLabel HL4_mm403
 longLabel HL4_chr6_50924087_50926313_mm403
 type bigWig
-color 234,56,12
+color 57,212,9
 
 track HL4_mm404
 parent bw_combo_HL4
@@ -8000,7 +8000,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_50956430_50957869_mm404.bw
 shortLabel HL4_mm404
 longLabel HL4_chr6_50956430_50957869_mm404
 type bigWig
-color 57,212,9
+color 204,210,44
 
 track HL4_mm405
 parent bw_combo_HL4
@@ -8008,7 +8008,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_50980388_50982570_mm405.bw
 shortLabel HL4_mm405
 longLabel HL4_chr6_50980388_50982570_mm405
 type bigWig
-color 204,210,44
+color 63,88,246
 
 track HL4_mm406
 parent bw_combo_HL4
@@ -8016,7 +8016,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_50983645_50985024_mm406.bw
 shortLabel HL4_mm406
 longLabel HL4_chr6_50983645_50985024_mm406
 type bigWig
-color 63,88,246
+color 155,246,191
 
 track HL4_hs1600
 parent bw_combo_HL4
@@ -8024,7 +8024,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_51001398_51004283_hs1600.bw
 shortLabel HL4_hs1600
 longLabel HL4_chr6_51001398_51004283_hs1600
 type bigWig
-color 155,246,191
+color 103,19,226
 
 track HL4_mm407
 parent bw_combo_HL4
@@ -8032,7 +8032,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_51051799_51053384_mm407.bw
 shortLabel HL4_mm407
 longLabel HL4_chr6_51051799_51053384_mm407
 type bigWig
-color 103,19,226
+color 24,40,157
 
 track HL4_hs1325
 parent bw_combo_HL4
@@ -8040,7 +8040,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_51075939_51078460_hs1325.bw
 shortLabel HL4_hs1325
 longLabel HL4_chr6_51075939_51078460_hs1325
 type bigWig
-color 24,40,157
+color 114,90,236
 
 track HL4_hs1465
 parent bw_combo_HL4
@@ -8048,7 +8048,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_51194622_51198231_hs1465.bw
 shortLabel HL4_hs1465
 longLabel HL4_chr6_51194622_51198231_hs1465
 type bigWig
-color 114,90,236
+color 89,83,95
 
 track HL4_hs769
 parent bw_combo_HL4
@@ -8056,7 +8056,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_51708006_51710233_hs769.bw
 shortLabel HL4_hs769
 longLabel HL4_chr6_51708006_51710233_hs769
 type bigWig
-color 89,83,95
+color 15,158,163
 
 track HL4_hs296
 parent bw_combo_HL4
@@ -8064,7 +8064,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_51879038_51880370_hs296.bw
 shortLabel HL4_hs296
 longLabel HL4_chr6_51879038_51880370_hs296
 type bigWig
-color 15,158,163
+color 22,51,152
 
 track HL4_hs629
 parent bw_combo_HL4
@@ -8072,7 +8072,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_52318456_52320630_hs629.bw
 shortLabel HL4_hs629
 longLabel HL4_chr6_52318456_52320630_hs629
 type bigWig
-color 22,51,152
+color 230,141,127
 
 track HL4_mm1524
 parent bw_combo_HL4
@@ -8080,7 +8080,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_52365962_52368481_mm1524.bw
 shortLabel HL4_mm1524
 longLabel HL4_chr6_52365962_52368481_mm1524
 type bigWig
-color 230,141,127
+color 121,193,174
 
 track HL4_mm48
 parent bw_combo_HL4
@@ -8088,7 +8088,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_52442632_52444662_mm48.bw
 shortLabel HL4_mm48
 longLabel HL4_chr6_52442632_52444662_mm48
 type bigWig
-color 121,193,174
+color 134,224,18
 
 track HL4_hs1430
 parent bw_combo_HL4
@@ -8096,7 +8096,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_52966608_52969723_hs1430.bw
 shortLabel HL4_hs1430
 longLabel HL4_chr6_52966608_52969723_hs1430
 type bigWig
-color 134,224,18
+color 34,115,68
 
 track HL4_hs1604
 parent bw_combo_HL4
@@ -8104,7 +8104,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_53467854_53472884_hs1604.bw
 shortLabel HL4_hs1604
 longLabel HL4_chr6_53467854_53472884_hs1604
 type bigWig
-color 34,115,68
+color 13,126,13
 
 track HL4_hs297
 parent bw_combo_HL4
@@ -8112,7 +8112,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_55702797_55704712_hs297.bw
 shortLabel HL4_hs297
 longLabel HL4_chr6_55702797_55704712_hs297
 type bigWig
-color 13,126,13
+color 170,192,42
 
 track HL4_hs2308
 parent bw_combo_HL4
@@ -8120,7 +8120,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_6004863_6007729_hs2308.bw
 shortLabel HL4_hs2308
 longLabel HL4_chr6_6004863_6007729_hs2308
 type bigWig
-color 170,192,42
+color 129,86,130
 
 track HL4_hs2309
 parent bw_combo_HL4
@@ -8128,7 +8128,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_6027184_6028257_hs2309.bw
 shortLabel HL4_hs2309
 longLabel HL4_chr6_6027184_6028257_hs2309
 type bigWig
-color 129,86,130
+color 209,189,28
 
 track HL4_hs2313
 parent bw_combo_HL4
@@ -8136,7 +8136,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_6058624_6059283_hs2313.bw
 shortLabel HL4_hs2313
 longLabel HL4_chr6_6058624_6059283_hs2313
 type bigWig
-color 209,189,28
+color 253,209,17
 
 track HL4_hs1374
 parent bw_combo_HL4
@@ -8144,7 +8144,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_61042008_61043674_hs1374.bw
 shortLabel HL4_hs1374
 longLabel HL4_chr6_61042008_61043674_hs1374
 type bigWig
-color 253,209,17
+color 202,92,244
 
 track HL4_hs1642
 parent bw_combo_HL4
@@ -8152,7 +8152,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_6163441_6164597_hs1642.bw
 shortLabel HL4_hs1642
 longLabel HL4_chr6_6163441_6164597_hs1642
 type bigWig
-color 202,92,244
+color 223,25,37
 
 track HL4_hs2312
 parent bw_combo_HL4
@@ -8160,7 +8160,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_6315414_6318173_hs2312.bw
 shortLabel HL4_hs2312
 longLabel HL4_chr6_6315414_6318173_hs2312
 type bigWig
-color 223,25,37
+color 95,52,61
 
 track HL4_hs2311
 parent bw_combo_HL4
@@ -8168,7 +8168,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_6363634_6365339_hs2311.bw
 shortLabel HL4_hs2311
 longLabel HL4_chr6_6363634_6365339_hs2311
 type bigWig
-color 95,52,61
+color 10,221,10
 
 track HL4_mm123
 parent bw_combo_HL4
@@ -8176,7 +8176,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_72214862_72219059_mm123.bw
 shortLabel HL4_mm123
 longLabel HL4_chr6_72214862_72219059_mm123
 type bigWig
-color 10,221,10
+color 73,162,153
 
 track HL4_mm1474
 parent bw_combo_HL4
@@ -8184,7 +8184,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_72710116_72713124_mm1474.bw
 shortLabel HL4_mm1474
 longLabel HL4_chr6_72710116_72713124_mm1474
 type bigWig
-color 73,162,153
+color 54,46,237
 
 track HL4_hs2170
 parent bw_combo_HL4
@@ -8192,7 +8192,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_84048644_84049603_hs2170.bw
 shortLabel HL4_hs2170
 longLabel HL4_chr6_84048644_84049603_hs2170
 type bigWig
-color 54,46,237
+color 86,106,78
 
 track HL4_hs1479
 parent bw_combo_HL4
@@ -8200,7 +8200,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_84195666_84197916_hs1479.bw
 shortLabel HL4_hs1479
 longLabel HL4_chr6_84195666_84197916_hs1479
 type bigWig
-color 86,106,78
+color 102,142,44
 
 track HL4_hs1025
 parent bw_combo_HL4
@@ -8208,7 +8208,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_85164794_85166553_hs1025.bw
 shortLabel HL4_hs1025
 longLabel HL4_chr6_85164794_85166553_hs1025
 type bigWig
-color 102,142,44
+color 159,249,230
 
 track HL4_hs400
 parent bw_combo_HL4
@@ -8216,7 +8216,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_85217249_85218088_hs400.bw
 shortLabel HL4_hs400
 longLabel HL4_chr6_85217249_85218088_hs400
 type bigWig
-color 159,249,230
+color 65,149,244
 
 track HL4_mm1516
 parent bw_combo_HL4
@@ -8224,7 +8224,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_89240959_89243053_mm1516.bw
 shortLabel HL4_mm1516
 longLabel HL4_chr6_89240959_89243053_mm1516
 type bigWig
-color 65,149,244
+color 5,164,72
 
 track HL4_mm1597
 parent bw_combo_HL4
@@ -8232,7 +8232,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_89612620_89616057_mm1597.bw
 shortLabel HL4_mm1597
 longLabel HL4_chr6_89612620_89616057_mm1597
 type bigWig
-color 5,164,72
+color 94,146,43
 
 track HL4_mm1314
 parent bw_combo_HL4
@@ -8240,7 +8240,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_91144927_91149651_mm1314.bw
 shortLabel HL4_mm1314
 longLabel HL4_chr6_91144927_91149651_mm1314
 type bigWig
-color 94,146,43
+color 18,160,33
 
 track HL4_mm878
 parent bw_combo_HL4
@@ -8248,7 +8248,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_94752925_94757732_mm878.bw
 shortLabel HL4_mm878
 longLabel HL4_chr6_94752925_94757732_mm878
 type bigWig
-color 18,160,33
+color 155,93,13
 
 track HL4_mm60
 parent bw_combo_HL4
@@ -8256,7 +8256,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_98112647_98114836_mm60.bw
 shortLabel HL4_mm60
 longLabel HL4_chr6_98112647_98114836_mm60
 type bigWig
-color 155,93,13
+color 147,117,135
 
 track HL4_hs799
 parent bw_combo_HL4
@@ -8264,7 +8264,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_9835876_9835995_hs799.bw
 shortLabel HL4_hs799
 longLabel HL4_chr6_9835876_9835995_hs799
 type bigWig
-color 147,117,135
+color 170,31,99
 
 track HL4_hs206
 parent bw_combo_HL4
@@ -8272,7 +8272,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_98509085_98510344_hs206.bw
 shortLabel HL4_hs206
 longLabel HL4_chr6_98509085_98510344_hs206
 type bigWig
-color 170,31,99
+color 113,239,253
 
 track HL4_hs207
 parent bw_combo_HL4
@@ -8280,7 +8280,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_98767200_98769300_hs207.bw
 shortLabel HL4_hs207
 longLabel HL4_chr6_98767200_98769300_hs207
 type bigWig
-color 113,239,253
+color 168,105,148
 
 track HL4_hs965
 parent bw_combo_HL4
@@ -8288,7 +8288,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_99012592_99014971_hs965.bw
 shortLabel HL4_hs965
 longLabel HL4_chr6_99012592_99014971_hs965
 type bigWig
-color 168,105,148
+color 22,109,239
 
 track HL4_hs1092
 parent bw_combo_HL4
@@ -8296,7 +8296,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_99067534_99068493_hs1092.bw
 shortLabel HL4_hs1092
 longLabel HL4_chr6_99067534_99068493_hs1092
 type bigWig
-color 22,109,239
+color 193,128,156
 
 track HL4_hs187
 parent bw_combo_HL4
@@ -8304,7 +8304,7 @@ bigDataUrl bigwig/HL4/HL4_chr6_99200781_99203604_hs187.bw
 shortLabel HL4_hs187
 longLabel HL4_chr6_99200781_99203604_hs187
 type bigWig
-color 193,128,156
+color 155,110,128
 
 track HL4_mm686
 parent bw_combo_HL4
@@ -8312,7 +8312,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_108796699_108798633_mm686.bw
 shortLabel HL4_mm686
 longLabel HL4_chr7_108796699_108798633_mm686
 type bigWig
-color 155,110,128
+color 75,168,157
 
 track HL4_hs333
 parent bw_combo_HL4
@@ -8320,7 +8320,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_109202459_109203058_hs333.bw
 shortLabel HL4_hs333
 longLabel HL4_chr7_109202459_109203058_hs333
 type bigWig
-color 75,168,157
+color 126,151,189
 
 track HL4_mm1252
 parent bw_combo_HL4
@@ -8328,7 +8328,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_109230533_109232580_mm1252.bw
 shortLabel HL4_mm1252
 longLabel HL4_chr7_109230533_109232580_mm1252
 type bigWig
-color 126,151,189
+color 29,81,143
 
 track HL4_mm1407
 parent bw_combo_HL4
@@ -8336,7 +8336,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_109706585_109712053_mm1407.bw
 shortLabel HL4_mm1407
 longLabel HL4_chr7_109706585_109712053_mm1407
 type bigWig
-color 29,81,143
+color 153,120,131
 
 track HL4_mm725
 parent bw_combo_HL4
@@ -8344,7 +8344,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_110162331_110165660_mm725.bw
 shortLabel HL4_mm725
 longLabel HL4_chr7_110162331_110165660_mm725
 type bigWig
-color 153,120,131
+color 205,112,11
 
 track HL4_mm79
 parent bw_combo_HL4
@@ -8352,7 +8352,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_112297831_112299543_mm79.bw
 shortLabel HL4_mm79
 longLabel HL4_chr7_112297831_112299543_mm79
 type bigWig
-color 205,112,11
+color 66,112,95
 
 track HL4_hs1314
 parent bw_combo_HL4
@@ -8360,7 +8360,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_112825098_112827953_hs1314.bw
 shortLabel HL4_hs1314
 longLabel HL4_chr7_112825098_112827953_hs1314
 type bigWig
-color 66,112,95
+color 182,33,111
 
 track HL4_hs235
 parent bw_combo_HL4
@@ -8368,7 +8368,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_115169287_115171712_hs235.bw
 shortLabel HL4_hs235
 longLabel HL4_chr7_115169287_115171712_hs235
 type bigWig
-color 182,33,111
+color 214,101,146
 
 track HL4_hs1720
 parent bw_combo_HL4
@@ -8376,7 +8376,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_115644469_115647260_hs1720.bw
 shortLabel HL4_hs1720
 longLabel HL4_chr7_115644469_115647260_hs1720
 type bigWig
-color 214,101,146
+color 50,45,21
 
 track HL4_hs883
 parent bw_combo_HL4
@@ -8384,7 +8384,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_115745015_115747039_hs883.bw
 shortLabel HL4_hs883
 longLabel HL4_chr7_115745015_115747039_hs883
 type bigWig
-color 50,45,21
+color 86,235,225
 
 track HL4_mm1558
 parent bw_combo_HL4
@@ -8392,7 +8392,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_117685738_117687555_mm1558.bw
 shortLabel HL4_mm1558
 longLabel HL4_chr7_117685738_117687555_mm1558
 type bigWig
-color 86,235,225
+color 230,139,211
 
 track HL4_mm1484
 parent bw_combo_HL4
@@ -8400,7 +8400,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_123097254_123099339_mm1484.bw
 shortLabel HL4_mm1484
 longLabel HL4_chr7_123097254_123099339_mm1484
 type bigWig
-color 230,139,211
+color 51,197,241
 
 track HL4_mm174
 parent bw_combo_HL4
@@ -8408,7 +8408,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_125763833_125766219_mm174.bw
 shortLabel HL4_mm174
 longLabel HL4_chr7_125763833_125766219_mm174
 type bigWig
-color 51,197,241
+color 5,165,199
 
 track HL4_mm607
 parent bw_combo_HL4
@@ -8416,7 +8416,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_129743349_129744548_mm607.bw
 shortLabel HL4_mm607
 longLabel HL4_chr7_129743349_129744548_mm607
 type bigWig
-color 5,165,199
+color 99,193,206
 
 track HL4_mm1273
 parent bw_combo_HL4
@@ -8424,7 +8424,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_129842139_129843368_mm1273.bw
 shortLabel HL4_mm1273
 longLabel HL4_chr7_129842139_129843368_mm1273
 type bigWig
-color 99,193,206
+color 98,216,96
 
 track HL4_mm938
 parent bw_combo_HL4
@@ -8432,7 +8432,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_130425535_130428007_mm938.bw
 shortLabel HL4_mm938
 longLabel HL4_chr7_130425535_130428007_mm938
 type bigWig
-color 98,216,96
+color 11,43,142
 
 track HL4_hs1319
 parent bw_combo_HL4
@@ -8440,7 +8440,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_131463520_131466071_hs1319.bw
 shortLabel HL4_hs1319
 longLabel HL4_chr7_131463520_131466071_hs1319
 type bigWig
-color 11,43,142
+color 1,240,238
 
 track HL4_hs578
 parent bw_combo_HL4
@@ -8448,7 +8448,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_131777574_131778951_hs578.bw
 shortLabel HL4_hs578
 longLabel HL4_chr7_131777574_131778951_hs578
 type bigWig
-color 1,240,238
+color 152,2,151
 
 track HL4_hs330
 parent bw_combo_HL4
@@ -8456,7 +8456,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_133189415_133190374_hs330.bw
 shortLabel HL4_hs330
 longLabel HL4_chr7_133189415_133190374_hs330
 type bigWig
-color 152,2,151
+color 174,28,13
 
 track HL4_mm1401
 parent bw_combo_HL4
@@ -8464,7 +8464,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_135138530_135140269_mm1401.bw
 shortLabel HL4_mm1401
 longLabel HL4_chr7_135138530_135140269_mm1401
 type bigWig
-color 174,28,13
+color 207,80,237
 
 track HL4_hs737
 parent bw_combo_HL4
@@ -8472,7 +8472,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_136082250_136085071_hs737.bw
 shortLabel HL4_hs737
 longLabel HL4_chr7_136082250_136085071_hs737
 type bigWig
-color 207,80,237
+color 137,247,120
 
 track HL4_mm1574
 parent bw_combo_HL4
@@ -8480,7 +8480,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_136389102_136391805_mm1574.bw
 shortLabel HL4_mm1574
 longLabel HL4_chr7_136389102_136391805_mm1574
 type bigWig
-color 137,247,120
+color 196,110,12
 
 track HL4_hs699
 parent bw_combo_HL4
@@ -8488,7 +8488,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_136490073_136492771_hs699.bw
 shortLabel HL4_hs699
 longLabel HL4_chr7_136490073_136492771_hs699
 type bigWig
-color 196,110,12
+color 139,36,225
 
 track HL4_hs562
 parent bw_combo_HL4
@@ -8496,7 +8496,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_136736668_136739847_hs562.bw
 shortLabel HL4_hs562
 longLabel HL4_chr7_136736668_136739847_hs562
 type bigWig
-color 139,36,225
+color 254,81,225
 
 track HL4_hs656
 parent bw_combo_HL4
@@ -8504,7 +8504,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_137001674_137004045_hs656.bw
 shortLabel HL4_hs656
 longLabel HL4_chr7_137001674_137004045_hs656
 type bigWig
-color 254,81,225
+color 123,244,120
 
 track HL4_hs331
 parent bw_combo_HL4
@@ -8512,7 +8512,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_137038713_137039252_hs331.bw
 shortLabel HL4_hs331
 longLabel HL4_chr7_137038713_137039252_hs331
 type bigWig
-color 123,244,120
+color 70,182,194
 
 track HL4_hs232
 parent bw_combo_HL4
@@ -8520,7 +8520,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_137249952_137252151_hs232.bw
 shortLabel HL4_hs232
 longLabel HL4_chr7_137249952_137252151_hs232
 type bigWig
-color 70,182,194
+color 5,118,213
 
 track HL4_mm1489
 parent bw_combo_HL4
@@ -8528,7 +8528,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_140056727_140058946_mm1489.bw
 shortLabel HL4_mm1489
 longLabel HL4_chr7_140056727_140058946_mm1489
 type bigWig
-color 5,118,213
+color 141,174,30
 
 track HL4_hs1488
 parent bw_combo_HL4
@@ -8536,7 +8536,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_142548315_142550020_hs1488.bw
 shortLabel HL4_hs1488
 longLabel HL4_chr7_142548315_142550020_hs1488
 type bigWig
-color 141,174,30
+color 244,91,238
 
 track HL4_mm50
 parent bw_combo_HL4
@@ -8544,7 +8544,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_142551929_142555126_mm50.bw
 shortLabel HL4_mm50
 longLabel HL4_chr7_142551929_142555126_mm50
 type bigWig
-color 244,91,238
+color 34,79,100
 
 track HL4_mm47
 parent bw_combo_HL4
@@ -8552,7 +8552,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_142568527_142573090_mm47.bw
 shortLabel HL4_mm47
 longLabel HL4_chr7_142568527_142573090_mm47
 type bigWig
-color 34,79,100
+color 187,168,138
 
 track HL4_mm183
 parent bw_combo_HL4
@@ -8560,7 +8560,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_143111807_143112994_mm183.bw
 shortLabel HL4_mm183
 longLabel HL4_chr7_143111807_143112994_mm183
 type bigWig
-color 187,168,138
+color 114,253,210
 
 track HL4_hs1920
 parent bw_combo_HL4
@@ -8568,7 +8568,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_144993333_144997451_hs1920.bw
 shortLabel HL4_hs1920
 longLabel HL4_chr7_144993333_144997451_hs1920
 type bigWig
-color 114,253,210
+color 6,204,190
 
 track HL4_hs2073
 parent bw_combo_HL4
@@ -8576,7 +8576,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_145117504_145119123_hs2073.bw
 shortLabel HL4_hs2073
 longLabel HL4_chr7_145117504_145119123_hs2073
 type bigWig
-color 6,204,190
+color 195,106,51
 
 track HL4_mm1497
 parent bw_combo_HL4
@@ -8584,7 +8584,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_145204511_145208179_mm1497.bw
 shortLabel HL4_mm1497
 longLabel HL4_chr7_145204511_145208179_mm1497
 type bigWig
-color 195,106,51
+color 150,88,40
 
 track HL4_mm1379
 parent bw_combo_HL4
@@ -8592,7 +8592,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_34266621_34269292_mm1379.bw
 shortLabel HL4_mm1379
 longLabel HL4_chr7_34266621_34269292_mm1379
 type bigWig
-color 150,88,40
+color 139,100,196
 
 track HL4_hs536
 parent bw_combo_HL4
@@ -8600,7 +8600,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_36132827_36135565_hs536.bw
 shortLabel HL4_hs536
 longLabel HL4_chr7_36132827_36135565_hs536
 type bigWig
-color 139,100,196
+color 208,251,139
 
 track HL4_hs386
 parent bw_combo_HL4
@@ -8608,7 +8608,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_36730590_36733367_hs386.bw
 shortLabel HL4_hs386
 longLabel HL4_chr7_36730590_36733367_hs386
 type bigWig
-color 208,251,139
+color 141,126,110
 
 track HL4_hs385
 parent bw_combo_HL4
@@ -8616,7 +8616,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_36944407_36946120_hs385.bw
 shortLabel HL4_hs385
 longLabel HL4_chr7_36944407_36946120_hs385
 type bigWig
-color 141,126,110
+color 7,10,161
 
 track HL4_hs384
 parent bw_combo_HL4
@@ -8624,7 +8624,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_37513920_37516639_hs384.bw
 shortLabel HL4_hs384
 longLabel HL4_chr7_37513920_37516639_hs384
 type bigWig
-color 7,10,161
+color 81,110,123
 
 track HL4_hs858
 parent bw_combo_HL4
@@ -8632,7 +8632,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_37742516_37744722_hs858.bw
 shortLabel HL4_hs858
 longLabel HL4_chr7_37742516_37744722_hs858
 type bigWig
-color 81,110,123
+color 75,155,137
 
 track HL4_hs382
 parent bw_combo_HL4
@@ -8640,7 +8640,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_37904580_37906437_hs382.bw
 shortLabel HL4_hs382
 longLabel HL4_chr7_37904580_37906437_hs382
 type bigWig
-color 75,155,137
+color 20,13,134
 
 track HL4_hs381
 parent bw_combo_HL4
@@ -8648,7 +8648,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_37969603_37971462_hs381.bw
 shortLabel HL4_hs381
 longLabel HL4_chr7_37969603_37971462_hs381
 type bigWig
-color 20,13,134
+color 75,185,198
 
 track HL4_hs1977
 parent bw_combo_HL4
@@ -8656,7 +8656,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_46123000_46124379_hs1977.bw
 shortLabel HL4_hs1977
 longLabel HL4_chr7_46123000_46124379_hs1977
 type bigWig
-color 75,185,198
+color 82,119,89
 
 track HL4_mm1586
 parent bw_combo_HL4
@@ -8664,7 +8664,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_48749252_48750986_mm1586.bw
 shortLabel HL4_mm1586
 longLabel HL4_chr7_48749252_48750986_mm1586
 type bigWig
-color 82,119,89
+color 89,171,141
 
 track HL4_mm683
 parent bw_combo_HL4
@@ -8672,7 +8672,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_51770861_51774044_mm683.bw
 shortLabel HL4_mm683
 longLabel HL4_chr7_51770861_51774044_mm683
 type bigWig
-color 89,171,141
+color 10,254,119
 
 track HL4_hs2231
 parent bw_combo_HL4
@@ -8680,7 +8680,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_63955573_63960930_hs2231.bw
 shortLabel HL4_hs2231
 longLabel HL4_chr7_63955573_63960930_hs2231
 type bigWig
-color 10,254,119
+color 190,118,57
 
 track HL4_hs1932
 parent bw_combo_HL4
@@ -8688,7 +8688,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_68010039_68013309_hs1932.bw
 shortLabel HL4_hs1932
 longLabel HL4_chr7_68010039_68013309_hs1932
 type bigWig
-color 190,118,57
+color 63,181,140
 
 track HL4_mm169
 parent bw_combo_HL4
@@ -8696,7 +8696,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_80444728_80445867_mm169.bw
 shortLabel HL4_mm169
 longLabel HL4_chr7_80444728_80445867_mm169
 type bigWig
-color 63,181,140
+color 26,200,231
 
 track HL4_mm1514
 parent bw_combo_HL4
@@ -8704,7 +8704,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_82713770_82714009_mm1514.bw
 shortLabel HL4_mm1514
 longLabel HL4_chr7_82713770_82714009_mm1514
 type bigWig
-color 26,200,231
+color 221,57,41
 
 track HL4_mm729
 parent bw_combo_HL4
@@ -8712,7 +8712,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_83812963_83815862_mm729.bw
 shortLabel HL4_mm729
 longLabel HL4_chr7_83812963_83815862_mm729
 type bigWig
-color 221,57,41
+color 75,154,0
 
 track HL4_mm1534
 parent bw_combo_HL4
@@ -8720,7 +8720,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_93061600_93063759_mm1534.bw
 shortLabel HL4_mm1534
 longLabel HL4_chr7_93061600_93063759_mm1534
 type bigWig
-color 75,154,0
+color 187,100,239
 
 track HL4_hs1435
 parent bw_combo_HL4
@@ -8728,7 +8728,7 @@ bigDataUrl bigwig/HL4/HL4_chr7_98957121_98958830_hs1435.bw
 shortLabel HL4_hs1435
 longLabel HL4_chr7_98957121_98958830_hs1435
 type bigWig
-color 187,100,239
+color 98,96,52
 
 track HL4_hs1760
 parent bw_combo_HL4
@@ -8736,7 +8736,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_104610325_104612550_hs1760.bw
 shortLabel HL4_hs1760
 longLabel HL4_chr8_104610325_104612550_hs1760
 type bigWig
-color 98,96,52
+color 58,7,198
 
 track HL4_hs487
 parent bw_combo_HL4
@@ -8744,7 +8744,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_107338050_107340622_hs487.bw
 shortLabel HL4_hs487
 longLabel HL4_chr8_107338050_107340622_hs487
 type bigWig
-color 58,7,198
+color 139,246,42
 
 track HL4_hs1612
 parent bw_combo_HL4
@@ -8752,7 +8752,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_108025153_108029858_hs1612.bw
 shortLabel HL4_hs1612
 longLabel HL4_chr8_108025153_108029858_hs1612
 type bigWig
-color 139,246,42
+color 192,26,66
 
 track HL4_mm1540
 parent bw_combo_HL4
@@ -8760,7 +8760,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_108243362_108247220_mm1540.bw
 shortLabel HL4_mm1540
 longLabel HL4_chr8_108243362_108247220_mm1540
 type bigWig
-color 192,26,66
+color 205,50,247
 
 track HL4_hs1724
 parent bw_combo_HL4
@@ -8768,7 +8768,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_108453612_108455622_hs1724.bw
 shortLabel HL4_hs1724
 longLabel HL4_chr8_108453612_108455622_hs1724
 type bigWig
-color 205,50,247
+color 201,198,83
 
 track HL4_hs16
 parent bw_combo_HL4
@@ -8776,7 +8776,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_108802073_108804978_hs16.bw
 shortLabel HL4_hs16
 longLabel HL4_chr8_108802073_108804978_hs16
 type bigWig
-color 201,198,83
+color 224,95,205
 
 track HL4_hs20
 parent bw_combo_HL4
@@ -8784,7 +8784,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_109034368_109035777_hs20.bw
 shortLabel HL4_hs20
 longLabel HL4_chr8_109034368_109035777_hs20
 type bigWig
-color 224,95,205
+color 213,223,130
 
 track HL4_hs22
 parent bw_combo_HL4
@@ -8792,7 +8792,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_109436435_109437619_hs22.bw
 shortLabel HL4_hs22
 longLabel HL4_chr8_109436435_109437619_hs22
 type bigWig
-color 213,223,130
+color 211,66,189
 
 track HL4_mm1234
 parent bw_combo_HL4
@@ -8800,7 +8800,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_112266528_112269666_mm1234.bw
 shortLabel HL4_mm1234
 longLabel HL4_chr8_112266528_112269666_mm1234
 type bigWig
-color 211,66,189
+color 10,165,48
 
 track HL4_hs12
 parent bw_combo_HL4
@@ -8808,7 +8808,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_114744948_114746379_hs12.bw
 shortLabel HL4_hs12
 longLabel HL4_chr8_114744948_114746379_hs12
 type bigWig
-color 10,165,48
+color 68,81,216
 
 track HL4_mm1394
 parent bw_combo_HL4
@@ -8816,7 +8816,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_116163336_116166834_mm1394.bw
 shortLabel HL4_mm1394
 longLabel HL4_chr8_116163336_116166834_mm1394
 type bigWig
-color 68,81,216
+color 36,222,166
 
 track HL4_hs4
 parent bw_combo_HL4
@@ -8824,7 +8824,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_116334821_116335120_hs4.bw
 shortLabel HL4_hs4
 longLabel HL4_chr8_116334821_116335120_hs4
 type bigWig
-color 36,222,166
+color 248,113,202
 
 track HL4_hs1959
 parent bw_combo_HL4
@@ -8832,7 +8832,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_118377738_118380044_hs1959.bw
 shortLabel HL4_hs1959
 longLabel HL4_chr8_118377738_118380044_hs1959
 type bigWig
-color 248,113,202
+color 36,208,94
 
 track HL4_mm196
 parent bw_combo_HL4
@@ -8840,7 +8840,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_120291957_120295282_mm196.bw
 shortLabel HL4_mm196
 longLabel HL4_chr8_120291957_120295282_mm196
 type bigWig
-color 36,208,94
+color 104,104,224
 
 track HL4_mm99
 parent bw_combo_HL4
@@ -8848,7 +8848,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_120370796_120373148_mm99.bw
 shortLabel HL4_mm99
 longLabel HL4_chr8_120370796_120373148_mm99
 type bigWig
-color 104,104,224
+color 159,22,80
 
 track HL4_hs1
 parent bw_combo_HL4
@@ -8856,7 +8856,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_121003242_121004501_hs1.bw
 shortLabel HL4_hs1
 longLabel HL4_chr8_121003242_121004501_hs1
 type bigWig
-color 159,22,80
+color 143,69,209
 
 track HL4_mm241
 parent bw_combo_HL4
@@ -8864,7 +8864,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_121170436_121172160_mm241.bw
 shortLabel HL4_mm241
 longLabel HL4_chr8_121170436_121172160_mm241
 type bigWig
-color 143,69,209
+color 235,181,157
 
 track HL4_hs1613
 parent bw_combo_HL4
@@ -8872,7 +8872,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_121300162_121304093_hs1613.bw
 shortLabel HL4_hs1613
 longLabel HL4_chr8_121300162_121304093_hs1613
 type bigWig
-color 235,181,157
+color 124,182,223
 
 track HL4_hs1766
 parent bw_combo_HL4
@@ -8880,7 +8880,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_124645117_124645656_hs1766.bw
 shortLabel HL4_hs1766
 longLabel HL4_chr8_124645117_124645656_hs1766
 type bigWig
-color 124,182,223
+color 43,197,197
 
 track HL4_mm149
 parent bw_combo_HL4
@@ -8888,7 +8888,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_125216764_125219897_mm149.bw
 shortLabel HL4_mm149
 longLabel HL4_chr8_125216764_125219897_mm149
 type bigWig
-color 43,197,197
+color 130,231,215
 
 track HL4_mm1295
 parent bw_combo_HL4
@@ -8896,7 +8896,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_126665385_126667911_mm1295.bw
 shortLabel HL4_mm1295
 longLabel HL4_chr8_126665385_126667911_mm1295
 type bigWig
-color 130,231,215
+color 58,155,207
 
 track HL4_mm1464
 parent bw_combo_HL4
@@ -8904,7 +8904,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_126825987_126827981_mm1464.bw
 shortLabel HL4_mm1464
 longLabel HL4_chr8_126825987_126827981_mm1464
 type bigWig
-color 58,155,207
+color 11,19,217
 
 track HL4_mm610
 parent bw_combo_HL4
@@ -8912,7 +8912,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_25342288_25344367_mm610.bw
 shortLabel HL4_mm610
 longLabel HL4_chr8_25342288_25344367_mm610
 type bigWig
-color 11,19,217
+color 102,93,136
 
 track HL4_mm919
 parent bw_combo_HL4
@@ -8920,7 +8920,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_25439183_25442062_mm919.bw
 shortLabel HL4_mm919
 longLabel HL4_chr8_25439183_25442062_mm919
 type bigWig
-color 102,93,136
+color 73,100,166
 
 track HL4_mm612
 parent bw_combo_HL4
@@ -8928,7 +8928,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_25543015_25545722_mm612.bw
 shortLabel HL4_mm612
 longLabel HL4_chr8_25543015_25545722_mm612
 type bigWig
-color 73,100,166
+color 117,168,160
 
 track HL4_hs631
 parent bw_combo_HL4
@@ -8936,7 +8936,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_26383948_26385856_hs631.bw
 shortLabel HL4_hs631
 longLabel HL4_chr8_26383948_26385856_hs631
 type bigWig
-color 117,168,160
+color 107,50,133
 
 track HL4_hs302
 parent bw_combo_HL4
@@ -8944,7 +8944,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_26688401_26690791_hs302.bw
 shortLabel HL4_hs302
 longLabel HL4_chr8_26688401_26690791_hs302
 type bigWig
-color 107,50,133
+color 102,198,148
 
 track HL4_mm1598
 parent bw_combo_HL4
@@ -8952,7 +8952,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_26831956_26835354_mm1598.bw
 shortLabel HL4_mm1598
 longLabel HL4_chr8_26831956_26835354_mm1598
 type bigWig
-color 102,198,148
+color 107,75,206
 
 track HL4_hs834
 parent bw_combo_HL4
@@ -8960,7 +8960,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_26913124_26915671_hs834.bw
 shortLabel HL4_hs834
 longLabel HL4_chr8_26913124_26915671_hs834
 type bigWig
-color 107,75,206
+color 162,229,164
 
 track HL4_hs1665
 parent bw_combo_HL4
@@ -8968,7 +8968,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_27106921_27108631_hs1665.bw
 shortLabel HL4_hs1665
 longLabel HL4_chr8_27106921_27108631_hs1665
 type bigWig
-color 162,229,164
+color 174,85,133
 
 track HL4_hs1715
 parent bw_combo_HL4
@@ -8976,7 +8976,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_30647197_30648216_hs1715.bw
 shortLabel HL4_hs1715
 longLabel HL4_chr8_30647197_30648216_hs1715
 type bigWig
-color 174,85,133
+color 202,29,245
 
 track HL4_mm151
 parent bw_combo_HL4
@@ -8984,7 +8984,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_31942102_31945215_mm151.bw
 shortLabel HL4_mm151
 longLabel HL4_chr8_31942102_31945215_mm151
 type bigWig
-color 202,29,245
+color 27,249,161
 
 track HL4_mm70
 parent bw_combo_HL4
@@ -8992,7 +8992,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_33904015_33907194_mm70.bw
 shortLabel HL4_mm70
 longLabel HL4_chr8_33904015_33907194_mm70
 type bigWig
-color 27,249,161
+color 155,13,215
 
 track HL4_hs886
 parent bw_combo_HL4
@@ -9000,7 +9000,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_50708002_50709307_hs886.bw
 shortLabel HL4_hs886
 longLabel HL4_chr8_50708002_50709307_hs886
 type bigWig
-color 155,13,215
+color 252,205,45
 
 track HL4_mm1283
 parent bw_combo_HL4
@@ -9008,7 +9008,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_57333089_57334691_mm1283.bw
 shortLabel HL4_mm1283
 longLabel HL4_chr8_57333089_57334691_mm1283
 type bigWig
-color 252,205,45
+color 150,254,224
 
 track HL4_hs2501
 parent bw_combo_HL4
@@ -9016,7 +9016,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_57400803_57402888_hs2501.bw
 shortLabel HL4_hs2501
 longLabel HL4_chr8_57400803_57402888_hs2501
 type bigWig
-color 150,254,224
+color 128,151,232
 
 track HL4_hs1991
 parent bw_combo_HL4
@@ -9024,7 +9024,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_7159040_7161137_hs1991.bw
 shortLabel HL4_hs1991
 longLabel HL4_chr8_7159040_7161137_hs1991
 type bigWig
-color 128,151,232
+color 120,190,145
 
 track HL4_hs759
 parent bw_combo_HL4
@@ -9032,7 +9032,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_7439412_7441407_hs759.bw
 shortLabel HL4_hs759
 longLabel HL4_chr8_7439412_7441407_hs759
 type bigWig
-color 120,190,145
+color 126,52,210
 
 track HL4_hs2100
 parent bw_combo_HL4
@@ -9040,7 +9040,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_77267239_77269565_hs2100.bw
 shortLabel HL4_hs2100
 longLabel HL4_chr8_77267239_77269565_hs2100
 type bigWig
-color 126,52,210
+color 79,7,230
 
 track HL4_mm172
 parent bw_combo_HL4
@@ -9048,7 +9048,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_77987327_77989005_mm172.bw
 shortLabel HL4_mm172
 longLabel HL4_chr8_77987327_77989005_mm172
 type bigWig
-color 79,7,230
+color 18,216,159
 
 track HL4_mm21
 parent bw_combo_HL4
@@ -9056,7 +9056,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_84728869_84733208_mm21.bw
 shortLabel HL4_mm21
 longLabel HL4_chr8_84728869_84733208_mm21
 type bigWig
-color 18,216,159
+color 34,11,226
 
 track HL4_mm985
 parent bw_combo_HL4
@@ -9064,7 +9064,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_8489112_8491483_mm985.bw
 shortLabel HL4_mm985
 longLabel HL4_chr8_8489112_8491483_mm985
 type bigWig
-color 34,11,226
+color 30,185,138
 
 track HL4_mm1336
 parent bw_combo_HL4
@@ -9072,7 +9072,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_87151583_87154666_mm1336.bw
 shortLabel HL4_mm1336
 longLabel HL4_chr8_87151583_87154666_mm1336
 type bigWig
-color 30,185,138
+color 150,169,132
 
 track HL4_hs124
 parent bw_combo_HL4
@@ -9080,7 +9080,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_87269537_87271978_hs124.bw
 shortLabel HL4_hs124
 longLabel HL4_chr8_87269537_87271978_hs124
 type bigWig
-color 150,169,132
+color 234,73,209
 
 track HL4_mm1567
 parent bw_combo_HL4
@@ -9088,7 +9088,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_87659085_87661948_mm1567.bw
 shortLabel HL4_mm1567
 longLabel HL4_chr8_87659085_87661948_mm1567
 type bigWig
-color 234,73,209
+color 28,128,40
 
 track HL4_hs625
 parent bw_combo_HL4
@@ -9096,7 +9096,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_87835386_87837588_hs625.bw
 shortLabel HL4_hs625
 longLabel HL4_chr8_87835386_87837588_hs625
 type bigWig
-color 28,128,40
+color 158,71,232
 
 track HL4_hs85
 parent bw_combo_HL4
@@ -9104,7 +9104,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_88757096_88759531_hs85.bw
 shortLabel HL4_hs85
 longLabel HL4_chr8_88757096_88759531_hs85
 type bigWig
-color 158,71,232
+color 84,134,13
 
 track HL4_hs79
 parent bw_combo_HL4
@@ -9112,7 +9112,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_88938688_88939347_hs79.bw
 shortLabel HL4_hs79
 longLabel HL4_chr8_88938688_88939347_hs79
 type bigWig
-color 84,134,13
+color 115,58,207
 
 track HL4_hs152
 parent bw_combo_HL4
@@ -9120,7 +9120,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_89006393_89008012_hs152.bw
 shortLabel HL4_hs152
 longLabel HL4_chr8_89006393_89008012_hs152
 type bigWig
-color 115,58,207
+color 59,135,86
 
 track HL4_hs76
 parent bw_combo_HL4
@@ -9128,7 +9128,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_89085857_89088201_hs76.bw
 shortLabel HL4_hs76
 longLabel HL4_chr8_89085857_89088201_hs76
 type bigWig
-color 59,135,86
+color 249,224,133
 
 track HL4_mm984
 parent bw_combo_HL4
@@ -9136,7 +9136,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_89270722_89273931_mm984.bw
 shortLabel HL4_mm984
 longLabel HL4_chr8_89270722_89273931_mm984
 type bigWig
-color 249,224,133
+color 53,139,18
 
 track HL4_hs848
 parent bw_combo_HL4
@@ -9144,7 +9144,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_89323434_89324093_hs848.bw
 shortLabel HL4_hs848
 longLabel HL4_chr8_89323434_89324093_hs848
 type bigWig
-color 53,139,18
+color 220,250,241
 
 track HL4_hs74
 parent bw_combo_HL4
@@ -9152,7 +9152,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_89370879_89373004_hs74.bw
 shortLabel HL4_hs74
 longLabel HL4_chr8_89370879_89373004_hs74
 type bigWig
-color 220,250,241
+color 13,8,169
 
 track HL4_hs73
 parent bw_combo_HL4
@@ -9160,7 +9160,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_89386123_89388113_hs73.bw
 shortLabel HL4_hs73
 longLabel HL4_chr8_89386123_89388113_hs73
 type bigWig
-color 13,8,169
+color 69,82,43
 
 track HL4_hs72
 parent bw_combo_HL4
@@ -9168,7 +9168,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_89454202_89456421_hs72.bw
 shortLabel HL4_hs72
 longLabel HL4_chr8_89454202_89456421_hs72
 type bigWig
-color 69,82,43
+color 40,246,36
 
 track HL4_hs71
 parent bw_combo_HL4
@@ -9176,7 +9176,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_89464563_89466842_hs71.bw
 shortLabel HL4_hs71
 longLabel HL4_chr8_89464563_89466842_hs71
 type bigWig
-color 40,246,36
+color 186,186,155
 
 track HL4_hs1300
 parent bw_combo_HL4
@@ -9184,7 +9184,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_90244433_90246705_hs1300.bw
 shortLabel HL4_hs1300
 longLabel HL4_chr8_90244433_90246705_hs1300
 type bigWig
-color 186,186,155
+color 29,180,157
 
 track HL4_mm1237
 parent bw_combo_HL4
@@ -9192,7 +9192,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_90536377_90537503_mm1237.bw
 shortLabel HL4_mm1237
 longLabel HL4_chr8_90536377_90537503_mm1237
 type bigWig
-color 29,180,157
+color 23,213,104
 
 track HL4_mm871
 parent bw_combo_HL4
@@ -9200,7 +9200,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_90738620_90741129_mm871.bw
 shortLabel HL4_mm871
 longLabel HL4_chr8_90738620_90741129_mm871
 type bigWig
-color 23,213,104
+color 230,28,238
 
 track HL4_mm1483
 parent bw_combo_HL4
@@ -9208,7 +9208,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_90861397_90863676_mm1483.bw
 shortLabel HL4_mm1483
 longLabel HL4_chr8_90861397_90863676_mm1483
 type bigWig
-color 230,28,238
+color 63,70,46
 
 track HL4_hs59
 parent bw_combo_HL4
@@ -9216,7 +9216,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_91304283_91307044_hs59.bw
 shortLabel HL4_hs59
 longLabel HL4_chr8_91304283_91307044_hs59
 type bigWig
-color 63,70,46
+color 65,26,186
 
 track HL4_hs52
 parent bw_combo_HL4
@@ -9224,7 +9224,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_91664279_91666184_hs52.bw
 shortLabel HL4_hs52
 longLabel HL4_chr8_91664279_91666184_hs52
 type bigWig
-color 65,26,186
+color 221,232,203
 
 track HL4_hs51
 parent bw_combo_HL4
@@ -9232,7 +9232,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_91804184_91806483_hs51.bw
 shortLabel HL4_hs51
 longLabel HL4_chr8_91804184_91806483_hs51
 type bigWig
-color 221,232,203
+color 234,164,48
 
 track HL4_hs43
 parent bw_combo_HL4
@@ -9240,7 +9240,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_92026331_92028086_hs43.bw
 shortLabel HL4_hs43
 longLabel HL4_chr8_92026331_92028086_hs43
 type bigWig
-color 234,164,48
+color 198,113,245
 
 track HL4_hs37
 parent bw_combo_HL4
@@ -9248,7 +9248,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_92094537_92096701_hs37.bw
 shortLabel HL4_hs37
 longLabel HL4_chr8_92094537_92096701_hs37
 type bigWig
-color 198,113,245
+color 225,44,254
 
 track HL4_hs26
 parent bw_combo_HL4
@@ -9256,7 +9256,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_92544855_92546954_hs26.bw
 shortLabel HL4_hs26
 longLabel HL4_chr8_92544855_92546954_hs26
 type bigWig
-color 225,44,254
+color 27,156,197
 
 track HL4_hs23
 parent bw_combo_HL4
@@ -9264,7 +9264,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_92742728_92744026_hs23.bw
 shortLabel HL4_hs23
 longLabel HL4_chr8_92742728_92744026_hs23
 type bigWig
-color 27,156,197
+color 100,171,149
 
 track HL4_mm71
 parent bw_combo_HL4
@@ -9272,7 +9272,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_95426613_95428502_mm71.bw
 shortLabel HL4_mm71
 longLabel HL4_chr8_95426613_95428502_mm71
 type bigWig
-color 100,171,149
+color 233,113,126
 
 track HL4_hs125
 parent bw_combo_HL4
@@ -9280,7 +9280,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_96696852_96698237_hs125.bw
 shortLabel HL4_hs125
 longLabel HL4_chr8_96696852_96698237_hs125
 type bigWig
-color 233,113,126
+color 242,45,253
 
 track HL4_hs1383
 parent bw_combo_HL4
@@ -9288,7 +9288,7 @@ bigDataUrl bigwig/HL4/HL4_chr8_98309173_98309532_hs1383.bw
 shortLabel HL4_hs1383
 longLabel HL4_chr8_98309173_98309532_hs1383
 type bigWig
-color 242,45,253
+color 58,194,26
 
 track HL4_hs211
 parent bw_combo_HL4
@@ -9296,7 +9296,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_100165938_100168749_hs211.bw
 shortLabel HL4_hs211
 longLabel HL4_chr9_100165938_100168749_hs211
 type bigWig
-color 58,194,26
+color 20,245,124
 
 track HL4_hs210
 parent bw_combo_HL4
@@ -9304,7 +9304,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_100193890_100195317_hs210.bw
 shortLabel HL4_hs210
 longLabel HL4_chr9_100193890_100195317_hs210
 type bigWig
-color 20,245,124
+color 177,62,80
 
 track HL4_hs209
 parent bw_combo_HL4
@@ -9312,7 +9312,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_100212300_100212599_hs209.bw
 shortLabel HL4_hs209
 longLabel HL4_chr9_100212300_100212599_hs209
 type bigWig
-color 177,62,80
+color 45,41,27
 
 track HL4_hs208
 parent bw_combo_HL4
@@ -9320,7 +9320,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_100271267_100273517_hs208.bw
 shortLabel HL4_hs208
 longLabel HL4_chr9_100271267_100273517_hs208
 type bigWig
-color 45,41,27
+color 41,50,219
 
 track HL4_mm303
 parent bw_combo_HL4
@@ -9328,7 +9328,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_103677891_103679390_mm303.bw
 shortLabel HL4_mm303
 longLabel HL4_chr9_103677891_103679390_mm303
 type bigWig
-color 41,50,219
+color 34,117,160
 
 track HL4_mm1475
 parent bw_combo_HL4
@@ -9336,7 +9336,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_106354196_106358399_mm1475.bw
 shortLabel HL4_mm1475
 longLabel HL4_chr9_106354196_106358399_mm1475
 type bigWig
-color 34,117,160
+color 201,192,229
 
 track HL4_hs1747
 parent bw_combo_HL4
@@ -9344,7 +9344,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_107305724_107310205_hs1747.bw
 shortLabel HL4_hs1747
 longLabel HL4_chr9_107305724_107310205_hs1747
 type bigWig
-color 201,192,229
+color 160,91,246
 
 track HL4_hs2517
 parent bw_combo_HL4
@@ -9352,7 +9352,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_107467579_107469833_hs2517.bw
 shortLabel HL4_hs2517
 longLabel HL4_chr9_107467579_107469833_hs2517
 type bigWig
-color 160,91,246
+color 20,201,104
 
 track HL4_hs1557
 parent bw_combo_HL4
@@ -9360,7 +9360,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_118318233_118319432_hs1557.bw
 shortLabel HL4_hs1557
 longLabel HL4_chr9_118318233_118319432_hs1557
 type bigWig
-color 20,201,104
+color 128,87,191
 
 track HL4_hs1961
 parent bw_combo_HL4
@@ -9368,7 +9368,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_118858586_118861839_hs1961.bw
 shortLabel HL4_hs1961
 longLabel HL4_chr9_118858586_118861839_hs1961
 type bigWig
-color 128,87,191
+color 167,195,179
 
 track HL4_hs2267
 parent bw_combo_HL4
@@ -9376,7 +9376,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_119477943_119481579_hs2267.bw
 shortLabel HL4_hs2267
 longLabel HL4_chr9_119477943_119481579_hs2267
 type bigWig
-color 167,195,179
+color 243,58,105
 
 track HL4_hs2177
 parent bw_combo_HL4
@@ -9384,7 +9384,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_119515477_119515956_hs2177.bw
 shortLabel HL4_hs2177
 longLabel HL4_chr9_119515477_119515956_hs2177
 type bigWig
-color 243,58,105
+color 170,197,129
 
 track HL4_mm1406
 parent bw_combo_HL4
@@ -9392,7 +9392,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_120601882_120604575_mm1406.bw
 shortLabel HL4_mm1406
 longLabel HL4_chr9_120601882_120604575_mm1406
 type bigWig
-color 170,197,129
+color 95,73,22
 
 track HL4_mm976
 parent bw_combo_HL4
@@ -9400,7 +9400,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_120619048_120621493_mm976.bw
 shortLabel HL4_mm976
 longLabel HL4_chr9_120619048_120621493_mm976
 type bigWig
-color 95,73,22
+color 1,166,215
 
 track HL4_mm1371
 parent bw_combo_HL4
@@ -9408,7 +9408,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_13697586_13700275_mm1371.bw
 shortLabel HL4_mm1371
 longLabel HL4_chr9_13697586_13700275_mm1371
 type bigWig
-color 1,166,215
+color 159,17,8
 
 track HL4_hs1336
 parent bw_combo_HL4
@@ -9416,7 +9416,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_23377710_23379836_hs1336.bw
 shortLabel HL4_hs1336
 longLabel HL4_chr9_23377710_23379836_hs1336
 type bigWig
-color 159,17,8
+color 234,24,23
 
 track HL4_hs1659
 parent bw_combo_HL4
@@ -9424,7 +9424,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_24887009_24890005_hs1659.bw
 shortLabel HL4_hs1659
 longLabel HL4_chr9_24887009_24890005_hs1659
 type bigWig
-color 234,24,23
+color 51,207,150
 
 track HL4_hs461
 parent bw_combo_HL4
@@ -9432,7 +9432,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_24919040_24921017_hs461.bw
 shortLabel HL4_hs461
 longLabel HL4_chr9_24919040_24921017_hs461
 type bigWig
-color 51,207,150
+color 250,167,61
 
 track HL4_hs472
 parent bw_combo_HL4
@@ -9440,7 +9440,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_24920958_24923839_hs472.bw
 shortLabel HL4_hs472
 longLabel HL4_chr9_24920958_24923839_hs472
 type bigWig
-color 250,167,61
+color 40,153,25
 
 track HL4_hs335
 parent bw_combo_HL4
@@ -9448,7 +9448,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_29318202_29320362_hs335.bw
 shortLabel HL4_hs335
 longLabel HL4_chr9_29318202_29320362_hs335
 type bigWig
-color 40,153,25
+color 12,58,57
 
 track HL4_hs1641
 parent bw_combo_HL4
@@ -9456,7 +9456,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_35423729_35427502_hs1641.bw
 shortLabel HL4_hs1641
 longLabel HL4_chr9_35423729_35427502_hs1641
 type bigWig
-color 12,58,57
+color 115,55,81
 
 track HL4_mm577
 parent bw_combo_HL4
@@ -9464,7 +9464,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_37053023_37055575_mm577.bw
 shortLabel HL4_mm577
 longLabel HL4_chr9_37053023_37055575_mm577
 type bigWig
-color 115,55,81
+color 102,92,216
 
 track HL4_mm1486
 parent bw_combo_HL4
@@ -9472,7 +9472,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_41227681_41229720_mm1486.bw
 shortLabel HL4_mm1486
 longLabel HL4_chr9_41227681_41229720_mm1486
 type bigWig
-color 102,92,216
+color 139,202,27
 
 track HL4_hs872
 parent bw_combo_HL4
@@ -9480,7 +9480,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_41734821_41737667_hs872.bw
 shortLabel HL4_hs872
 longLabel HL4_chr9_41734821_41737667_hs872
 type bigWig
-color 139,202,27
+color 73,114,142
 
 track HL4_mm734
 parent bw_combo_HL4
@@ -9488,7 +9488,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_41889264_41891936_mm734.bw
 shortLabel HL4_mm734
 longLabel HL4_chr9_41889264_41891936_mm734
 type bigWig
-color 73,114,142
+color 183,233,198
 
 track HL4_hs1915
 parent bw_combo_HL4
@@ -9496,7 +9496,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_43564228_43568411_hs1915.bw
 shortLabel HL4_hs1915
 longLabel HL4_chr9_43564228_43568411_hs1915
 type bigWig
-color 183,233,198
+color 233,96,2
 
 track HL4_hs1632
 parent bw_combo_HL4
@@ -9504,7 +9504,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_46380722_46381457_hs1632.bw
 shortLabel HL4_hs1632
 longLabel HL4_chr9_46380722_46381457_hs1632
 type bigWig
-color 233,96,2
+color 203,141,115
 
 track HL4_hs334
 parent bw_combo_HL4
@@ -9512,7 +9512,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_46659205_46661718_hs334.bw
 shortLabel HL4_hs334
 longLabel HL4_chr9_46659205_46661718_hs334
 type bigWig
-color 203,141,115
+color 21,112,104
 
 track HL4_mm251
 parent bw_combo_HL4
@@ -9520,7 +9520,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_47376502_47377881_mm251.bw
 shortLabel HL4_mm251
 longLabel HL4_chr9_47376502_47377881_mm251
 type bigWig
-color 21,112,104
+color 125,72,177
 
 track HL4_hs1311
 parent bw_combo_HL4
@@ -9528,7 +9528,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_52147784_52150724_hs1311.bw
 shortLabel HL4_hs1311
 longLabel HL4_chr9_52147784_52150724_hs1311
 type bigWig
-color 125,72,177
+color 50,137,74
 
 track HL4_hs1510
 parent bw_combo_HL4
@@ -9536,7 +9536,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_57806214_57808082_hs1510.bw
 shortLabel HL4_hs1510
 longLabel HL4_chr9_57806214_57808082_hs1510
 type bigWig
-color 50,137,74
+color 241,181,105
 
 track HL4_hs2161
 parent bw_combo_HL4
@@ -9544,7 +9544,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_58815678_58818974_hs2161.bw
 shortLabel HL4_hs2161
 longLabel HL4_chr9_58815678_58818974_hs2161
 type bigWig
-color 241,181,105
+color 93,152,3
 
 track HL4_mm29
 parent bw_combo_HL4
@@ -9552,7 +9552,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_61601907_61603556_mm29.bw
 shortLabel HL4_mm29
 longLabel HL4_chr9_61601907_61603556_mm29
 type bigWig
-color 93,152,3
+color 173,116,245
 
 track HL4_mm1509
 parent bw_combo_HL4
@@ -9560,7 +9560,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_63058660_63060519_mm1509.bw
 shortLabel HL4_mm1509
 longLabel HL4_chr9_63058660_63060519_mm1509
 type bigWig
-color 173,116,245
+color 86,159,182
 
 track HL4_hs660
 parent bw_combo_HL4
@@ -9568,7 +9568,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_63880099_63881940_hs660.bw
 shortLabel HL4_hs660
 longLabel HL4_chr9_63880099_63881940_hs660
 type bigWig
-color 86,159,182
+color 183,95,55
 
 track HL4_mm1518
 parent bw_combo_HL4
@@ -9576,7 +9576,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_63957814_63961663_mm1518.bw
 shortLabel HL4_mm1518
 longLabel HL4_chr9_63957814_63961663_mm1518
 type bigWig
-color 183,95,55
+color 214,232,240
 
 track HL4_mm69
 parent bw_combo_HL4
@@ -9584,7 +9584,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_64044609_64047508_mm69.bw
 shortLabel HL4_mm69
 longLabel HL4_chr9_64044609_64047508_mm69
 type bigWig
-color 214,232,240
+color 220,244,12
 
 track HL4_hs2160
 parent bw_combo_HL4
@@ -9592,7 +9592,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_67001238_67004639_hs2160.bw
 shortLabel HL4_hs2160
 longLabel HL4_chr9_67001238_67004639_hs2160
 type bigWig
-color 220,244,12
+color 64,17,167
 
 track HL4_mm100
 parent bw_combo_HL4
@@ -9600,7 +9600,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_67040272_67043741_mm100.bw
 shortLabel HL4_mm100
 longLabel HL4_chr9_67040272_67043741_mm100
 type bigWig
-color 64,17,167
+color 163,75,137
 
 track HL4_mm190
 parent bw_combo_HL4
@@ -9608,7 +9608,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_70833820_70835019_mm190.bw
 shortLabel HL4_mm190
 longLabel HL4_chr9_70833820_70835019_mm190
 type bigWig
-color 163,75,137
+color 177,76,101
 
 track HL4_hs357
 parent bw_combo_HL4
@@ -9616,7 +9616,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_71975239_71977030_hs357.bw
 shortLabel HL4_hs357
 longLabel HL4_chr9_71975239_71977030_hs357
 type bigWig
-color 177,76,101
+color 114,173,230
 
 track HL4_mm1473
 parent bw_combo_HL4
@@ -9624,7 +9624,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_72639093_72641442_mm1473.bw
 shortLabel HL4_mm1473
 longLabel HL4_chr9_72639093_72641442_mm1473
 type bigWig
-color 114,173,230
+color 91,146,227
 
 track HL4_mm1553
 parent bw_combo_HL4
@@ -9632,7 +9632,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_86186444_86188315_mm1553.bw
 shortLabel HL4_mm1553
 longLabel HL4_chr9_86186444_86188315_mm1553
 type bigWig
-color 91,146,227
+color 75,167,129
 
 track HL4_mm898
 parent bw_combo_HL4
@@ -9640,7 +9640,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_88048620_88051438_mm898.bw
 shortLabel HL4_mm898
 longLabel HL4_chr9_88048620_88051438_mm898
 type bigWig
-color 75,167,129
+color 14,216,243
 
 track HL4_hs654
 parent bw_combo_HL4
@@ -9648,7 +9648,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_90690384_90694866_hs654.bw
 shortLabel HL4_hs654
 longLabel HL4_chr9_90690384_90694866_hs654
 type bigWig
-color 14,216,243
+color 61,176,63
 
 track HL4_hs1573
 parent bw_combo_HL4
@@ -9656,7 +9656,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_90901997_90905096_hs1573.bw
 shortLabel HL4_hs1573
 longLabel HL4_chr9_90901997_90905096_hs1573
 type bigWig
-color 61,176,63
+color 247,225,169
 
 track HL4_hs1173
 parent bw_combo_HL4
@@ -9664,7 +9664,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_91087772_91089718_hs1173.bw
 shortLabel HL4_hs1173
 longLabel HL4_chr9_91087772_91089718_hs1173
 type bigWig
-color 247,225,169
+color 148,244,246
 
 track HL4_hs1043
 parent bw_combo_HL4
@@ -9672,7 +9672,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_91366736_91368708_hs1043.bw
 shortLabel HL4_hs1043
 longLabel HL4_chr9_91366736_91368708_hs1043
 type bigWig
-color 148,244,246
+color 195,82,197
 
 track HL4_hs212
 parent bw_combo_HL4
@@ -9680,7 +9680,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_91462281_91464470_hs212.bw
 shortLabel HL4_hs212
 longLabel HL4_chr9_91462281_91464470_hs212
 type bigWig
-color 195,82,197
+color 218,76,181
 
 track HL4_mm1367
 parent bw_combo_HL4
@@ -9688,7 +9688,7 @@ bigDataUrl bigwig/HL4/HL4_chr9_95813636_95815677_mm1367.bw
 shortLabel HL4_mm1367
 longLabel HL4_chr9_95813636_95815677_mm1367
 type bigWig
-color 218,76,181
+color 52,124,46
 
 track HL4_hs582
 parent bw_combo_HL4
@@ -9696,7 +9696,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_109844265_109846264_hs582.bw
 shortLabel HL4_hs582
 longLabel HL4_chrX_109844265_109846264_hs582
 type bigWig
-color 52,124,46
+color 97,235,54
 
 track HL4_hs426
 parent bw_combo_HL4
@@ -9704,7 +9704,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_110077512_110081651_hs426.bw
 shortLabel HL4_hs426
 longLabel HL4_chrX_110077512_110081651_hs426
 type bigWig
-color 97,235,54
+color 40,222,72
 
 track HL4_hs1745
 parent bw_combo_HL4
@@ -9712,7 +9712,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_42342297_42344576_hs1745.bw
 shortLabel HL4_hs1745
 longLabel HL4_chrX_42342297_42344576_hs1745
 type bigWig
-color 40,222,72
+color 166,64,67
 
 track HL4_hs755
 parent bw_combo_HL4
@@ -9720,7 +9720,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_57708996_57709535_hs755.bw
 shortLabel HL4_hs755
 longLabel HL4_chrX_57708996_57709535_hs755
 type bigWig
-color 166,64,67
+color 241,102,92
 
 track HL4_hs667
 parent bw_combo_HL4
@@ -9728,7 +9728,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_60719058_60719657_hs667.bw
 shortLabel HL4_hs667
 longLabel HL4_chrX_60719058_60719657_hs667
 type bigWig
-color 241,102,92
+color 178,83,10
 
 track HL4_hs1746
 parent bw_combo_HL4
@@ -9736,7 +9736,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_71700621_71701820_hs1746.bw
 shortLabel HL4_hs1746
 longLabel HL4_chrX_71700621_71701820_hs1746
 type bigWig
-color 178,83,10
+color 194,34,89
 
 track HL4_hs123
 parent bw_combo_HL4
@@ -9744,7 +9744,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_92789906_92792244_hs123.bw
 shortLabel HL4_hs123
 longLabel HL4_chrX_92789906_92792244_hs123
 type bigWig
-color 194,34,89
+color 49,26,12
 
 track HL4_hs122
 parent bw_combo_HL4
@@ -9752,7 +9752,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_93301849_93302906_hs122.bw
 shortLabel HL4_hs122
 longLabel HL4_chrX_93301849_93302906_hs122
 type bigWig
-color 49,26,12
+color 232,222,234
 
 track HL4_hs121
 parent bw_combo_HL4
@@ -9760,7 +9760,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_93309562_93311996_hs121.bw
 shortLabel HL4_hs121
 longLabel HL4_chrX_93309562_93311996_hs121
 type bigWig
-color 232,222,234
+color 43,60,228
 
 track HL4_hs120
 parent bw_combo_HL4
@@ -9768,7 +9768,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_93376736_93378944_hs120.bw
 shortLabel HL4_hs120
 longLabel HL4_chrX_93376736_93378944_hs120
 type bigWig
-color 43,60,228
+color 136,211,94
 
 track HL4_hs119
 parent bw_combo_HL4
@@ -9776,7 +9776,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_93408470_93410498_hs119.bw
 shortLabel HL4_hs119
 longLabel HL4_chrX_93408470_93410498_hs119
 type bigWig
-color 136,211,94
+color 16,93,194
 
 track HL4_hs117
 parent bw_combo_HL4
@@ -9784,7 +9784,7 @@ bigDataUrl bigwig/HL4/HL4_chrX_93457256_93459111_hs117.bw
 shortLabel HL4_hs117
 longLabel HL4_chrX_93457256_93459111_hs117
 type bigWig
-color 16,93,194
+color 54,227,202
 
 track HL4_hs116
 parent bw_combo_HL4
@@ -9792,5 +9792,5 @@ bigDataUrl bigwig/HL4/HL4_chrX_93497268_93497927_hs116.bw
 shortLabel HL4_hs116
 longLabel HL4_chrX_93497268_93497927_hs116
 type bigWig
-color 54,227,202
+color 39,185,158
 
