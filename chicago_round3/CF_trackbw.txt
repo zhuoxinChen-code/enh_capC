@@ -10,14 +10,6 @@ visibility full
 type bigWig
 maxHeightPixels 50:40:10
 
-track CF_CNS65
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_CNS65.bw
-shortLabel CF_CNS65_chicago3
-longLabel CF_CNS65_chicago3
-type bigWig
-color 190,79,31
-
 track CF_HLEA
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_HLEA.bw
@@ -33,14 +25,6 @@ shortLabel CF_HLEB_chicago3
 longLabel CF_HLEB_chicago3
 type bigWig
 color 62,139,82
-
-track CF_hs1
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1.bw
-shortLabel CF_hs1_chicago3
-longLabel CF_hs1_chicago3
-type bigWig
-color 143,69,209
 
 track CF_hs1001
 parent bw_chicago3_CF
@@ -65,14 +49,6 @@ shortLabel CF_hs1007_chicago3
 longLabel CF_hs1007_chicago3
 type bigWig
 color 61,208,63
-
-track CF_hs1011
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1011.bw
-shortLabel CF_hs1011_chicago3
-longLabel CF_hs1011_chicago3
-type bigWig
-color 178,199,203
 
 track CF_hs1017
 parent bw_chicago3_CF
@@ -394,6 +370,14 @@ longLabel CF_hs1139_chicago3
 type bigWig
 color 181,1,20
 
+track CF_hs1147
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1147.bw
+shortLabel CF_hs1147_chicago3
+longLabel CF_hs1147_chicago3
+type bigWig
+color 99,196,73
+
 track CF_hs1148
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1148.bw
@@ -401,14 +385,6 @@ shortLabel CF_hs1148_chicago3
 longLabel CF_hs1148_chicago3
 type bigWig
 color 135,177,95
-
-track CF_hs1150
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1150.bw
-shortLabel CF_hs1150_chicago3
-longLabel CF_hs1150_chicago3
-type bigWig
-color 65,188,77
 
 track CF_hs1151
 parent bw_chicago3_CF
@@ -441,14 +417,6 @@ shortLabel CF_hs116_chicago3
 longLabel CF_hs116_chicago3
 type bigWig
 color 39,185,158
-
-track CF_hs1161
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1161.bw
-shortLabel CF_hs1161_chicago3
-longLabel CF_hs1161_chicago3
-type bigWig
-color 114,37,74
 
 track CF_hs1163
 parent bw_chicago3_CF
@@ -529,14 +497,6 @@ shortLabel CF_hs1175_chicago3
 longLabel CF_hs1175_chicago3
 type bigWig
 color 177,76,214
-
-track CF_hs1180
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1180.bw
-shortLabel CF_hs1180_chicago3
-longLabel CF_hs1180_chicago3
-type bigWig
-color 191,185,192
 
 track CF_hs1185
 parent bw_chicago3_CF
@@ -642,14 +602,6 @@ longLabel CF_hs1213_chicago3
 type bigWig
 color 147,251,155
 
-track CF_hs1217
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1217.bw
-shortLabel CF_hs1217_chicago3
-longLabel CF_hs1217_chicago3
-type bigWig
-color 74,68,156
-
 track CF_hs1218
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1218.bw
@@ -713,14 +665,6 @@ shortLabel CF_hs1236_chicago3
 longLabel CF_hs1236_chicago3
 type bigWig
 color 202,224,88
-
-track CF_hs124
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs124.bw
-shortLabel CF_hs124_chicago3
-longLabel CF_hs124_chicago3
-type bigWig
-color 234,73,209
 
 track CF_hs1247
 parent bw_chicago3_CF
@@ -1058,30 +1002,6 @@ longLabel CF_hs1345_chicago3
 type bigWig
 color 211,147,214
 
-track CF_hs1350
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1350.bw
-shortLabel CF_hs1350_chicago3
-longLabel CF_hs1350_chicago3
-type bigWig
-color 177,8,156
-
-track CF_hs1351
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1351.bw
-shortLabel CF_hs1351_chicago3
-longLabel CF_hs1351_chicago3
-type bigWig
-color 56,161,145
-
-track CF_hs1352
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1352.bw
-shortLabel CF_hs1352_chicago3
-longLabel CF_hs1352_chicago3
-type bigWig
-color 126,103,57
-
 track CF_hs1358
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1358.bw
@@ -1122,14 +1042,6 @@ longLabel CF_hs1362_chicago3
 type bigWig
 color 14,10,17
 
-track CF_hs1363
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1363.bw
-shortLabel CF_hs1363_chicago3
-longLabel CF_hs1363_chicago3
-type bigWig
-color 151,160,107
-
 track CF_hs1364
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1364.bw
@@ -1138,13 +1050,13 @@ longLabel CF_hs1364_chicago3
 type bigWig
 color 154,109,171
 
-track CF_hs1366
+track CF_hs1368
 parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1366.bw
-shortLabel CF_hs1366_chicago3
-longLabel CF_hs1366_chicago3
+bigDataUrl bw/CF/CF_hs1368.bw
+shortLabel CF_hs1368_chicago3
+longLabel CF_hs1368_chicago3
 type bigWig
-color 180,242,157
+color 195,198,98
 
 track CF_hs1369
 parent bw_chicago3_CF
@@ -1154,14 +1066,6 @@ longLabel CF_hs1369_chicago3
 type bigWig
 color 157,231,208
 
-track CF_hs1371
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1371.bw
-shortLabel CF_hs1371_chicago3
-longLabel CF_hs1371_chicago3
-type bigWig
-color 30,46,114
-
 track CF_hs1374
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1374.bw
@@ -1169,14 +1073,6 @@ shortLabel CF_hs1374_chicago3
 longLabel CF_hs1374_chicago3
 type bigWig
 color 202,92,244
-
-track CF_hs1375
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1375.bw
-shortLabel CF_hs1375_chicago3
-longLabel CF_hs1375_chicago3
-type bigWig
-color 140,235,143
 
 track CF_hs138
 parent bw_chicago3_CF
@@ -1210,13 +1106,13 @@ longLabel CF_hs1385_chicago3
 type bigWig
 color 239,95,231
 
-track CF_hs1387
+track CF_hs1386
 parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1387.bw
-shortLabel CF_hs1387_chicago3
-longLabel CF_hs1387_chicago3
+bigDataUrl bw/CF/CF_hs1386.bw
+shortLabel CF_hs1386_chicago3
+longLabel CF_hs1386_chicago3
 type bigWig
-color 146,53,39
+color 67,159,107
 
 track CF_hs1388
 parent bw_chicago3_CF
@@ -1273,14 +1169,6 @@ shortLabel CF_hs1397_chicago3
 longLabel CF_hs1397_chicago3
 type bigWig
 color 44,220,204
-
-track CF_hs140
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs140.bw
-shortLabel CF_hs140_chicago3
-longLabel CF_hs140_chicago3
-type bigWig
-color 59,153,65
 
 track CF_hs1413
 parent bw_chicago3_CF
@@ -1345,14 +1233,6 @@ shortLabel CF_hs1427_chicago3
 longLabel CF_hs1427_chicago3
 type bigWig
 color 206,44,123
-
-track CF_hs1428
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1428.bw
-shortLabel CF_hs1428_chicago3
-longLabel CF_hs1428_chicago3
-type bigWig
-color 39,64,78
 
 track CF_hs1430
 parent bw_chicago3_CF
@@ -1514,6 +1394,14 @@ longLabel CF_hs1472_chicago3
 type bigWig
 color 163,248,135
 
+track CF_hs1473
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1473.bw
+shortLabel CF_hs1473_chicago3
+longLabel CF_hs1473_chicago3
+type bigWig
+color 62,19,243
+
 track CF_hs1475
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1475.bw
@@ -1529,14 +1417,6 @@ shortLabel CF_hs1477_chicago3
 longLabel CF_hs1477_chicago3
 type bigWig
 color 61,193,114
-
-track CF_hs1479
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1479.bw
-shortLabel CF_hs1479_chicago3
-longLabel CF_hs1479_chicago3
-type bigWig
-color 102,142,44
 
 track CF_hs1482
 parent bw_chicago3_CF
@@ -1642,14 +1522,6 @@ longLabel CF_hs1510_chicago3
 type bigWig
 color 241,181,105
 
-track CF_hs1516
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1516.bw
-shortLabel CF_hs1516_chicago3
-longLabel CF_hs1516_chicago3
-type bigWig
-color 246,127,69
-
 track CF_hs1517
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1517.bw
@@ -1666,14 +1538,6 @@ longLabel CF_hs152_chicago3
 type bigWig
 color 59,135,86
 
-track CF_hs1526
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1526.bw
-shortLabel CF_hs1526_chicago3
-longLabel CF_hs1526_chicago3
-type bigWig
-color 146,216,22
-
 track CF_hs1530
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1530.bw
@@ -1681,14 +1545,6 @@ shortLabel CF_hs1530_chicago3
 longLabel CF_hs1530_chicago3
 type bigWig
 color 131,91,80
-
-track CF_hs1533
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1533.bw
-shortLabel CF_hs1533_chicago3
-longLabel CF_hs1533_chicago3
-type bigWig
-color 162,55,248
 
 track CF_hs1534
 parent bw_chicago3_CF
@@ -1722,14 +1578,6 @@ longLabel CF_hs1538_chicago3
 type bigWig
 color 101,47,86
 
-track CF_hs1539
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1539.bw
-shortLabel CF_hs1539_chicago3
-longLabel CF_hs1539_chicago3
-type bigWig
-color 187,110,206
-
 track CF_hs1543
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1543.bw
@@ -1737,14 +1585,6 @@ shortLabel CF_hs1543_chicago3
 longLabel CF_hs1543_chicago3
 type bigWig
 color 127,154,79
-
-track CF_hs1544
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1544.bw
-shortLabel CF_hs1544_chicago3
-longLabel CF_hs1544_chicago3
-type bigWig
-color 44,16,53
 
 track CF_hs1545
 parent bw_chicago3_CF
@@ -1842,14 +1682,6 @@ longLabel CF_hs1567_chicago3
 type bigWig
 color 190,219,206
 
-track CF_hs1568
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1568.bw
-shortLabel CF_hs1568_chicago3
-longLabel CF_hs1568_chicago3
-type bigWig
-color 137,186,125
-
 track CF_hs1571
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1571.bw
@@ -1858,14 +1690,6 @@ longLabel CF_hs1571_chicago3
 type bigWig
 color 89,74,45
 
-track CF_hs1573
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1573.bw
-shortLabel CF_hs1573_chicago3
-longLabel CF_hs1573_chicago3
-type bigWig
-color 247,225,169
-
 track CF_hs1574
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1574.bw
@@ -1873,6 +1697,14 @@ shortLabel CF_hs1574_chicago3
 longLabel CF_hs1574_chicago3
 type bigWig
 color 222,3,37
+
+track CF_hs1575
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1575.bw
+shortLabel CF_hs1575_chicago3
+longLabel CF_hs1575_chicago3
+type bigWig
+color 19,9,40
 
 track CF_hs1577
 parent bw_chicago3_CF
@@ -2242,14 +2074,6 @@ longLabel CF_hs1668_chicago3
 type bigWig
 color 144,60,147
 
-track CF_hs1672
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1672.bw
-shortLabel CF_hs1672_chicago3
-longLabel CF_hs1672_chicago3
-type bigWig
-color 96,4,167
-
 track CF_hs1673
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1673.bw
@@ -2298,13 +2122,13 @@ longLabel CF_hs1681_chicago3
 type bigWig
 color 99,136,210
 
-track CF_hs1683
+track CF_hs1684
 parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1683.bw
-shortLabel CF_hs1683_chicago3
-longLabel CF_hs1683_chicago3
+bigDataUrl bw/CF/CF_hs1684.bw
+shortLabel CF_hs1684_chicago3
+longLabel CF_hs1684_chicago3
 type bigWig
-color 222,20,60
+color 35,93,214
 
 track CF_hs1699
 parent bw_chicago3_CF
@@ -2370,14 +2194,6 @@ longLabel CF_hs1723_chicago3
 type bigWig
 color 114,10,119
 
-track CF_hs1724
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1724.bw
-shortLabel CF_hs1724_chicago3
-longLabel CF_hs1724_chicago3
-type bigWig
-color 201,198,83
-
 track CF_hs1725
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1725.bw
@@ -2409,14 +2225,6 @@ shortLabel CF_hs1738_chicago3
 longLabel CF_hs1738_chicago3
 type bigWig
 color 198,82,49
-
-track CF_hs1741
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1741.bw
-shortLabel CF_hs1741_chicago3
-longLabel CF_hs1741_chicago3
-type bigWig
-color 245,239,99
 
 track CF_hs1743
 parent bw_chicago3_CF
@@ -2458,6 +2266,14 @@ longLabel CF_hs1750_chicago3
 type bigWig
 color 74,212,214
 
+track CF_hs1751
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1751.bw
+shortLabel CF_hs1751_chicago3
+longLabel CF_hs1751_chicago3
+type bigWig
+color 86,86,95
+
 track CF_hs1752
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1752.bw
@@ -2482,22 +2298,6 @@ longLabel CF_hs1763_chicago3
 type bigWig
 color 30,73,61
 
-track CF_hs1764
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1764.bw
-shortLabel CF_hs1764_chicago3
-longLabel CF_hs1764_chicago3
-type bigWig
-color 38,196,17
-
-track CF_hs1766
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1766.bw
-shortLabel CF_hs1766_chicago3
-longLabel CF_hs1766_chicago3
-type bigWig
-color 43,197,197
-
 track CF_hs1767
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1767.bw
@@ -2513,6 +2313,14 @@ shortLabel CF_hs1769_chicago3
 longLabel CF_hs1769_chicago3
 type bigWig
 color 55,193,0
+
+track CF_hs1783
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1783.bw
+shortLabel CF_hs1783_chicago3
+longLabel CF_hs1783_chicago3
+type bigWig
+color 229,219,169
 
 track CF_hs1791
 parent bw_chicago3_CF
@@ -2537,14 +2345,6 @@ shortLabel CF_hs1800_chicago3
 longLabel CF_hs1800_chicago3
 type bigWig
 color 14,158,183
-
-track CF_hs1802
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1802.bw
-shortLabel CF_hs1802_chicago3
-longLabel CF_hs1802_chicago3
-type bigWig
-color 17,108,0
 
 track CF_hs1809
 parent bw_chicago3_CF
@@ -2593,14 +2393,6 @@ shortLabel CF_hs1862_chicago3
 longLabel CF_hs1862_chicago3
 type bigWig
 color 169,199,59
-
-track CF_hs187
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs187.bw
-shortLabel CF_hs187_chicago3
-longLabel CF_hs187_chicago3
-type bigWig
-color 155,110,128
 
 track CF_hs1875
 parent bw_chicago3_CF
@@ -2738,6 +2530,14 @@ longLabel CF_hs1933_chicago3
 type bigWig
 color 217,9,70
 
+track CF_hs1937
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1937.bw
+shortLabel CF_hs1937_chicago3
+longLabel CF_hs1937_chicago3
+type bigWig
+color 83,89,32
+
 track CF_hs194
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs194.bw
@@ -2746,14 +2546,6 @@ longLabel CF_hs194_chicago3
 type bigWig
 color 114,91,8
 
-track CF_hs1941
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1941.bw
-shortLabel CF_hs1941_chicago3
-longLabel CF_hs1941_chicago3
-type bigWig
-color 107,2,155
-
 track CF_hs195
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs195.bw
@@ -2761,14 +2553,6 @@ shortLabel CF_hs195_chicago3
 longLabel CF_hs195_chicago3
 type bigWig
 color 254,104,155
-
-track CF_hs1951
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs1951.bw
-shortLabel CF_hs1951_chicago3
-longLabel CF_hs1951_chicago3
-type bigWig
-color 95,24,96
 
 track CF_hs1955
 parent bw_chicago3_CF
@@ -2842,14 +2626,6 @@ longLabel CF_hs1977_chicago3
 type bigWig
 color 82,119,89
 
-track CF_hs198
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs198.bw
-shortLabel CF_hs198_chicago3
-longLabel CF_hs198_chicago3
-type bigWig
-color 118,114,191
-
 track CF_hs1991
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs1991.bw
@@ -2865,6 +2641,14 @@ shortLabel CF_hs20_chicago3
 longLabel CF_hs20_chicago3
 type bigWig
 color 213,223,130
+
+track CF_hs200
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs200.bw
+shortLabel CF_hs200_chicago3
+longLabel CF_hs200_chicago3
+type bigWig
+color 174,92,161
 
 track CF_hs201
 parent bw_chicago3_CF
@@ -2897,14 +2681,6 @@ shortLabel CF_hs203_chicago3
 longLabel CF_hs203_chicago3
 type bigWig
 color 110,76,197
-
-track CF_hs204
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs204.bw
-shortLabel CF_hs204_chicago3
-longLabel CF_hs204_chicago3
-type bigWig
-color 159,70,250
 
 track CF_hs205
 parent bw_chicago3_CF
@@ -2945,14 +2721,6 @@ shortLabel CF_hs2064_chicago3
 longLabel CF_hs2064_chicago3
 type bigWig
 color 124,111,135
-
-track CF_hs2065
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs2065.bw
-shortLabel CF_hs2065_chicago3
-longLabel CF_hs2065_chicago3
-type bigWig
-color 185,6,132
 
 track CF_hs207
 parent bw_chicago3_CF
@@ -3002,14 +2770,6 @@ longLabel CF_hs2078_chicago3
 type bigWig
 color 222,43,243
 
-track CF_hs208
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs208.bw
-shortLabel CF_hs208_chicago3
-longLabel CF_hs208_chicago3
-type bigWig
-color 41,50,219
-
 track CF_hs2081
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs2081.bw
@@ -3041,6 +2801,14 @@ shortLabel CF_hs2089_chicago3
 longLabel CF_hs2089_chicago3
 type bigWig
 color 143,92,119
+
+track CF_hs209
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs209.bw
+shortLabel CF_hs209_chicago3
+longLabel CF_hs209_chicago3
+type bigWig
+color 45,41,27
 
 track CF_hs2094
 parent bw_chicago3_CF
@@ -3089,14 +2857,6 @@ shortLabel CF_hs212_chicago3
 longLabel CF_hs212_chicago3
 type bigWig
 color 218,76,181
-
-track CF_hs2121
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs2121.bw
-shortLabel CF_hs2121_chicago3
-longLabel CF_hs2121_chicago3
-type bigWig
-color 36,137,190
 
 track CF_hs2125
 parent bw_chicago3_CF
@@ -3153,14 +2913,6 @@ shortLabel CF_hs2160_chicago3
 longLabel CF_hs2160_chicago3
 type bigWig
 color 64,17,167
-
-track CF_hs2161
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs2161.bw
-shortLabel CF_hs2161_chicago3
-longLabel CF_hs2161_chicago3
-type bigWig
-color 93,152,3
 
 track CF_hs217
 parent bw_chicago3_CF
@@ -3346,14 +3098,6 @@ longLabel CF_hs2271_chicago3
 type bigWig
 color 151,109,134
 
-track CF_hs228
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs228.bw
-shortLabel CF_hs228_chicago3
-longLabel CF_hs228_chicago3
-type bigWig
-color 179,194,137
-
 track CF_hs229
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs229.bw
@@ -3385,14 +3129,6 @@ shortLabel CF_hs2306_chicago3
 longLabel CF_hs2306_chicago3
 type bigWig
 color 205,183,158
-
-track CF_hs2307
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs2307.bw
-shortLabel CF_hs2307_chicago3
-longLabel CF_hs2307_chicago3
-type bigWig
-color 211,38,42
 
 track CF_hs2308
 parent bw_chicago3_CF
@@ -3490,14 +3226,6 @@ longLabel CF_hs2330_chicago3
 type bigWig
 color 241,46,73
 
-track CF_hs2335
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs2335.bw
-shortLabel CF_hs2335_chicago3
-longLabel CF_hs2335_chicago3
-type bigWig
-color 41,93,93
-
 track CF_hs2336
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs2336.bw
@@ -3594,14 +3322,6 @@ longLabel CF_hs2414_chicago3
 type bigWig
 color 45,179,132
 
-track CF_hs2419
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs2419.bw
-shortLabel CF_hs2419_chicago3
-longLabel CF_hs2419_chicago3
-type bigWig
-color 67,66,22
-
 track CF_hs242
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs242.bw
@@ -3674,14 +3394,6 @@ longLabel CF_hs2493_chicago3
 type bigWig
 color 60,157,171
 
-track CF_hs250
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs250.bw
-shortLabel CF_hs250_chicago3
-longLabel CF_hs250_chicago3
-type bigWig
-color 80,11,67
-
 track CF_hs2501
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs2501.bw
@@ -3738,14 +3450,6 @@ longLabel CF_hs254_chicago3
 type bigWig
 color 137,128,130
 
-track CF_hs255
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs255.bw
-shortLabel CF_hs255_chicago3
-longLabel CF_hs255_chicago3
-type bigWig
-color 158,249,218
-
 track CF_hs256
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs256.bw
@@ -3770,14 +3474,6 @@ longLabel CF_hs258_chicago3
 type bigWig
 color 205,242,52
 
-track CF_hs259
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs259.bw
-shortLabel CF_hs259_chicago3
-longLabel CF_hs259_chicago3
-type bigWig
-color 148,80,205
-
 track CF_hs260
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs260.bw
@@ -3786,14 +3482,6 @@ longLabel CF_hs260_chicago3
 type bigWig
 color 110,172,105
 
-track CF_hs261
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs261.bw
-shortLabel CF_hs261_chicago3
-longLabel CF_hs261_chicago3
-type bigWig
-color 118,38,214
-
 track CF_hs262
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs262.bw
@@ -3801,6 +3489,14 @@ shortLabel CF_hs262_chicago3
 longLabel CF_hs262_chicago3
 type bigWig
 color 192,97,248
+
+track CF_hs263
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs263.bw
+shortLabel CF_hs263_chicago3
+longLabel CF_hs263_chicago3
+type bigWig
+color 118,147,122
 
 track CF_hs264
 parent bw_chicago3_CF
@@ -3978,14 +3674,6 @@ longLabel CF_hs286_chicago3
 type bigWig
 color 241,7,224
 
-track CF_hs288
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs288.bw
-shortLabel CF_hs288_chicago3
-longLabel CF_hs288_chicago3
-type bigWig
-color 135,209,61
-
 track CF_hs289
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs289.bw
@@ -4122,13 +3810,13 @@ longLabel CF_hs309_chicago3
 type bigWig
 color 210,253,191
 
-track CF_hs311
+track CF_hs310
 parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs311.bw
-shortLabel CF_hs311_chicago3
-longLabel CF_hs311_chicago3
+bigDataUrl bw/CF/CF_hs310.bw
+shortLabel CF_hs310_chicago3
+longLabel CF_hs310_chicago3
 type bigWig
-color 122,44,232
+color 235,146,55
 
 track CF_hs312
 parent bw_chicago3_CF
@@ -4186,6 +3874,14 @@ longLabel CF_hs319_chicago3
 type bigWig
 color 245,85,141
 
+track CF_hs320
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs320.bw
+shortLabel CF_hs320_chicago3
+longLabel CF_hs320_chicago3
+type bigWig
+color 193,154,105
+
 track CF_hs321
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs321.bw
@@ -4242,14 +3938,6 @@ longLabel CF_hs330_chicago3
 type bigWig
 color 174,28,13
 
-track CF_hs331
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs331.bw
-shortLabel CF_hs331_chicago3
-longLabel CF_hs331_chicago3
-type bigWig
-color 70,182,194
-
 track CF_hs333
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs333.bw
@@ -4298,22 +3986,6 @@ longLabel CF_hs338_chicago3
 type bigWig
 color 254,105,196
 
-track CF_hs339
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs339.bw
-shortLabel CF_hs339_chicago3
-longLabel CF_hs339_chicago3
-type bigWig
-color 213,214,95
-
-track CF_hs340
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs340.bw
-shortLabel CF_hs340_chicago3
-longLabel CF_hs340_chicago3
-type bigWig
-color 155,17,184
-
 track CF_hs342
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs342.bw
@@ -4337,6 +4009,14 @@ shortLabel CF_hs344_chicago3
 longLabel CF_hs344_chicago3
 type bigWig
 color 136,68,159
+
+track CF_hs345
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs345.bw
+shortLabel CF_hs345_chicago3
+longLabel CF_hs345_chicago3
+type bigWig
+color 172,140,254
 
 track CF_hs346
 parent bw_chicago3_CF
@@ -4489,14 +4169,6 @@ shortLabel CF_hs37_chicago3
 longLabel CF_hs37_chicago3
 type bigWig
 color 225,44,254
-
-track CF_hs370
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs370.bw
-shortLabel CF_hs370_chicago3
-longLabel CF_hs370_chicago3
-type bigWig
-color 77,105,97
 
 track CF_hs371
 parent bw_chicago3_CF
@@ -4706,6 +4378,14 @@ longLabel CF_hs404_chicago3
 type bigWig
 color 39,2,61
 
+track CF_hs407
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs407.bw
+shortLabel CF_hs407_chicago3
+longLabel CF_hs407_chicago3
+type bigWig
+color 121,110,19
+
 track CF_hs408
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs408.bw
@@ -4713,14 +4393,6 @@ shortLabel CF_hs408_chicago3
 longLabel CF_hs408_chicago3
 type bigWig
 color 144,146,167
-
-track CF_hs409
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs409.bw
-shortLabel CF_hs409_chicago3
-longLabel CF_hs409_chicago3
-type bigWig
-color 181,28,134
 
 track CF_hs410
 parent bw_chicago3_CF
@@ -4882,6 +4554,22 @@ longLabel CF_hs442_chicago3
 type bigWig
 color 103,240,34
 
+track CF_hs461
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs461.bw
+shortLabel CF_hs461_chicago3
+longLabel CF_hs461_chicago3
+type bigWig
+color 250,167,61
+
+track CF_hs472
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs472.bw
+shortLabel CF_hs472_chicago3
+longLabel CF_hs472_chicago3
+type bigWig
+color 40,153,25
+
 track CF_hs476
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs476.bw
@@ -5018,14 +4706,6 @@ longLabel CF_hs516_chicago3
 type bigWig
 color 51,172,198
 
-track CF_hs52
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs52.bw
-shortLabel CF_hs52_chicago3
-longLabel CF_hs52_chicago3
-type bigWig
-color 221,232,203
-
 track CF_hs521
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs521.bw
@@ -5066,6 +4746,14 @@ longLabel CF_hs532_chicago3
 type bigWig
 color 81,138,225
 
+track CF_hs533
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs533.bw
+shortLabel CF_hs533_chicago3
+longLabel CF_hs533_chicago3
+type bigWig
+color 89,235,154
+
 track CF_hs536
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs536.bw
@@ -5089,14 +4777,6 @@ shortLabel CF_hs541_chicago3
 longLabel CF_hs541_chicago3
 type bigWig
 color 137,187,80
-
-track CF_hs543
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs543.bw
-shortLabel CF_hs543_chicago3
-longLabel CF_hs543_chicago3
-type bigWig
-color 16,238,1
 
 track CF_hs545
 parent bw_chicago3_CF
@@ -5137,14 +4817,6 @@ shortLabel CF_hs556_chicago3
 longLabel CF_hs556_chicago3
 type bigWig
 color 94,148,47
-
-track CF_hs562
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs562.bw
-shortLabel CF_hs562_chicago3
-longLabel CF_hs562_chicago3
-type bigWig
-color 254,81,225
 
 track CF_hs563
 parent bw_chicago3_CF
@@ -5202,14 +4874,6 @@ longLabel CF_hs573_chicago3
 type bigWig
 color 124,160,214
 
-track CF_hs575
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs575.bw
-shortLabel CF_hs575_chicago3
-longLabel CF_hs575_chicago3
-type bigWig
-color 103,105,51
-
 track CF_hs576
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs576.bw
@@ -5217,14 +4881,6 @@ shortLabel CF_hs576_chicago3
 longLabel CF_hs576_chicago3
 type bigWig
 color 127,238,182
-
-track CF_hs578
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs578.bw
-shortLabel CF_hs578_chicago3
-longLabel CF_hs578_chicago3
-type bigWig
-color 152,2,151
 
 track CF_hs579
 parent bw_chicago3_CF
@@ -5241,14 +4897,6 @@ shortLabel CF_hs580_chicago3
 longLabel CF_hs580_chicago3
 type bigWig
 color 245,112,101
-
-track CF_hs582
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs582.bw
-shortLabel CF_hs582_chicago3
-longLabel CF_hs582_chicago3
-type bigWig
-color 97,235,54
 
 track CF_hs586
 parent bw_chicago3_CF
@@ -5362,14 +5010,6 @@ longLabel CF_hs612_chicago3
 type bigWig
 color 39,73,246
 
-track CF_hs619
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs619.bw
-shortLabel CF_hs619_chicago3
-longLabel CF_hs619_chicago3
-type bigWig
-color 140,108,234
-
 track CF_hs625
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs625.bw
@@ -5385,14 +5025,6 @@ shortLabel CF_hs627_chicago3
 longLabel CF_hs627_chicago3
 type bigWig
 color 54,193,20
-
-track CF_hs628
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs628.bw
-shortLabel CF_hs628_chicago3
-longLabel CF_hs628_chicago3
-type bigWig
-color 28,30,2
 
 track CF_hs629
 parent bw_chicago3_CF
@@ -5425,14 +5057,6 @@ shortLabel CF_hs633_chicago3
 longLabel CF_hs633_chicago3
 type bigWig
 color 54,205,156
-
-track CF_hs634
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs634.bw
-shortLabel CF_hs634_chicago3
-longLabel CF_hs634_chicago3
-type bigWig
-color 28,215,243
 
 track CF_hs636
 parent bw_chicago3_CF
@@ -5473,14 +5097,6 @@ shortLabel CF_hs654_chicago3
 longLabel CF_hs654_chicago3
 type bigWig
 color 61,176,63
-
-track CF_hs656
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs656.bw
-shortLabel CF_hs656_chicago3
-longLabel CF_hs656_chicago3
-type bigWig
-color 123,244,120
 
 track CF_hs657
 parent bw_chicago3_CF
@@ -5586,14 +5202,6 @@ longLabel CF_hs680_chicago3
 type bigWig
 color 144,162,233
 
-track CF_hs687
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs687.bw
-shortLabel CF_hs687_chicago3
-longLabel CF_hs687_chicago3
-type bigWig
-color 160,110,241
-
 track CF_hs688
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs688.bw
@@ -5674,14 +5282,6 @@ longLabel CF_hs712_chicago3
 type bigWig
 color 91,126,10
 
-track CF_hs72
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs72.bw
-shortLabel CF_hs72_chicago3
-longLabel CF_hs72_chicago3
-type bigWig
-color 40,246,36
-
 track CF_hs73
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs73.bw
@@ -5737,14 +5337,6 @@ shortLabel CF_hs746_chicago3
 longLabel CF_hs746_chicago3
 type bigWig
 color 122,121,112
-
-track CF_hs748
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs748.bw
-shortLabel CF_hs748_chicago3
-longLabel CF_hs748_chicago3
-type bigWig
-color 61,72,154
 
 track CF_hs749
 parent bw_chicago3_CF
@@ -5946,14 +5538,6 @@ longLabel CF_hs830_chicago3
 type bigWig
 color 81,35,4
 
-track CF_hs831
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs831.bw
-shortLabel CF_hs831_chicago3
-longLabel CF_hs831_chicago3
-type bigWig
-color 51,82,85
-
 track CF_hs833
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs833.bw
@@ -5985,6 +5569,14 @@ shortLabel CF_hs840_chicago3
 longLabel CF_hs840_chicago3
 type bigWig
 color 152,143,217
+
+track CF_hs841
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs841.bw
+shortLabel CF_hs841_chicago3
+longLabel CF_hs841_chicago3
+type bigWig
+color 181,15,48
 
 track CF_hs842
 parent bw_chicago3_CF
@@ -6066,14 +5658,6 @@ longLabel CF_hs860_chicago3
 type bigWig
 color 76,236,196
 
-track CF_hs863
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs863.bw
-shortLabel CF_hs863_chicago3
-longLabel CF_hs863_chicago3
-type bigWig
-color 160,184,244
-
 track CF_hs865
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_hs865.bw
@@ -6130,13 +5714,13 @@ longLabel CF_hs886_chicago3
 type bigWig
 color 252,205,45
 
-track CF_hs895
+track CF_hs897
 parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_hs895.bw
-shortLabel CF_hs895_chicago3
-longLabel CF_hs895_chicago3
+bigDataUrl bw/CF/CF_hs897.bw
+shortLabel CF_hs897_chicago3
+longLabel CF_hs897_chicago3
 type bigWig
-color 130,240,107
+color 159,251,76
 
 track CF_hs901
 parent bw_chicago3_CF
@@ -6458,21 +6042,13 @@ longLabel CF_mm106_chicago3
 type bigWig
 color 87,8,251
 
-track CF_mm1061
+track CF_mm1063
 parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1061.bw
-shortLabel CF_mm1061_chicago3
-longLabel CF_mm1061_chicago3
+bigDataUrl bw/CF/CF_mm1063.bw
+shortLabel CF_mm1063_chicago3
+longLabel CF_mm1063_chicago3
 type bigWig
-color 225,250,6
-
-track CF_mm1064
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1064.bw
-shortLabel CF_mm1064_chicago3
-longLabel CF_mm1064_chicago3
-type bigWig
-color 190,104,0
+color 2,223,97
 
 track CF_mm107
 parent bw_chicago3_CF
@@ -6562,6 +6138,14 @@ longLabel CF_mm1099_chicago3
 type bigWig
 color 0,88,63
 
+track CF_mm1102
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1102.bw
+shortLabel CF_mm1102_chicago3
+longLabel CF_mm1102_chicago3
+type bigWig
+color 240,203,213
+
 track CF_mm1105
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm1105.bw
@@ -6650,6 +6234,22 @@ longLabel CF_mm1179_chicago3
 type bigWig
 color 39,80,122
 
+track CF_mm1188
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1188.bw
+shortLabel CF_mm1188_chicago3
+longLabel CF_mm1188_chicago3
+type bigWig
+color 238,79,55
+
+track CF_mm119
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm119.bw
+shortLabel CF_mm119_chicago3
+longLabel CF_mm119_chicago3
+type bigWig
+color 147,4,176
+
 track CF_mm1193
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm1193.bw
@@ -6697,14 +6297,6 @@ shortLabel CF_mm1202_chicago3
 longLabel CF_mm1202_chicago3
 type bigWig
 color 192,236,56
-
-track CF_mm1203
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1203.bw
-shortLabel CF_mm1203_chicago3
-longLabel CF_mm1203_chicago3
-type bigWig
-color 131,155,58
 
 track CF_mm1206
 parent bw_chicago3_CF
@@ -6809,6 +6401,22 @@ shortLabel CF_mm1263_chicago3
 longLabel CF_mm1263_chicago3
 type bigWig
 color 96,253,210
+
+track CF_mm127
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm127.bw
+shortLabel CF_mm127_chicago3
+longLabel CF_mm127_chicago3
+type bigWig
+color 123,194,84
+
+track CF_mm1273
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1273.bw
+shortLabel CF_mm1273_chicago3
+longLabel CF_mm1273_chicago3
+type bigWig
+color 98,216,96
 
 track CF_mm1274
 parent bw_chicago3_CF
@@ -6946,14 +6554,6 @@ longLabel CF_mm1322_chicago3
 type bigWig
 color 80,186,28
 
-track CF_mm1326
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1326.bw
-shortLabel CF_mm1326_chicago3
-longLabel CF_mm1326_chicago3
-type bigWig
-color 89,219,147
-
 track CF_mm1328
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm1328.bw
@@ -6961,14 +6561,6 @@ shortLabel CF_mm1328_chicago3
 longLabel CF_mm1328_chicago3
 type bigWig
 color 220,228,197
-
-track CF_mm1329
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1329.bw
-shortLabel CF_mm1329_chicago3
-longLabel CF_mm1329_chicago3
-type bigWig
-color 1,16,54
 
 track CF_mm1333
 parent bw_chicago3_CF
@@ -6993,14 +6585,6 @@ shortLabel CF_mm1338_chicago3
 longLabel CF_mm1338_chicago3
 type bigWig
 color 200,234,13
-
-track CF_mm134
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm134.bw
-shortLabel CF_mm134_chicago3
-longLabel CF_mm134_chicago3
-type bigWig
-color 139,168,155
 
 track CF_mm1340
 parent bw_chicago3_CF
@@ -7049,22 +6633,6 @@ shortLabel CF_mm1351_chicago3
 longLabel CF_mm1351_chicago3
 type bigWig
 color 220,146,182
-
-track CF_mm1352
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1352.bw
-shortLabel CF_mm1352_chicago3
-longLabel CF_mm1352_chicago3
-type bigWig
-color 126,135,197
-
-track CF_mm1361
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1361.bw
-shortLabel CF_mm1361_chicago3
-longLabel CF_mm1361_chicago3
-type bigWig
-color 82,110,39
 
 track CF_mm1367
 parent bw_chicago3_CF
@@ -7121,14 +6689,6 @@ shortLabel CF_mm1379_chicago3
 longLabel CF_mm1379_chicago3
 type bigWig
 color 139,100,196
-
-track CF_mm1387
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1387.bw
-shortLabel CF_mm1387_chicago3
-longLabel CF_mm1387_chicago3
-type bigWig
-color 48,115,210
 
 track CF_mm1388
 parent bw_chicago3_CF
@@ -7482,14 +7042,6 @@ longLabel CF_mm1500_chicago3
 type bigWig
 color 114,106,90
 
-track CF_mm1502
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1502.bw
-shortLabel CF_mm1502_chicago3
-longLabel CF_mm1502_chicago3
-type bigWig
-color 222,96,90
-
 track CF_mm1503
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm1503.bw
@@ -7521,14 +7073,6 @@ shortLabel CF_mm1509_chicago3
 longLabel CF_mm1509_chicago3
 type bigWig
 color 86,159,182
-
-track CF_mm151
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm151.bw
-shortLabel CF_mm151_chicago3
-longLabel CF_mm151_chicago3
-type bigWig
-color 27,249,161
 
 track CF_mm1514
 parent bw_chicago3_CF
@@ -7570,6 +7114,14 @@ longLabel CF_mm152_chicago3
 type bigWig
 color 206,189,196
 
+track CF_mm1522
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1522.bw
+shortLabel CF_mm1522_chicago3
+longLabel CF_mm1522_chicago3
+type bigWig
+color 252,139,75
+
 track CF_mm1524
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm1524.bw
@@ -7602,14 +7154,6 @@ longLabel CF_mm1531_chicago3
 type bigWig
 color 216,141,18
 
-track CF_mm1534
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1534.bw
-shortLabel CF_mm1534_chicago3
-longLabel CF_mm1534_chicago3
-type bigWig
-color 187,100,239
-
 track CF_mm1537
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm1537.bw
@@ -7633,14 +7177,6 @@ shortLabel CF_mm154_chicago3
 longLabel CF_mm154_chicago3
 type bigWig
 color 116,186,50
-
-track CF_mm1540
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1540.bw
-shortLabel CF_mm1540_chicago3
-longLabel CF_mm1540_chicago3
-type bigWig
-color 205,50,247
 
 track CF_mm1542
 parent bw_chicago3_CF
@@ -7729,14 +7265,6 @@ shortLabel CF_mm1561_chicago3
 longLabel CF_mm1561_chicago3
 type bigWig
 color 140,21,138
-
-track CF_mm1562
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm1562.bw
-shortLabel CF_mm1562_chicago3
-longLabel CF_mm1562_chicago3
-type bigWig
-color 93,214,175
 
 track CF_mm1564
 parent bw_chicago3_CF
@@ -7906,14 +7434,6 @@ longLabel CF_mm1604_chicago3
 type bigWig
 color 77,82,3
 
-track CF_mm169
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm169.bw
-shortLabel CF_mm169_chicago3
-longLabel CF_mm169_chicago3
-type bigWig
-color 26,200,231
-
 track CF_mm172
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm172.bw
@@ -7953,14 +7473,6 @@ shortLabel CF_mm187_chicago3
 longLabel CF_mm187_chicago3
 type bigWig
 color 203,119,213
-
-track CF_mm190
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm190.bw
-shortLabel CF_mm190_chicago3
-longLabel CF_mm190_chicago3
-type bigWig
-color 177,76,101
 
 track CF_mm192
 parent bw_chicago3_CF
@@ -8026,14 +7538,6 @@ longLabel CF_mm247_chicago3
 type bigWig
 color 6,181,109
 
-track CF_mm251
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm251.bw
-shortLabel CF_mm251_chicago3
-longLabel CF_mm251_chicago3
-type bigWig
-color 125,72,177
-
 track CF_mm253
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm253.bw
@@ -8073,14 +7577,6 @@ shortLabel CF_mm265_chicago3
 longLabel CF_mm265_chicago3
 type bigWig
 color 123,47,103
-
-track CF_mm268
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm268.bw
-shortLabel CF_mm268_chicago3
-longLabel CF_mm268_chicago3
-type bigWig
-color 207,235,159
 
 track CF_mm269
 parent bw_chicago3_CF
@@ -8194,14 +7690,6 @@ longLabel CF_mm304_chicago3
 type bigWig
 color 240,6,8
 
-track CF_mm313
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm313.bw
-shortLabel CF_mm313_chicago3
-longLabel CF_mm313_chicago3
-type bigWig
-color 196,222,96
-
 track CF_mm318
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm318.bw
@@ -8217,14 +7705,6 @@ shortLabel CF_mm321_chicago3
 longLabel CF_mm321_chicago3
 type bigWig
 color 196,163,196
-
-track CF_mm325
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm325.bw
-shortLabel CF_mm325_chicago3
-longLabel CF_mm325_chicago3
-type bigWig
-color 10,28,178
 
 track CF_mm337
 parent bw_chicago3_CF
@@ -8866,14 +8346,6 @@ longLabel CF_mm686_chicago3
 type bigWig
 color 75,168,157
 
-track CF_mm69
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm69.bw
-shortLabel CF_mm69_chicago3
-longLabel CF_mm69_chicago3
-type bigWig
-color 220,244,12
-
 track CF_mm693
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm693.bw
@@ -8889,14 +8361,6 @@ shortLabel CF_mm694_chicago3
 longLabel CF_mm694_chicago3
 type bigWig
 color 22,115,241
-
-track CF_mm7
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm7.bw
-shortLabel CF_mm7_chicago3
-longLabel CF_mm7_chicago3
-type bigWig
-color 7,1,136
 
 track CF_mm70
 parent bw_chicago3_CF
@@ -9114,14 +8578,6 @@ longLabel CF_mm777_chicago3
 type bigWig
 color 31,251,185
 
-track CF_mm78
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm78.bw
-shortLabel CF_mm78_chicago3
-longLabel CF_mm78_chicago3
-type bigWig
-color 52,121,26
-
 track CF_mm780
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm780.bw
@@ -9138,14 +8594,6 @@ longLabel CF_mm782_chicago3
 type bigWig
 color 26,53,142
 
-track CF_mm79
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm79.bw
-shortLabel CF_mm79_chicago3
-longLabel CF_mm79_chicago3
-type bigWig
-color 66,112,95
-
 track CF_mm795
 parent bw_chicago3_CF
 bigDataUrl bw/CF/CF_mm795.bw
@@ -9153,14 +8601,6 @@ shortLabel CF_mm795_chicago3
 longLabel CF_mm795_chicago3
 type bigWig
 color 117,90,57
-
-track CF_mm799
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm799.bw
-shortLabel CF_mm799_chicago3
-longLabel CF_mm799_chicago3
-type bigWig
-color 137,229,94
 
 track CF_mm80
 parent bw_chicago3_CF
@@ -9201,14 +8641,6 @@ shortLabel CF_mm817_chicago3
 longLabel CF_mm817_chicago3
 type bigWig
 color 228,99,223
-
-track CF_mm82
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm82.bw
-shortLabel CF_mm82_chicago3
-longLabel CF_mm82_chicago3
-type bigWig
-color 152,117,10
 
 track CF_mm829
 parent bw_chicago3_CF
@@ -9449,14 +8881,6 @@ shortLabel CF_mm996_chicago3
 longLabel CF_mm996_chicago3
 type bigWig
 color 212,97,15
-
-track CF_mm998
-parent bw_chicago3_CF
-bigDataUrl bw/CF/CF_mm998.bw
-shortLabel CF_mm998_chicago3
-longLabel CF_mm998_chicago3
-type bigWig
-color 1,71,234
 
 track CF_mm999
 parent bw_chicago3_CF
