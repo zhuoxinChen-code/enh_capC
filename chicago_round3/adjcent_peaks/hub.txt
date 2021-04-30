@@ -1,0 +1,7 @@
+hub Nreads_more_than_5_chicago3
+shortLabel Nreads_more5
+longLabel Nreads_more_than_5_chicago3
+genomesFile genomes.txt
+email zhuoxinc@uci.edu
+descriptionUrl blank.html
+

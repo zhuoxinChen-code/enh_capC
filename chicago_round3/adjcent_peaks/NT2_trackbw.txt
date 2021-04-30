@@ -1,0 +1,1508 @@
+track bw_chicago3_NT2
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel NT2_chicago3
+longLabel NT2_chicago3
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track NT2_hs1043
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1043.bw
+shortLabel NT2_hs1043_chicago3
+longLabel NT2_hs1043_chicago3
+type bigWig
+color 195,82,197
+
+track NT2_hs1086
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1086.bw
+shortLabel NT2_hs1086_chicago3
+longLabel NT2_hs1086_chicago3
+type bigWig
+color 166,83,82
+
+track NT2_hs1100
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1100.bw
+shortLabel NT2_hs1100_chicago3
+longLabel NT2_hs1100_chicago3
+type bigWig
+color 129,49,147
+
+track NT2_hs1105
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1105.bw
+shortLabel NT2_hs1105_chicago3
+longLabel NT2_hs1105_chicago3
+type bigWig
+color 187,252,75
+
+track NT2_hs112
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs112.bw
+shortLabel NT2_hs112_chicago3
+longLabel NT2_hs112_chicago3
+type bigWig
+color 225,190,141
+
+track NT2_hs1122
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1122.bw
+shortLabel NT2_hs1122_chicago3
+longLabel NT2_hs1122_chicago3
+type bigWig
+color 70,114,238
+
+track NT2_hs1123
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1123.bw
+shortLabel NT2_hs1123_chicago3
+longLabel NT2_hs1123_chicago3
+type bigWig
+color 87,73,10
+
+track NT2_hs1130
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1130.bw
+shortLabel NT2_hs1130_chicago3
+longLabel NT2_hs1130_chicago3
+type bigWig
+color 2,117,27
+
+track NT2_hs1166
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1166.bw
+shortLabel NT2_hs1166_chicago3
+longLabel NT2_hs1166_chicago3
+type bigWig
+color 193,132,156
+
+track NT2_hs1172
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1172.bw
+shortLabel NT2_hs1172_chicago3
+longLabel NT2_hs1172_chicago3
+type bigWig
+color 203,28,230
+
+track NT2_hs1213
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1213.bw
+shortLabel NT2_hs1213_chicago3
+longLabel NT2_hs1213_chicago3
+type bigWig
+color 147,251,155
+
+track NT2_hs1226
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1226.bw
+shortLabel NT2_hs1226_chicago3
+longLabel NT2_hs1226_chicago3
+type bigWig
+color 187,151,199
+
+track NT2_hs1302
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1302.bw
+shortLabel NT2_hs1302_chicago3
+longLabel NT2_hs1302_chicago3
+type bigWig
+color 64,172,228
+
+track NT2_hs1310
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1310.bw
+shortLabel NT2_hs1310_chicago3
+longLabel NT2_hs1310_chicago3
+type bigWig
+color 223,217,180
+
+track NT2_hs1314
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1314.bw
+shortLabel NT2_hs1314_chicago3
+longLabel NT2_hs1314_chicago3
+type bigWig
+color 182,33,111
+
+track NT2_hs1328
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1328.bw
+shortLabel NT2_hs1328_chicago3
+longLabel NT2_hs1328_chicago3
+type bigWig
+color 138,91,146
+
+track NT2_hs1333
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1333.bw
+shortLabel NT2_hs1333_chicago3
+longLabel NT2_hs1333_chicago3
+type bigWig
+color 59,44,78
+
+track NT2_hs1388
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1388.bw
+shortLabel NT2_hs1388_chicago3
+longLabel NT2_hs1388_chicago3
+type bigWig
+color 7,148,136
+
+track NT2_hs1390
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1390.bw
+shortLabel NT2_hs1390_chicago3
+longLabel NT2_hs1390_chicago3
+type bigWig
+color 175,47,47
+
+track NT2_hs1391
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1391.bw
+shortLabel NT2_hs1391_chicago3
+longLabel NT2_hs1391_chicago3
+type bigWig
+color 40,215,145
+
+track NT2_hs1397
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1397.bw
+shortLabel NT2_hs1397_chicago3
+longLabel NT2_hs1397_chicago3
+type bigWig
+color 44,220,204
+
+track NT2_hs1418
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1418.bw
+shortLabel NT2_hs1418_chicago3
+longLabel NT2_hs1418_chicago3
+type bigWig
+color 12,170,86
+
+track NT2_hs1441
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1441.bw
+shortLabel NT2_hs1441_chicago3
+longLabel NT2_hs1441_chicago3
+type bigWig
+color 199,62,190
+
+track NT2_hs1442
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1442.bw
+shortLabel NT2_hs1442_chicago3
+longLabel NT2_hs1442_chicago3
+type bigWig
+color 57,219,23
+
+track NT2_hs1453
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1453.bw
+shortLabel NT2_hs1453_chicago3
+longLabel NT2_hs1453_chicago3
+type bigWig
+color 159,4,46
+
+track NT2_hs1463
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1463.bw
+shortLabel NT2_hs1463_chicago3
+longLabel NT2_hs1463_chicago3
+type bigWig
+color 137,92,83
+
+track NT2_hs1465
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1465.bw
+shortLabel NT2_hs1465_chicago3
+longLabel NT2_hs1465_chicago3
+type bigWig
+color 89,83,95
+
+track NT2_hs1466
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1466.bw
+shortLabel NT2_hs1466_chicago3
+longLabel NT2_hs1466_chicago3
+type bigWig
+color 156,41,41
+
+track NT2_hs1538
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1538.bw
+shortLabel NT2_hs1538_chicago3
+longLabel NT2_hs1538_chicago3
+type bigWig
+color 101,47,86
+
+track NT2_hs1555
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1555.bw
+shortLabel NT2_hs1555_chicago3
+longLabel NT2_hs1555_chicago3
+type bigWig
+color 1,11,81
+
+track NT2_hs1563
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1563.bw
+shortLabel NT2_hs1563_chicago3
+longLabel NT2_hs1563_chicago3
+type bigWig
+color 156,71,177
+
+track NT2_hs1582
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1582.bw
+shortLabel NT2_hs1582_chicago3
+longLabel NT2_hs1582_chicago3
+type bigWig
+color 34,58,195
+
+track NT2_hs1602
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1602.bw
+shortLabel NT2_hs1602_chicago3
+longLabel NT2_hs1602_chicago3
+type bigWig
+color 86,68,114
+
+track NT2_hs1604
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1604.bw
+shortLabel NT2_hs1604_chicago3
+longLabel NT2_hs1604_chicago3
+type bigWig
+color 13,126,13
+
+track NT2_hs1613
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1613.bw
+shortLabel NT2_hs1613_chicago3
+longLabel NT2_hs1613_chicago3
+type bigWig
+color 124,182,223
+
+track NT2_hs1620
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1620.bw
+shortLabel NT2_hs1620_chicago3
+longLabel NT2_hs1620_chicago3
+type bigWig
+color 124,118,127
+
+track NT2_hs1628
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1628.bw
+shortLabel NT2_hs1628_chicago3
+longLabel NT2_hs1628_chicago3
+type bigWig
+color 103,76,125
+
+track NT2_hs1641
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1641.bw
+shortLabel NT2_hs1641_chicago3
+longLabel NT2_hs1641_chicago3
+type bigWig
+color 115,55,81
+
+track NT2_hs1645
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1645.bw
+shortLabel NT2_hs1645_chicago3
+longLabel NT2_hs1645_chicago3
+type bigWig
+color 85,234,26
+
+track NT2_hs1648
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1648.bw
+shortLabel NT2_hs1648_chicago3
+longLabel NT2_hs1648_chicago3
+type bigWig
+color 236,83,112
+
+track NT2_hs1665
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1665.bw
+shortLabel NT2_hs1665_chicago3
+longLabel NT2_hs1665_chicago3
+type bigWig
+color 174,85,133
+
+track NT2_hs1679
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1679.bw
+shortLabel NT2_hs1679_chicago3
+longLabel NT2_hs1679_chicago3
+type bigWig
+color 3,172,119
+
+track NT2_hs1767
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1767.bw
+shortLabel NT2_hs1767_chicago3
+longLabel NT2_hs1767_chicago3
+type bigWig
+color 183,130,119
+
+track NT2_hs1783
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1783.bw
+shortLabel NT2_hs1783_chicago3
+longLabel NT2_hs1783_chicago3
+type bigWig
+color 229,219,169
+
+track NT2_hs1833
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1833.bw
+shortLabel NT2_hs1833_chicago3
+longLabel NT2_hs1833_chicago3
+type bigWig
+color 37,159,52
+
+track NT2_hs1857
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1857.bw
+shortLabel NT2_hs1857_chicago3
+longLabel NT2_hs1857_chicago3
+type bigWig
+color 92,110,210
+
+track NT2_hs1862
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1862.bw
+shortLabel NT2_hs1862_chicago3
+longLabel NT2_hs1862_chicago3
+type bigWig
+color 169,199,59
+
+track NT2_hs1891
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1891.bw
+shortLabel NT2_hs1891_chicago3
+longLabel NT2_hs1891_chicago3
+type bigWig
+color 173,27,11
+
+track NT2_hs1909
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1909.bw
+shortLabel NT2_hs1909_chicago3
+longLabel NT2_hs1909_chicago3
+type bigWig
+color 194,218,178
+
+track NT2_hs1912
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1912.bw
+shortLabel NT2_hs1912_chicago3
+longLabel NT2_hs1912_chicago3
+type bigWig
+color 240,237,58
+
+track NT2_hs1924
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1924.bw
+shortLabel NT2_hs1924_chicago3
+longLabel NT2_hs1924_chicago3
+type bigWig
+color 178,27,183
+
+track NT2_hs1927
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1927.bw
+shortLabel NT2_hs1927_chicago3
+longLabel NT2_hs1927_chicago3
+type bigWig
+color 37,149,68
+
+track NT2_hs1974
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs1974.bw
+shortLabel NT2_hs1974_chicago3
+longLabel NT2_hs1974_chicago3
+type bigWig
+color 226,112,121
+
+track NT2_hs198
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs198.bw
+shortLabel NT2_hs198_chicago3
+longLabel NT2_hs198_chicago3
+type bigWig
+color 118,114,191
+
+track NT2_hs2059
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs2059.bw
+shortLabel NT2_hs2059_chicago3
+longLabel NT2_hs2059_chicago3
+type bigWig
+color 139,60,196
+
+track NT2_hs2078
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs2078.bw
+shortLabel NT2_hs2078_chicago3
+longLabel NT2_hs2078_chicago3
+type bigWig
+color 222,43,243
+
+track NT2_hs212
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs212.bw
+shortLabel NT2_hs212_chicago3
+longLabel NT2_hs212_chicago3
+type bigWig
+color 218,76,181
+
+track NT2_hs218
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs218.bw
+shortLabel NT2_hs218_chicago3
+longLabel NT2_hs218_chicago3
+type bigWig
+color 45,154,51
+
+track NT2_hs2205
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs2205.bw
+shortLabel NT2_hs2205_chicago3
+longLabel NT2_hs2205_chicago3
+type bigWig
+color 210,223,126
+
+track NT2_hs2229
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs2229.bw
+shortLabel NT2_hs2229_chicago3
+longLabel NT2_hs2229_chicago3
+type bigWig
+color 45,209,177
+
+track NT2_hs225
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs225.bw
+shortLabel NT2_hs225_chicago3
+longLabel NT2_hs225_chicago3
+type bigWig
+color 232,122,29
+
+track NT2_hs2308
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs2308.bw
+shortLabel NT2_hs2308_chicago3
+longLabel NT2_hs2308_chicago3
+type bigWig
+color 129,86,130
+
+track NT2_hs238
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs238.bw
+shortLabel NT2_hs238_chicago3
+longLabel NT2_hs238_chicago3
+type bigWig
+color 130,121,147
+
+track NT2_hs246
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs246.bw
+shortLabel NT2_hs246_chicago3
+longLabel NT2_hs246_chicago3
+type bigWig
+color 238,177,37
+
+track NT2_hs248
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs248.bw
+shortLabel NT2_hs248_chicago3
+longLabel NT2_hs248_chicago3
+type bigWig
+color 29,136,49
+
+track NT2_hs2493
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs2493.bw
+shortLabel NT2_hs2493_chicago3
+longLabel NT2_hs2493_chicago3
+type bigWig
+color 60,157,171
+
+track NT2_hs259
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs259.bw
+shortLabel NT2_hs259_chicago3
+longLabel NT2_hs259_chicago3
+type bigWig
+color 148,80,205
+
+track NT2_hs262
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs262.bw
+shortLabel NT2_hs262_chicago3
+longLabel NT2_hs262_chicago3
+type bigWig
+color 192,97,248
+
+track NT2_hs263
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs263.bw
+shortLabel NT2_hs263_chicago3
+longLabel NT2_hs263_chicago3
+type bigWig
+color 118,147,122
+
+track NT2_hs264
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs264.bw
+shortLabel NT2_hs264_chicago3
+longLabel NT2_hs264_chicago3
+type bigWig
+color 73,70,60
+
+track NT2_hs265
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs265.bw
+shortLabel NT2_hs265_chicago3
+longLabel NT2_hs265_chicago3
+type bigWig
+color 17,97,131
+
+track NT2_hs267
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs267.bw
+shortLabel NT2_hs267_chicago3
+longLabel NT2_hs267_chicago3
+type bigWig
+color 179,191,34
+
+track NT2_hs268
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs268.bw
+shortLabel NT2_hs268_chicago3
+longLabel NT2_hs268_chicago3
+type bigWig
+color 80,60,215
+
+track NT2_hs281
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs281.bw
+shortLabel NT2_hs281_chicago3
+longLabel NT2_hs281_chicago3
+type bigWig
+color 182,21,235
+
+track NT2_hs293
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs293.bw
+shortLabel NT2_hs293_chicago3
+longLabel NT2_hs293_chicago3
+type bigWig
+color 218,35,172
+
+track NT2_hs296
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs296.bw
+shortLabel NT2_hs296_chicago3
+longLabel NT2_hs296_chicago3
+type bigWig
+color 22,51,152
+
+track NT2_hs306
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs306.bw
+shortLabel NT2_hs306_chicago3
+longLabel NT2_hs306_chicago3
+type bigWig
+color 9,156,212
+
+track NT2_hs311
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs311.bw
+shortLabel NT2_hs311_chicago3
+longLabel NT2_hs311_chicago3
+type bigWig
+color 122,44,232
+
+track NT2_hs319
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs319.bw
+shortLabel NT2_hs319_chicago3
+longLabel NT2_hs319_chicago3
+type bigWig
+color 245,85,141
+
+track NT2_hs324
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs324.bw
+shortLabel NT2_hs324_chicago3
+longLabel NT2_hs324_chicago3
+type bigWig
+color 24,179,27
+
+track NT2_hs338
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs338.bw
+shortLabel NT2_hs338_chicago3
+longLabel NT2_hs338_chicago3
+type bigWig
+color 254,105,196
+
+track NT2_hs361
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs361.bw
+shortLabel NT2_hs361_chicago3
+longLabel NT2_hs361_chicago3
+type bigWig
+color 140,223,254
+
+track NT2_hs364
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs364.bw
+shortLabel NT2_hs364_chicago3
+longLabel NT2_hs364_chicago3
+type bigWig
+color 196,78,219
+
+track NT2_hs378
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs378.bw
+shortLabel NT2_hs378_chicago3
+longLabel NT2_hs378_chicago3
+type bigWig
+color 96,82,108
+
+track NT2_hs381
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs381.bw
+shortLabel NT2_hs381_chicago3
+longLabel NT2_hs381_chicago3
+type bigWig
+color 75,185,198
+
+track NT2_hs382
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs382.bw
+shortLabel NT2_hs382_chicago3
+longLabel NT2_hs382_chicago3
+type bigWig
+color 20,13,134
+
+track NT2_hs412
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs412.bw
+shortLabel NT2_hs412_chicago3
+longLabel NT2_hs412_chicago3
+type bigWig
+color 156,41,225
+
+track NT2_hs415
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs415.bw
+shortLabel NT2_hs415_chicago3
+longLabel NT2_hs415_chicago3
+type bigWig
+color 152,155,93
+
+track NT2_hs417
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs417.bw
+shortLabel NT2_hs417_chicago3
+longLabel NT2_hs417_chicago3
+type bigWig
+color 228,67,217
+
+track NT2_hs423
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs423.bw
+shortLabel NT2_hs423_chicago3
+longLabel NT2_hs423_chicago3
+type bigWig
+color 103,215,62
+
+track NT2_hs480
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs480.bw
+shortLabel NT2_hs480_chicago3
+longLabel NT2_hs480_chicago3
+type bigWig
+color 164,71,84
+
+track NT2_hs483
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs483.bw
+shortLabel NT2_hs483_chicago3
+longLabel NT2_hs483_chicago3
+type bigWig
+color 174,249,74
+
+track NT2_hs484
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs484.bw
+shortLabel NT2_hs484_chicago3
+longLabel NT2_hs484_chicago3
+type bigWig
+color 42,134,247
+
+track NT2_hs487
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs487.bw
+shortLabel NT2_hs487_chicago3
+longLabel NT2_hs487_chicago3
+type bigWig
+color 139,246,42
+
+track NT2_hs513
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs513.bw
+shortLabel NT2_hs513_chicago3
+longLabel NT2_hs513_chicago3
+type bigWig
+color 202,23,60
+
+track NT2_hs515
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs515.bw
+shortLabel NT2_hs515_chicago3
+longLabel NT2_hs515_chicago3
+type bigWig
+color 31,161,177
+
+track NT2_hs522
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs522.bw
+shortLabel NT2_hs522_chicago3
+longLabel NT2_hs522_chicago3
+type bigWig
+color 145,111,222
+
+track NT2_hs526
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs526.bw
+shortLabel NT2_hs526_chicago3
+longLabel NT2_hs526_chicago3
+type bigWig
+color 2,205,130
+
+track NT2_hs545
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs545.bw
+shortLabel NT2_hs545_chicago3
+longLabel NT2_hs545_chicago3
+type bigWig
+color 189,69,50
+
+track NT2_hs553
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs553.bw
+shortLabel NT2_hs553_chicago3
+longLabel NT2_hs553_chicago3
+type bigWig
+color 100,5,112
+
+track NT2_hs576
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs576.bw
+shortLabel NT2_hs576_chicago3
+longLabel NT2_hs576_chicago3
+type bigWig
+color 127,238,182
+
+track NT2_hs586
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs586.bw
+shortLabel NT2_hs586_chicago3
+longLabel NT2_hs586_chicago3
+type bigWig
+color 146,236,39
+
+track NT2_hs629
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs629.bw
+shortLabel NT2_hs629_chicago3
+longLabel NT2_hs629_chicago3
+type bigWig
+color 230,141,127
+
+track NT2_hs654
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs654.bw
+shortLabel NT2_hs654_chicago3
+longLabel NT2_hs654_chicago3
+type bigWig
+color 61,176,63
+
+track NT2_hs679
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs679.bw
+shortLabel NT2_hs679_chicago3
+longLabel NT2_hs679_chicago3
+type bigWig
+color 27,250,162
+
+track NT2_hs695
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs695.bw
+shortLabel NT2_hs695_chicago3
+longLabel NT2_hs695_chicago3
+type bigWig
+color 229,115,38
+
+track NT2_hs705
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs705.bw
+shortLabel NT2_hs705_chicago3
+longLabel NT2_hs705_chicago3
+type bigWig
+color 66,214,96
+
+track NT2_hs73
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs73.bw
+shortLabel NT2_hs73_chicago3
+longLabel NT2_hs73_chicago3
+type bigWig
+color 69,82,43
+
+track NT2_hs737
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs737.bw
+shortLabel NT2_hs737_chicago3
+longLabel NT2_hs737_chicago3
+type bigWig
+color 137,247,120
+
+track NT2_hs782
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs782.bw
+shortLabel NT2_hs782_chicago3
+longLabel NT2_hs782_chicago3
+type bigWig
+color 3,150,55
+
+track NT2_hs784
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs784.bw
+shortLabel NT2_hs784_chicago3
+longLabel NT2_hs784_chicago3
+type bigWig
+color 173,231,171
+
+track NT2_hs844
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs844.bw
+shortLabel NT2_hs844_chicago3
+longLabel NT2_hs844_chicago3
+type bigWig
+color 190,187,10
+
+track NT2_hs858
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs858.bw
+shortLabel NT2_hs858_chicago3
+longLabel NT2_hs858_chicago3
+type bigWig
+color 75,155,137
+
+track NT2_hs860
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs860.bw
+shortLabel NT2_hs860_chicago3
+longLabel NT2_hs860_chicago3
+type bigWig
+color 76,236,196
+
+track NT2_hs872
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs872.bw
+shortLabel NT2_hs872_chicago3
+longLabel NT2_hs872_chicago3
+type bigWig
+color 73,114,142
+
+track NT2_hs876
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs876.bw
+shortLabel NT2_hs876_chicago3
+longLabel NT2_hs876_chicago3
+type bigWig
+color 203,92,46
+
+track NT2_hs882
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs882.bw
+shortLabel NT2_hs882_chicago3
+longLabel NT2_hs882_chicago3
+type bigWig
+color 73,120,194
+
+track NT2_hs925
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs925.bw
+shortLabel NT2_hs925_chicago3
+longLabel NT2_hs925_chicago3
+type bigWig
+color 70,191,133
+
+track NT2_hs933
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs933.bw
+shortLabel NT2_hs933_chicago3
+longLabel NT2_hs933_chicago3
+type bigWig
+color 67,146,110
+
+track NT2_hs935
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs935.bw
+shortLabel NT2_hs935_chicago3
+longLabel NT2_hs935_chicago3
+type bigWig
+color 39,48,204
+
+track NT2_hs953
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs953.bw
+shortLabel NT2_hs953_chicago3
+longLabel NT2_hs953_chicago3
+type bigWig
+color 94,249,87
+
+track NT2_hs978
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs978.bw
+shortLabel NT2_hs978_chicago3
+longLabel NT2_hs978_chicago3
+type bigWig
+color 76,236,33
+
+track NT2_hs981
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs981.bw
+shortLabel NT2_hs981_chicago3
+longLabel NT2_hs981_chicago3
+type bigWig
+color 200,197,128
+
+track NT2_hs998
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_hs998.bw
+shortLabel NT2_hs998_chicago3
+longLabel NT2_hs998_chicago3
+type bigWig
+color 101,175,136
+
+track NT2_mm1003
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1003.bw
+shortLabel NT2_mm1003_chicago3
+longLabel NT2_mm1003_chicago3
+type bigWig
+color 38,149,49
+
+track NT2_mm111
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm111.bw
+shortLabel NT2_mm111_chicago3
+longLabel NT2_mm111_chicago3
+type bigWig
+color 231,242,24
+
+track NT2_mm1122
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1122.bw
+shortLabel NT2_mm1122_chicago3
+longLabel NT2_mm1122_chicago3
+type bigWig
+color 242,180,98
+
+track NT2_mm1165
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1165.bw
+shortLabel NT2_mm1165_chicago3
+longLabel NT2_mm1165_chicago3
+type bigWig
+color 189,245,73
+
+track NT2_mm1193
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1193.bw
+shortLabel NT2_mm1193_chicago3
+longLabel NT2_mm1193_chicago3
+type bigWig
+color 31,74,19
+
+track NT2_mm122
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm122.bw
+shortLabel NT2_mm122_chicago3
+longLabel NT2_mm122_chicago3
+type bigWig
+color 206,62,13
+
+track NT2_mm1314
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1314.bw
+shortLabel NT2_mm1314_chicago3
+longLabel NT2_mm1314_chicago3
+type bigWig
+color 18,160,33
+
+track NT2_mm1322
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1322.bw
+shortLabel NT2_mm1322_chicago3
+longLabel NT2_mm1322_chicago3
+type bigWig
+color 80,186,28
+
+track NT2_mm1333
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1333.bw
+shortLabel NT2_mm1333_chicago3
+longLabel NT2_mm1333_chicago3
+type bigWig
+color 195,124,41
+
+track NT2_mm1343
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1343.bw
+shortLabel NT2_mm1343_chicago3
+longLabel NT2_mm1343_chicago3
+type bigWig
+color 6,69,221
+
+track NT2_mm1351
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1351.bw
+shortLabel NT2_mm1351_chicago3
+longLabel NT2_mm1351_chicago3
+type bigWig
+color 220,146,182
+
+track NT2_mm1371
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1371.bw
+shortLabel NT2_mm1371_chicago3
+longLabel NT2_mm1371_chicago3
+type bigWig
+color 159,17,8
+
+track NT2_mm1388
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1388.bw
+shortLabel NT2_mm1388_chicago3
+longLabel NT2_mm1388_chicago3
+type bigWig
+color 73,101,80
+
+track NT2_mm1406
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1406.bw
+shortLabel NT2_mm1406_chicago3
+longLabel NT2_mm1406_chicago3
+type bigWig
+color 95,73,22
+
+track NT2_mm1444
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1444.bw
+shortLabel NT2_mm1444_chicago3
+longLabel NT2_mm1444_chicago3
+type bigWig
+color 25,104,159
+
+track NT2_mm1462
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1462.bw
+shortLabel NT2_mm1462_chicago3
+longLabel NT2_mm1462_chicago3
+type bigWig
+color 56,76,206
+
+track NT2_mm1464
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1464.bw
+shortLabel NT2_mm1464_chicago3
+longLabel NT2_mm1464_chicago3
+type bigWig
+color 11,19,217
+
+track NT2_mm1473
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1473.bw
+shortLabel NT2_mm1473_chicago3
+longLabel NT2_mm1473_chicago3
+type bigWig
+color 91,146,227
+
+track NT2_mm1480
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1480.bw
+shortLabel NT2_mm1480_chicago3
+longLabel NT2_mm1480_chicago3
+type bigWig
+color 88,109,152
+
+track NT2_mm1481
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1481.bw
+shortLabel NT2_mm1481_chicago3
+longLabel NT2_mm1481_chicago3
+type bigWig
+color 120,235,219
+
+track NT2_mm1486
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1486.bw
+shortLabel NT2_mm1486_chicago3
+longLabel NT2_mm1486_chicago3
+type bigWig
+color 139,202,27
+
+track NT2_mm1490
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1490.bw
+shortLabel NT2_mm1490_chicago3
+longLabel NT2_mm1490_chicago3
+type bigWig
+color 24,212,25
+
+track NT2_mm1494
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1494.bw
+shortLabel NT2_mm1494_chicago3
+longLabel NT2_mm1494_chicago3
+type bigWig
+color 54,146,52
+
+track NT2_mm1503
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1503.bw
+shortLabel NT2_mm1503_chicago3
+longLabel NT2_mm1503_chicago3
+type bigWig
+color 77,249,114
+
+track NT2_mm154
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm154.bw
+shortLabel NT2_mm154_chicago3
+longLabel NT2_mm154_chicago3
+type bigWig
+color 116,186,50
+
+track NT2_mm1575
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1575.bw
+shortLabel NT2_mm1575_chicago3
+longLabel NT2_mm1575_chicago3
+type bigWig
+color 46,90,223
+
+track NT2_mm1583
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1583.bw
+shortLabel NT2_mm1583_chicago3
+longLabel NT2_mm1583_chicago3
+type bigWig
+color 180,131,93
+
+track NT2_mm1586
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1586.bw
+shortLabel NT2_mm1586_chicago3
+longLabel NT2_mm1586_chicago3
+type bigWig
+color 89,171,141
+
+track NT2_mm1597
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1597.bw
+shortLabel NT2_mm1597_chicago3
+longLabel NT2_mm1597_chicago3
+type bigWig
+color 94,146,43
+
+track NT2_mm1599
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1599.bw
+shortLabel NT2_mm1599_chicago3
+longLabel NT2_mm1599_chicago3
+type bigWig
+color 221,199,178
+
+track NT2_mm1600
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm1600.bw
+shortLabel NT2_mm1600_chicago3
+longLabel NT2_mm1600_chicago3
+type bigWig
+color 62,133,220
+
+track NT2_mm196
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm196.bw
+shortLabel NT2_mm196_chicago3
+longLabel NT2_mm196_chicago3
+type bigWig
+color 104,104,224
+
+track NT2_mm21
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm21.bw
+shortLabel NT2_mm21_chicago3
+longLabel NT2_mm21_chicago3
+type bigWig
+color 34,11,226
+
+track NT2_mm241
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm241.bw
+shortLabel NT2_mm241_chicago3
+longLabel NT2_mm241_chicago3
+type bigWig
+color 235,181,157
+
+track NT2_mm244
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm244.bw
+shortLabel NT2_mm244_chicago3
+longLabel NT2_mm244_chicago3
+type bigWig
+color 59,116,167
+
+track NT2_mm245
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm245.bw
+shortLabel NT2_mm245_chicago3
+longLabel NT2_mm245_chicago3
+type bigWig
+color 38,22,16
+
+track NT2_mm260
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm260.bw
+shortLabel NT2_mm260_chicago3
+longLabel NT2_mm260_chicago3
+type bigWig
+color 245,224,238
+
+track NT2_mm269
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm269.bw
+shortLabel NT2_mm269_chicago3
+longLabel NT2_mm269_chicago3
+type bigWig
+color 122,75,37
+
+track NT2_mm39
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm39.bw
+shortLabel NT2_mm39_chicago3
+longLabel NT2_mm39_chicago3
+type bigWig
+color 14,94,45
+
+track NT2_mm402
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm402.bw
+shortLabel NT2_mm402_chicago3
+longLabel NT2_mm402_chicago3
+type bigWig
+color 184,145,151
+
+track NT2_mm403
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm403.bw
+shortLabel NT2_mm403_chicago3
+longLabel NT2_mm403_chicago3
+type bigWig
+color 57,212,9
+
+track NT2_mm404
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm404.bw
+shortLabel NT2_mm404_chicago3
+longLabel NT2_mm404_chicago3
+type bigWig
+color 204,210,44
+
+track NT2_mm41
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm41.bw
+shortLabel NT2_mm41_chicago3
+longLabel NT2_mm41_chicago3
+type bigWig
+color 15,16,174
+
+track NT2_mm568
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm568.bw
+shortLabel NT2_mm568_chicago3
+longLabel NT2_mm568_chicago3
+type bigWig
+color 190,42,172
+
+track NT2_mm577
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm577.bw
+shortLabel NT2_mm577_chicago3
+longLabel NT2_mm577_chicago3
+type bigWig
+color 102,92,216
+
+track NT2_mm612
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm612.bw
+shortLabel NT2_mm612_chicago3
+longLabel NT2_mm612_chicago3
+type bigWig
+color 117,168,160
+
+track NT2_mm641
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm641.bw
+shortLabel NT2_mm641_chicago3
+longLabel NT2_mm641_chicago3
+type bigWig
+color 208,167,8
+
+track NT2_mm683
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm683.bw
+shortLabel NT2_mm683_chicago3
+longLabel NT2_mm683_chicago3
+type bigWig
+color 10,254,119
+
+track NT2_mm693
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm693.bw
+shortLabel NT2_mm693_chicago3
+longLabel NT2_mm693_chicago3
+type bigWig
+color 183,25,123
+
+track NT2_mm712
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm712.bw
+shortLabel NT2_mm712_chicago3
+longLabel NT2_mm712_chicago3
+type bigWig
+color 39,6,94
+
+track NT2_mm720
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm720.bw
+shortLabel NT2_mm720_chicago3
+longLabel NT2_mm720_chicago3
+type bigWig
+color 126,86,182
+
+track NT2_mm745
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm745.bw
+shortLabel NT2_mm745_chicago3
+longLabel NT2_mm745_chicago3
+type bigWig
+color 236,29,132
+
+track NT2_mm751
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm751.bw
+shortLabel NT2_mm751_chicago3
+longLabel NT2_mm751_chicago3
+type bigWig
+color 90,169,23
+
+track NT2_mm757
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm757.bw
+shortLabel NT2_mm757_chicago3
+longLabel NT2_mm757_chicago3
+type bigWig
+color 132,206,216
+
+track NT2_mm780
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm780.bw
+shortLabel NT2_mm780_chicago3
+longLabel NT2_mm780_chicago3
+type bigWig
+color 242,252,38
+
+track NT2_mm795
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm795.bw
+shortLabel NT2_mm795_chicago3
+longLabel NT2_mm795_chicago3
+type bigWig
+color 117,90,57
+
+track NT2_mm901
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm901.bw
+shortLabel NT2_mm901_chicago3
+longLabel NT2_mm901_chicago3
+type bigWig
+color 113,111,59
+
+track NT2_mm91
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm91.bw
+shortLabel NT2_mm91_chicago3
+longLabel NT2_mm91_chicago3
+type bigWig
+color 80,26,180
+
+track NT2_mm933
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm933.bw
+shortLabel NT2_mm933_chicago3
+longLabel NT2_mm933_chicago3
+type bigWig
+color 124,1,158
+
+track NT2_mm94
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm94.bw
+shortLabel NT2_mm94_chicago3
+longLabel NT2_mm94_chicago3
+type bigWig
+color 95,18,170
+
+track NT2_mm971
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm971.bw
+shortLabel NT2_mm971_chicago3
+longLabel NT2_mm971_chicago3
+type bigWig
+color 79,168,233
+
+track NT2_mm99
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_mm99.bw
+shortLabel NT2_mm99_chicago3
+longLabel NT2_mm99_chicago3
+type bigWig
+color 159,22,80
+
+track NT2_ZRS
+parent bw_chicago3_NT2
+bigDataUrl bw/NT2/NT2_ZRS.bw
+shortLabel NT2_ZRS_chicago3
+longLabel NT2_ZRS_chicago3
+type bigWig
+color 102,63,99
+
