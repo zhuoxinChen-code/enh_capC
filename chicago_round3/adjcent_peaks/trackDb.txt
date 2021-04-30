@@ -1,6 +1,7 @@
 # bw file
 include CF_trackbw.txt
 include FB2_trackbw.txt
+include FL2_trackbw.txt
 include HL_trackbw.txt
 include MB2_trackbw.txt
 include NT2_trackbw.txt

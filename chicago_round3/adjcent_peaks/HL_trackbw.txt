@@ -2,8 +2,8 @@ track bw_chicago3_HL
 container multiWig
 aggregate transparentOverlay
 showSubtrackColorOnUi on
-shortLabel HL_chicago3
-longLabel HL_chicago3
+shortLabel HL_adjcent
+longLabel HL_adjcent
 allButtonPair on
 autoScale on
 visibility full
@@ -13,4216 +13,4216 @@ maxHeightPixels 50:40:10
 track HL_hs1004
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1004.bw
-shortLabel HL_hs1004_chicago3
-longLabel HL_hs1004_chicago3
+shortLabel HL_hs1004_adjcent
+longLabel HL_hs1004_adjcent
 type bigWig
 color 247,153,5
 
 track HL_hs1030
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1030.bw
-shortLabel HL_hs1030_chicago3
-longLabel HL_hs1030_chicago3
+shortLabel HL_hs1030_adjcent
+longLabel HL_hs1030_adjcent
 type bigWig
 color 16,36,54
 
 track HL_hs1035
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1035.bw
-shortLabel HL_hs1035_chicago3
-longLabel HL_hs1035_chicago3
+shortLabel HL_hs1035_adjcent
+longLabel HL_hs1035_adjcent
 type bigWig
 color 177,53,153
 
 track HL_hs1042
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1042.bw
-shortLabel HL_hs1042_chicago3
-longLabel HL_hs1042_chicago3
+shortLabel HL_hs1042_adjcent
+longLabel HL_hs1042_adjcent
 type bigWig
 color 203,238,243
 
 track HL_hs1043
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1043.bw
-shortLabel HL_hs1043_chicago3
-longLabel HL_hs1043_chicago3
+shortLabel HL_hs1043_adjcent
+longLabel HL_hs1043_adjcent
 type bigWig
 color 195,82,197
 
 track HL_hs1060
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1060.bw
-shortLabel HL_hs1060_chicago3
-longLabel HL_hs1060_chicago3
+shortLabel HL_hs1060_adjcent
+longLabel HL_hs1060_adjcent
 type bigWig
 color 69,160,151
 
 track HL_hs1078
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1078.bw
-shortLabel HL_hs1078_chicago3
-longLabel HL_hs1078_chicago3
+shortLabel HL_hs1078_adjcent
+longLabel HL_hs1078_adjcent
 type bigWig
 color 203,41,135
 
 track HL_hs1079
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1079.bw
-shortLabel HL_hs1079_chicago3
-longLabel HL_hs1079_chicago3
+shortLabel HL_hs1079_adjcent
+longLabel HL_hs1079_adjcent
 type bigWig
 color 32,251,17
 
 track HL_hs1082
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1082.bw
-shortLabel HL_hs1082_chicago3
-longLabel HL_hs1082_chicago3
+shortLabel HL_hs1082_adjcent
+longLabel HL_hs1082_adjcent
 type bigWig
 color 7,186,213
 
 track HL_hs1086
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1086.bw
-shortLabel HL_hs1086_chicago3
-longLabel HL_hs1086_chicago3
+shortLabel HL_hs1086_adjcent
+longLabel HL_hs1086_adjcent
 type bigWig
 color 166,83,82
 
 track HL_hs1093
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1093.bw
-shortLabel HL_hs1093_chicago3
-longLabel HL_hs1093_chicago3
+shortLabel HL_hs1093_adjcent
+longLabel HL_hs1093_adjcent
 type bigWig
 color 117,63,192
 
 track HL_hs1100
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1100.bw
-shortLabel HL_hs1100_chicago3
-longLabel HL_hs1100_chicago3
+shortLabel HL_hs1100_adjcent
+longLabel HL_hs1100_adjcent
 type bigWig
 color 129,49,147
 
 track HL_hs1105
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1105.bw
-shortLabel HL_hs1105_chicago3
-longLabel HL_hs1105_chicago3
+shortLabel HL_hs1105_adjcent
+longLabel HL_hs1105_adjcent
 type bigWig
 color 187,252,75
 
 track HL_hs1109
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1109.bw
-shortLabel HL_hs1109_chicago3
-longLabel HL_hs1109_chicago3
+shortLabel HL_hs1109_adjcent
+longLabel HL_hs1109_adjcent
 type bigWig
 color 55,84,216
 
 track HL_hs111
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs111.bw
-shortLabel HL_hs111_chicago3
-longLabel HL_hs111_chicago3
+shortLabel HL_hs111_adjcent
+longLabel HL_hs111_adjcent
 type bigWig
 color 93,75,132
 
 track HL_hs1112
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1112.bw
-shortLabel HL_hs1112_chicago3
-longLabel HL_hs1112_chicago3
+shortLabel HL_hs1112_adjcent
+longLabel HL_hs1112_adjcent
 type bigWig
 color 213,161,217
 
 track HL_hs1114
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1114.bw
-shortLabel HL_hs1114_chicago3
-longLabel HL_hs1114_chicago3
+shortLabel HL_hs1114_adjcent
+longLabel HL_hs1114_adjcent
 type bigWig
 color 175,69,118
 
 track HL_hs112
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs112.bw
-shortLabel HL_hs112_chicago3
-longLabel HL_hs112_chicago3
+shortLabel HL_hs112_adjcent
+longLabel HL_hs112_adjcent
 type bigWig
 color 225,190,141
 
 track HL_hs1122
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1122.bw
-shortLabel HL_hs1122_chicago3
-longLabel HL_hs1122_chicago3
+shortLabel HL_hs1122_adjcent
+longLabel HL_hs1122_adjcent
 type bigWig
 color 70,114,238
 
 track HL_hs1123
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1123.bw
-shortLabel HL_hs1123_chicago3
-longLabel HL_hs1123_chicago3
+shortLabel HL_hs1123_adjcent
+longLabel HL_hs1123_adjcent
 type bigWig
 color 87,73,10
 
 track HL_hs1130
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1130.bw
-shortLabel HL_hs1130_chicago3
-longLabel HL_hs1130_chicago3
+shortLabel HL_hs1130_adjcent
+longLabel HL_hs1130_adjcent
 type bigWig
 color 2,117,27
 
 track HL_hs1151
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1151.bw
-shortLabel HL_hs1151_chicago3
-longLabel HL_hs1151_chicago3
+shortLabel HL_hs1151_adjcent
+longLabel HL_hs1151_adjcent
 type bigWig
 color 15,246,239
 
 track HL_hs1152
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1152.bw
-shortLabel HL_hs1152_chicago3
-longLabel HL_hs1152_chicago3
+shortLabel HL_hs1152_adjcent
+longLabel HL_hs1152_adjcent
 type bigWig
 color 30,11,230
 
 track HL_hs1153
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1153.bw
-shortLabel HL_hs1153_chicago3
-longLabel HL_hs1153_chicago3
+shortLabel HL_hs1153_adjcent
+longLabel HL_hs1153_adjcent
 type bigWig
 color 163,183,172
 
 track HL_hs1163
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1163.bw
-shortLabel HL_hs1163_chicago3
-longLabel HL_hs1163_chicago3
+shortLabel HL_hs1163_adjcent
+longLabel HL_hs1163_adjcent
 type bigWig
 color 144,74,119
 
 track HL_hs1166
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1166.bw
-shortLabel HL_hs1166_chicago3
-longLabel HL_hs1166_chicago3
+shortLabel HL_hs1166_adjcent
+longLabel HL_hs1166_adjcent
 type bigWig
 color 193,132,156
 
 track HL_hs117
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs117.bw
-shortLabel HL_hs117_chicago3
-longLabel HL_hs117_chicago3
+shortLabel HL_hs117_adjcent
+longLabel HL_hs117_adjcent
 type bigWig
 color 54,227,202
 
 track HL_hs1170
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1170.bw
-shortLabel HL_hs1170_chicago3
-longLabel HL_hs1170_chicago3
+shortLabel HL_hs1170_adjcent
+longLabel HL_hs1170_adjcent
 type bigWig
 color 235,140,178
 
 track HL_hs1172
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1172.bw
-shortLabel HL_hs1172_chicago3
-longLabel HL_hs1172_chicago3
+shortLabel HL_hs1172_adjcent
+longLabel HL_hs1172_adjcent
 type bigWig
 color 203,28,230
 
 track HL_hs1174
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1174.bw
-shortLabel HL_hs1174_chicago3
-longLabel HL_hs1174_chicago3
+shortLabel HL_hs1174_adjcent
+longLabel HL_hs1174_adjcent
 type bigWig
 color 216,63,151
 
 track HL_hs1185
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1185.bw
-shortLabel HL_hs1185_chicago3
-longLabel HL_hs1185_chicago3
+shortLabel HL_hs1185_adjcent
+longLabel HL_hs1185_adjcent
 type bigWig
 color 217,32,253
 
 track HL_hs1187
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1187.bw
-shortLabel HL_hs1187_chicago3
-longLabel HL_hs1187_chicago3
+shortLabel HL_hs1187_adjcent
+longLabel HL_hs1187_adjcent
 type bigWig
 color 150,160,94
 
 track HL_hs1202
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1202.bw
-shortLabel HL_hs1202_chicago3
-longLabel HL_hs1202_chicago3
+shortLabel HL_hs1202_adjcent
+longLabel HL_hs1202_adjcent
 type bigWig
 color 62,70,144
 
 track HL_hs1205
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1205.bw
-shortLabel HL_hs1205_chicago3
-longLabel HL_hs1205_chicago3
+shortLabel HL_hs1205_adjcent
+longLabel HL_hs1205_adjcent
 type bigWig
 color 32,207,55
 
 track HL_hs1208
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1208.bw
-shortLabel HL_hs1208_chicago3
-longLabel HL_hs1208_chicago3
+shortLabel HL_hs1208_adjcent
+longLabel HL_hs1208_adjcent
 type bigWig
 color 138,8,74
 
 track HL_hs1210
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1210.bw
-shortLabel HL_hs1210_chicago3
-longLabel HL_hs1210_chicago3
+shortLabel HL_hs1210_adjcent
+longLabel HL_hs1210_adjcent
 type bigWig
 color 164,132,228
 
 track HL_hs1212
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1212.bw
-shortLabel HL_hs1212_chicago3
-longLabel HL_hs1212_chicago3
+shortLabel HL_hs1212_adjcent
+longLabel HL_hs1212_adjcent
 type bigWig
 color 74,70,87
 
 track HL_hs1213
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1213.bw
-shortLabel HL_hs1213_chicago3
-longLabel HL_hs1213_chicago3
+shortLabel HL_hs1213_adjcent
+longLabel HL_hs1213_adjcent
 type bigWig
 color 147,251,155
 
 track HL_hs1236
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1236.bw
-shortLabel HL_hs1236_chicago3
-longLabel HL_hs1236_chicago3
+shortLabel HL_hs1236_adjcent
+longLabel HL_hs1236_adjcent
 type bigWig
 color 202,224,88
 
 track HL_hs1247
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1247.bw
-shortLabel HL_hs1247_chicago3
-longLabel HL_hs1247_chicago3
+shortLabel HL_hs1247_adjcent
+longLabel HL_hs1247_adjcent
 type bigWig
 color 57,93,11
 
 track HL_hs1251
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1251.bw
-shortLabel HL_hs1251_chicago3
-longLabel HL_hs1251_chicago3
+shortLabel HL_hs1251_adjcent
+longLabel HL_hs1251_adjcent
 type bigWig
 color 108,210,100
 
 track HL_hs126
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs126.bw
-shortLabel HL_hs126_chicago3
-longLabel HL_hs126_chicago3
+shortLabel HL_hs126_adjcent
+longLabel HL_hs126_adjcent
 type bigWig
 color 113,144,24
 
 track HL_hs1262
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1262.bw
-shortLabel HL_hs1262_chicago3
-longLabel HL_hs1262_chicago3
+shortLabel HL_hs1262_adjcent
+longLabel HL_hs1262_adjcent
 type bigWig
 color 88,80,238
 
 track HL_hs1271
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1271.bw
-shortLabel HL_hs1271_chicago3
-longLabel HL_hs1271_chicago3
+shortLabel HL_hs1271_adjcent
+longLabel HL_hs1271_adjcent
 type bigWig
 color 84,18,246
 
 track HL_hs1273
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1273.bw
-shortLabel HL_hs1273_chicago3
-longLabel HL_hs1273_chicago3
+shortLabel HL_hs1273_adjcent
+longLabel HL_hs1273_adjcent
 type bigWig
 color 136,179,55
 
 track HL_hs1302
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1302.bw
-shortLabel HL_hs1302_chicago3
-longLabel HL_hs1302_chicago3
+shortLabel HL_hs1302_adjcent
+longLabel HL_hs1302_adjcent
 type bigWig
 color 64,172,228
 
 track HL_hs1310
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1310.bw
-shortLabel HL_hs1310_chicago3
-longLabel HL_hs1310_chicago3
+shortLabel HL_hs1310_adjcent
+longLabel HL_hs1310_adjcent
 type bigWig
 color 223,217,180
 
 track HL_hs1314
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1314.bw
-shortLabel HL_hs1314_chicago3
-longLabel HL_hs1314_chicago3
+shortLabel HL_hs1314_adjcent
+longLabel HL_hs1314_adjcent
 type bigWig
 color 182,33,111
 
 track HL_hs1318
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1318.bw
-shortLabel HL_hs1318_chicago3
-longLabel HL_hs1318_chicago3
+shortLabel HL_hs1318_adjcent
+longLabel HL_hs1318_adjcent
 type bigWig
 color 136,175,155
 
 track HL_hs1321
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1321.bw
-shortLabel HL_hs1321_chicago3
-longLabel HL_hs1321_chicago3
+shortLabel HL_hs1321_adjcent
+longLabel HL_hs1321_adjcent
 type bigWig
 color 125,194,53
 
 track HL_hs1327
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1327.bw
-shortLabel HL_hs1327_chicago3
-longLabel HL_hs1327_chicago3
+shortLabel HL_hs1327_adjcent
+longLabel HL_hs1327_adjcent
 type bigWig
 color 219,11,97
 
 track HL_hs1333
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1333.bw
-shortLabel HL_hs1333_chicago3
-longLabel HL_hs1333_chicago3
+shortLabel HL_hs1333_adjcent
+longLabel HL_hs1333_adjcent
 type bigWig
 color 59,44,78
 
 track HL_hs1334
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1334.bw
-shortLabel HL_hs1334_chicago3
-longLabel HL_hs1334_chicago3
+shortLabel HL_hs1334_adjcent
+longLabel HL_hs1334_adjcent
 type bigWig
 color 247,60,182
 
 track HL_hs1335
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1335.bw
-shortLabel HL_hs1335_chicago3
-longLabel HL_hs1335_chicago3
+shortLabel HL_hs1335_adjcent
+longLabel HL_hs1335_adjcent
 type bigWig
 color 51,53,242
 
 track HL_hs1339
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1339.bw
-shortLabel HL_hs1339_chicago3
-longLabel HL_hs1339_chicago3
+shortLabel HL_hs1339_adjcent
+longLabel HL_hs1339_adjcent
 type bigWig
 color 94,90,246
 
 track HL_hs1340
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1340.bw
-shortLabel HL_hs1340_chicago3
-longLabel HL_hs1340_chicago3
+shortLabel HL_hs1340_adjcent
+longLabel HL_hs1340_adjcent
 type bigWig
 color 5,209,246
 
 track HL_hs1344
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1344.bw
-shortLabel HL_hs1344_chicago3
-longLabel HL_hs1344_chicago3
+shortLabel HL_hs1344_adjcent
+longLabel HL_hs1344_adjcent
 type bigWig
 color 221,100,124
 
 track HL_hs1352
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1352.bw
-shortLabel HL_hs1352_chicago3
-longLabel HL_hs1352_chicago3
+shortLabel HL_hs1352_adjcent
+longLabel HL_hs1352_adjcent
 type bigWig
 color 126,103,57
 
 track HL_hs1360
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1360.bw
-shortLabel HL_hs1360_chicago3
-longLabel HL_hs1360_chicago3
+shortLabel HL_hs1360_adjcent
+longLabel HL_hs1360_adjcent
 type bigWig
 color 134,145,162
 
 track HL_hs1374
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1374.bw
-shortLabel HL_hs1374_chicago3
-longLabel HL_hs1374_chicago3
+shortLabel HL_hs1374_adjcent
+longLabel HL_hs1374_adjcent
 type bigWig
 color 202,92,244
 
 track HL_hs1388
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1388.bw
-shortLabel HL_hs1388_chicago3
-longLabel HL_hs1388_chicago3
+shortLabel HL_hs1388_adjcent
+longLabel HL_hs1388_adjcent
 type bigWig
 color 7,148,136
 
 track HL_hs1391
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1391.bw
-shortLabel HL_hs1391_chicago3
-longLabel HL_hs1391_chicago3
+shortLabel HL_hs1391_adjcent
+longLabel HL_hs1391_adjcent
 type bigWig
 color 40,215,145
 
 track HL_hs1393
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1393.bw
-shortLabel HL_hs1393_chicago3
-longLabel HL_hs1393_chicago3
+shortLabel HL_hs1393_adjcent
+longLabel HL_hs1393_adjcent
 type bigWig
 color 151,68,133
 
 track HL_hs1397
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1397.bw
-shortLabel HL_hs1397_chicago3
-longLabel HL_hs1397_chicago3
+shortLabel HL_hs1397_adjcent
+longLabel HL_hs1397_adjcent
 type bigWig
 color 44,220,204
 
 track HL_hs1413
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1413.bw
-shortLabel HL_hs1413_chicago3
-longLabel HL_hs1413_chicago3
+shortLabel HL_hs1413_adjcent
+longLabel HL_hs1413_adjcent
 type bigWig
 color 26,123,139
 
 track HL_hs1414
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1414.bw
-shortLabel HL_hs1414_chicago3
-longLabel HL_hs1414_chicago3
+shortLabel HL_hs1414_adjcent
+longLabel HL_hs1414_adjcent
 type bigWig
 color 234,52,207
 
 track HL_hs1417
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1417.bw
-shortLabel HL_hs1417_chicago3
-longLabel HL_hs1417_chicago3
+shortLabel HL_hs1417_adjcent
+longLabel HL_hs1417_adjcent
 type bigWig
 color 123,84,230
 
 track HL_hs1418
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1418.bw
-shortLabel HL_hs1418_chicago3
-longLabel HL_hs1418_chicago3
+shortLabel HL_hs1418_adjcent
+longLabel HL_hs1418_adjcent
 type bigWig
 color 12,170,86
 
 track HL_hs1425
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1425.bw
-shortLabel HL_hs1425_chicago3
-longLabel HL_hs1425_chicago3
+shortLabel HL_hs1425_adjcent
+longLabel HL_hs1425_adjcent
 type bigWig
 color 180,254,245
 
 track HL_hs1427
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1427.bw
-shortLabel HL_hs1427_chicago3
-longLabel HL_hs1427_chicago3
+shortLabel HL_hs1427_adjcent
+longLabel HL_hs1427_adjcent
 type bigWig
 color 206,44,123
 
 track HL_hs1428
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1428.bw
-shortLabel HL_hs1428_chicago3
-longLabel HL_hs1428_chicago3
+shortLabel HL_hs1428_adjcent
+longLabel HL_hs1428_adjcent
 type bigWig
 color 39,64,78
 
 track HL_hs1430
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1430.bw
-shortLabel HL_hs1430_chicago3
-longLabel HL_hs1430_chicago3
+shortLabel HL_hs1430_adjcent
+longLabel HL_hs1430_adjcent
 type bigWig
 color 34,115,68
 
 track HL_hs1431
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1431.bw
-shortLabel HL_hs1431_chicago3
-longLabel HL_hs1431_chicago3
+shortLabel HL_hs1431_adjcent
+longLabel HL_hs1431_adjcent
 type bigWig
 color 48,151,234
 
 track HL_hs1433
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1433.bw
-shortLabel HL_hs1433_chicago3
-longLabel HL_hs1433_chicago3
+shortLabel HL_hs1433_adjcent
+longLabel HL_hs1433_adjcent
 type bigWig
 color 182,104,12
 
 track HL_hs1435
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1435.bw
-shortLabel HL_hs1435_chicago3
-longLabel HL_hs1435_chicago3
+shortLabel HL_hs1435_adjcent
+longLabel HL_hs1435_adjcent
 type bigWig
 color 98,96,52
 
 track HL_hs1436
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1436.bw
-shortLabel HL_hs1436_chicago3
-longLabel HL_hs1436_chicago3
+shortLabel HL_hs1436_adjcent
+longLabel HL_hs1436_adjcent
 type bigWig
 color 43,12,158
 
 track HL_hs1440
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1440.bw
-shortLabel HL_hs1440_chicago3
-longLabel HL_hs1440_chicago3
+shortLabel HL_hs1440_adjcent
+longLabel HL_hs1440_adjcent
 type bigWig
 color 202,183,71
 
 track HL_hs1442
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1442.bw
-shortLabel HL_hs1442_chicago3
-longLabel HL_hs1442_chicago3
+shortLabel HL_hs1442_adjcent
+longLabel HL_hs1442_adjcent
 type bigWig
 color 57,219,23
 
 track HL_hs1445
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1445.bw
-shortLabel HL_hs1445_chicago3
-longLabel HL_hs1445_chicago3
+shortLabel HL_hs1445_adjcent
+longLabel HL_hs1445_adjcent
 type bigWig
 color 237,166,180
 
 track HL_hs1450
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1450.bw
-shortLabel HL_hs1450_chicago3
-longLabel HL_hs1450_chicago3
+shortLabel HL_hs1450_adjcent
+longLabel HL_hs1450_adjcent
 type bigWig
 color 99,199,75
 
 track HL_hs1453
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1453.bw
-shortLabel HL_hs1453_chicago3
-longLabel HL_hs1453_chicago3
+shortLabel HL_hs1453_adjcent
+longLabel HL_hs1453_adjcent
 type bigWig
 color 159,4,46
 
 track HL_hs1460
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1460.bw
-shortLabel HL_hs1460_chicago3
-longLabel HL_hs1460_chicago3
+shortLabel HL_hs1460_adjcent
+longLabel HL_hs1460_adjcent
 type bigWig
 color 250,58,157
 
 track HL_hs1463
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1463.bw
-shortLabel HL_hs1463_chicago3
-longLabel HL_hs1463_chicago3
+shortLabel HL_hs1463_adjcent
+longLabel HL_hs1463_adjcent
 type bigWig
 color 137,92,83
 
 track HL_hs1465
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1465.bw
-shortLabel HL_hs1465_chicago3
-longLabel HL_hs1465_chicago3
+shortLabel HL_hs1465_adjcent
+longLabel HL_hs1465_adjcent
 type bigWig
 color 89,83,95
 
 track HL_hs1466
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1466.bw
-shortLabel HL_hs1466_chicago3
-longLabel HL_hs1466_chicago3
+shortLabel HL_hs1466_adjcent
+longLabel HL_hs1466_adjcent
 type bigWig
 color 156,41,41
 
 track HL_hs1467
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1467.bw
-shortLabel HL_hs1467_chicago3
-longLabel HL_hs1467_chicago3
+shortLabel HL_hs1467_adjcent
+longLabel HL_hs1467_adjcent
 type bigWig
 color 26,109,158
 
 track HL_hs1472
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1472.bw
-shortLabel HL_hs1472_chicago3
-longLabel HL_hs1472_chicago3
+shortLabel HL_hs1472_adjcent
+longLabel HL_hs1472_adjcent
 type bigWig
 color 163,248,135
 
 track HL_hs1475
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1475.bw
-shortLabel HL_hs1475_chicago3
-longLabel HL_hs1475_chicago3
+shortLabel HL_hs1475_adjcent
+longLabel HL_hs1475_adjcent
 type bigWig
 color 187,130,183
 
 track HL_hs1479
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1479.bw
-shortLabel HL_hs1479_chicago3
-longLabel HL_hs1479_chicago3
+shortLabel HL_hs1479_adjcent
+longLabel HL_hs1479_adjcent
 type bigWig
 color 102,142,44
 
 track HL_hs1484
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1484.bw
-shortLabel HL_hs1484_chicago3
-longLabel HL_hs1484_chicago3
+shortLabel HL_hs1484_adjcent
+longLabel HL_hs1484_adjcent
 type bigWig
 color 242,97,13
 
 track HL_hs1485
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1485.bw
-shortLabel HL_hs1485_chicago3
-longLabel HL_hs1485_chicago3
+shortLabel HL_hs1485_adjcent
+longLabel HL_hs1485_adjcent
 type bigWig
 color 124,240,225
 
 track HL_hs1488
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1488.bw
-shortLabel HL_hs1488_chicago3
-longLabel HL_hs1488_chicago3
+shortLabel HL_hs1488_adjcent
+longLabel HL_hs1488_adjcent
 type bigWig
 color 244,91,238
 
 track HL_hs1491
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1491.bw
-shortLabel HL_hs1491_chicago3
-longLabel HL_hs1491_chicago3
+shortLabel HL_hs1491_adjcent
+longLabel HL_hs1491_adjcent
 type bigWig
 color 67,110,148
 
 track HL_hs1496
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1496.bw
-shortLabel HL_hs1496_chicago3
-longLabel HL_hs1496_chicago3
+shortLabel HL_hs1496_adjcent
+longLabel HL_hs1496_adjcent
 type bigWig
 color 158,222,114
 
 track HL_hs1497
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1497.bw
-shortLabel HL_hs1497_chicago3
-longLabel HL_hs1497_chicago3
+shortLabel HL_hs1497_adjcent
+longLabel HL_hs1497_adjcent
 type bigWig
 color 9,28,242
 
 track HL_hs1500
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1500.bw
-shortLabel HL_hs1500_chicago3
-longLabel HL_hs1500_chicago3
+shortLabel HL_hs1500_adjcent
+longLabel HL_hs1500_adjcent
 type bigWig
 color 78,202,243
 
 track HL_hs1507
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1507.bw
-shortLabel HL_hs1507_chicago3
-longLabel HL_hs1507_chicago3
+shortLabel HL_hs1507_adjcent
+longLabel HL_hs1507_adjcent
 type bigWig
 color 42,170,239
 
 track HL_hs152
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs152.bw
-shortLabel HL_hs152_chicago3
-longLabel HL_hs152_chicago3
+shortLabel HL_hs152_adjcent
+longLabel HL_hs152_adjcent
 type bigWig
 color 59,135,86
 
 track HL_hs1530
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1530.bw
-shortLabel HL_hs1530_chicago3
-longLabel HL_hs1530_chicago3
+shortLabel HL_hs1530_adjcent
+longLabel HL_hs1530_adjcent
 type bigWig
 color 131,91,80
 
 track HL_hs1535
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1535.bw
-shortLabel HL_hs1535_chicago3
-longLabel HL_hs1535_chicago3
+shortLabel HL_hs1535_adjcent
+longLabel HL_hs1535_adjcent
 type bigWig
 color 216,70,153
 
 track HL_hs1537
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1537.bw
-shortLabel HL_hs1537_chicago3
-longLabel HL_hs1537_chicago3
+shortLabel HL_hs1537_adjcent
+longLabel HL_hs1537_adjcent
 type bigWig
 color 81,29,241
 
 track HL_hs1548
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1548.bw
-shortLabel HL_hs1548_chicago3
-longLabel HL_hs1548_chicago3
+shortLabel HL_hs1548_adjcent
+longLabel HL_hs1548_adjcent
 type bigWig
 color 109,78,109
 
 track HL_hs1553
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1553.bw
-shortLabel HL_hs1553_chicago3
-longLabel HL_hs1553_chicago3
+shortLabel HL_hs1553_adjcent
+longLabel HL_hs1553_adjcent
 type bigWig
 color 182,60,26
 
 track HL_hs1555
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1555.bw
-shortLabel HL_hs1555_chicago3
-longLabel HL_hs1555_chicago3
+shortLabel HL_hs1555_adjcent
+longLabel HL_hs1555_adjcent
 type bigWig
 color 1,11,81
 
 track HL_hs1563
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1563.bw
-shortLabel HL_hs1563_chicago3
-longLabel HL_hs1563_chicago3
+shortLabel HL_hs1563_adjcent
+longLabel HL_hs1563_adjcent
 type bigWig
 color 156,71,177
 
 track HL_hs1564
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1564.bw
-shortLabel HL_hs1564_chicago3
-longLabel HL_hs1564_chicago3
+shortLabel HL_hs1564_adjcent
+longLabel HL_hs1564_adjcent
 type bigWig
 color 10,131,38
 
 track HL_hs1575
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1575.bw
-shortLabel HL_hs1575_chicago3
-longLabel HL_hs1575_chicago3
+shortLabel HL_hs1575_adjcent
+longLabel HL_hs1575_adjcent
 type bigWig
 color 19,9,40
 
 track HL_hs1577
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1577.bw
-shortLabel HL_hs1577_chicago3
-longLabel HL_hs1577_chicago3
+shortLabel HL_hs1577_adjcent
+longLabel HL_hs1577_adjcent
 type bigWig
 color 99,191,20
 
 track HL_hs1578
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1578.bw
-shortLabel HL_hs1578_chicago3
-longLabel HL_hs1578_chicago3
+shortLabel HL_hs1578_adjcent
+longLabel HL_hs1578_adjcent
 type bigWig
 color 13,175,97
 
 track HL_hs1581
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1581.bw
-shortLabel HL_hs1581_chicago3
-longLabel HL_hs1581_chicago3
+shortLabel HL_hs1581_adjcent
+longLabel HL_hs1581_adjcent
 type bigWig
 color 1,229,178
 
 track HL_hs1585
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1585.bw
-shortLabel HL_hs1585_chicago3
-longLabel HL_hs1585_chicago3
+shortLabel HL_hs1585_adjcent
+longLabel HL_hs1585_adjcent
 type bigWig
 color 210,154,102
 
 track HL_hs1586
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1586.bw
-shortLabel HL_hs1586_chicago3
-longLabel HL_hs1586_chicago3
+shortLabel HL_hs1586_adjcent
+longLabel HL_hs1586_adjcent
 type bigWig
 color 8,163,222
 
 track HL_hs1588
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1588.bw
-shortLabel HL_hs1588_chicago3
-longLabel HL_hs1588_chicago3
+shortLabel HL_hs1588_adjcent
+longLabel HL_hs1588_adjcent
 type bigWig
 color 31,139,98
 
 track HL_hs1599
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1599.bw
-shortLabel HL_hs1599_chicago3
-longLabel HL_hs1599_chicago3
+shortLabel HL_hs1599_adjcent
+longLabel HL_hs1599_adjcent
 type bigWig
 color 240,42,238
 
 track HL_hs1600
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1600.bw
-shortLabel HL_hs1600_chicago3
-longLabel HL_hs1600_chicago3
+shortLabel HL_hs1600_adjcent
+longLabel HL_hs1600_adjcent
 type bigWig
 color 103,19,226
 
 track HL_hs1602
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1602.bw
-shortLabel HL_hs1602_chicago3
-longLabel HL_hs1602_chicago3
+shortLabel HL_hs1602_adjcent
+longLabel HL_hs1602_adjcent
 type bigWig
 color 86,68,114
 
 track HL_hs1603
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1603.bw
-shortLabel HL_hs1603_chicago3
-longLabel HL_hs1603_chicago3
+shortLabel HL_hs1603_adjcent
+longLabel HL_hs1603_adjcent
 type bigWig
 color 35,155,114
 
 track HL_hs1611
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1611.bw
-shortLabel HL_hs1611_chicago3
-longLabel HL_hs1611_chicago3
+shortLabel HL_hs1611_adjcent
+longLabel HL_hs1611_adjcent
 type bigWig
 color 121,172,253
 
 track HL_hs1613
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1613.bw
-shortLabel HL_hs1613_chicago3
-longLabel HL_hs1613_chicago3
+shortLabel HL_hs1613_adjcent
+longLabel HL_hs1613_adjcent
 type bigWig
 color 124,182,223
 
 track HL_hs1616
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1616.bw
-shortLabel HL_hs1616_chicago3
-longLabel HL_hs1616_chicago3
+shortLabel HL_hs1616_adjcent
+longLabel HL_hs1616_adjcent
 type bigWig
 color 82,159,171
 
 track HL_hs1622
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1622.bw
-shortLabel HL_hs1622_chicago3
-longLabel HL_hs1622_chicago3
+shortLabel HL_hs1622_adjcent
+longLabel HL_hs1622_adjcent
 type bigWig
 color 75,155,139
 
 track HL_hs1627
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1627.bw
-shortLabel HL_hs1627_chicago3
-longLabel HL_hs1627_chicago3
+shortLabel HL_hs1627_adjcent
+longLabel HL_hs1627_adjcent
 type bigWig
 color 129,174,183
 
 track HL_hs1629
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1629.bw
-shortLabel HL_hs1629_chicago3
-longLabel HL_hs1629_chicago3
+shortLabel HL_hs1629_adjcent
+longLabel HL_hs1629_adjcent
 type bigWig
 color 91,112,173
 
 track HL_hs1633
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1633.bw
-shortLabel HL_hs1633_chicago3
-longLabel HL_hs1633_chicago3
+shortLabel HL_hs1633_adjcent
+longLabel HL_hs1633_adjcent
 type bigWig
 color 246,178,14
 
 track HL_hs1635
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1635.bw
-shortLabel HL_hs1635_chicago3
-longLabel HL_hs1635_chicago3
+shortLabel HL_hs1635_adjcent
+longLabel HL_hs1635_adjcent
 type bigWig
 color 165,12,153
 
 track HL_hs1640
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1640.bw
-shortLabel HL_hs1640_chicago3
-longLabel HL_hs1640_chicago3
+shortLabel HL_hs1640_adjcent
+longLabel HL_hs1640_adjcent
 type bigWig
 color 44,53,56
 
 track HL_hs1641
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1641.bw
-shortLabel HL_hs1641_chicago3
-longLabel HL_hs1641_chicago3
+shortLabel HL_hs1641_adjcent
+longLabel HL_hs1641_adjcent
 type bigWig
 color 115,55,81
 
 track HL_hs1644
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1644.bw
-shortLabel HL_hs1644_chicago3
-longLabel HL_hs1644_chicago3
+shortLabel HL_hs1644_adjcent
+longLabel HL_hs1644_adjcent
 type bigWig
 color 232,67,227
 
 track HL_hs1648
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1648.bw
-shortLabel HL_hs1648_chicago3
-longLabel HL_hs1648_chicago3
+shortLabel HL_hs1648_adjcent
+longLabel HL_hs1648_adjcent
 type bigWig
 color 236,83,112
 
 track HL_hs1658
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1658.bw
-shortLabel HL_hs1658_chicago3
-longLabel HL_hs1658_chicago3
+shortLabel HL_hs1658_adjcent
+longLabel HL_hs1658_adjcent
 type bigWig
 color 97,189,197
 
 track HL_hs1679
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1679.bw
-shortLabel HL_hs1679_chicago3
-longLabel HL_hs1679_chicago3
+shortLabel HL_hs1679_adjcent
+longLabel HL_hs1679_adjcent
 type bigWig
 color 3,172,119
 
 track HL_hs1681
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1681.bw
-shortLabel HL_hs1681_chicago3
-longLabel HL_hs1681_chicago3
+shortLabel HL_hs1681_adjcent
+longLabel HL_hs1681_adjcent
 type bigWig
 color 99,136,210
 
 track HL_hs1705
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1705.bw
-shortLabel HL_hs1705_chicago3
-longLabel HL_hs1705_chicago3
+shortLabel HL_hs1705_adjcent
+longLabel HL_hs1705_adjcent
 type bigWig
 color 224,2,200
 
 track HL_hs1720
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1720.bw
-shortLabel HL_hs1720_chicago3
-longLabel HL_hs1720_chicago3
+shortLabel HL_hs1720_adjcent
+longLabel HL_hs1720_adjcent
 type bigWig
 color 50,45,21
 
 track HL_hs1725
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1725.bw
-shortLabel HL_hs1725_chicago3
-longLabel HL_hs1725_chicago3
+shortLabel HL_hs1725_adjcent
+longLabel HL_hs1725_adjcent
 type bigWig
 color 142,106,130
 
 track HL_hs1734
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1734.bw
-shortLabel HL_hs1734_chicago3
-longLabel HL_hs1734_chicago3
+shortLabel HL_hs1734_adjcent
+longLabel HL_hs1734_adjcent
 type bigWig
 color 21,227,36
 
 track HL_hs1745
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1745.bw
-shortLabel HL_hs1745_chicago3
-longLabel HL_hs1745_chicago3
+shortLabel HL_hs1745_adjcent
+longLabel HL_hs1745_adjcent
 type bigWig
 color 166,64,67
 
 track HL_hs1747
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1747.bw
-shortLabel HL_hs1747_chicago3
-longLabel HL_hs1747_chicago3
+shortLabel HL_hs1747_adjcent
+longLabel HL_hs1747_adjcent
 type bigWig
 color 160,91,246
 
 track HL_hs1767
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1767.bw
-shortLabel HL_hs1767_chicago3
-longLabel HL_hs1767_chicago3
+shortLabel HL_hs1767_adjcent
+longLabel HL_hs1767_adjcent
 type bigWig
 color 183,130,119
 
 track HL_hs1783
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1783.bw
-shortLabel HL_hs1783_chicago3
-longLabel HL_hs1783_chicago3
+shortLabel HL_hs1783_adjcent
+longLabel HL_hs1783_adjcent
 type bigWig
 color 229,219,169
 
 track HL_hs1798
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1798.bw
-shortLabel HL_hs1798_chicago3
-longLabel HL_hs1798_chicago3
+shortLabel HL_hs1798_adjcent
+longLabel HL_hs1798_adjcent
 type bigWig
 color 114,28,100
 
 track HL_hs181
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs181.bw
-shortLabel HL_hs181_chicago3
-longLabel HL_hs181_chicago3
+shortLabel HL_hs181_adjcent
+longLabel HL_hs181_adjcent
 type bigWig
 color 99,115,163
 
 track HL_hs1857
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1857.bw
-shortLabel HL_hs1857_chicago3
-longLabel HL_hs1857_chicago3
+shortLabel HL_hs1857_adjcent
+longLabel HL_hs1857_adjcent
 type bigWig
 color 92,110,210
 
 track HL_hs1862
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1862.bw
-shortLabel HL_hs1862_chicago3
-longLabel HL_hs1862_chicago3
+shortLabel HL_hs1862_adjcent
+longLabel HL_hs1862_adjcent
 type bigWig
 color 169,199,59
 
 track HL_hs1875
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1875.bw
-shortLabel HL_hs1875_chicago3
-longLabel HL_hs1875_chicago3
+shortLabel HL_hs1875_adjcent
+longLabel HL_hs1875_adjcent
 type bigWig
 color 25,175,243
 
 track HL_hs1891
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1891.bw
-shortLabel HL_hs1891_chicago3
-longLabel HL_hs1891_chicago3
+shortLabel HL_hs1891_adjcent
+longLabel HL_hs1891_adjcent
 type bigWig
 color 173,27,11
 
 track HL_hs1909
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1909.bw
-shortLabel HL_hs1909_chicago3
-longLabel HL_hs1909_chicago3
+shortLabel HL_hs1909_adjcent
+longLabel HL_hs1909_adjcent
 type bigWig
 color 194,218,178
 
 track HL_hs1912
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1912.bw
-shortLabel HL_hs1912_chicago3
-longLabel HL_hs1912_chicago3
+shortLabel HL_hs1912_adjcent
+longLabel HL_hs1912_adjcent
 type bigWig
 color 240,237,58
 
 track HL_hs1919
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1919.bw
-shortLabel HL_hs1919_chicago3
-longLabel HL_hs1919_chicago3
+shortLabel HL_hs1919_adjcent
+longLabel HL_hs1919_adjcent
 type bigWig
 color 81,55,253
 
 track HL_hs1920
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1920.bw
-shortLabel HL_hs1920_chicago3
-longLabel HL_hs1920_chicago3
+shortLabel HL_hs1920_adjcent
+longLabel HL_hs1920_adjcent
 type bigWig
 color 6,204,190
 
 track HL_hs1924
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1924.bw
-shortLabel HL_hs1924_chicago3
-longLabel HL_hs1924_chicago3
+shortLabel HL_hs1924_adjcent
+longLabel HL_hs1924_adjcent
 type bigWig
 color 178,27,183
 
 track HL_hs1933
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1933.bw
-shortLabel HL_hs1933_chicago3
-longLabel HL_hs1933_chicago3
+shortLabel HL_hs1933_adjcent
+longLabel HL_hs1933_adjcent
 type bigWig
 color 217,9,70
 
 track HL_hs1955
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1955.bw
-shortLabel HL_hs1955_chicago3
-longLabel HL_hs1955_chicago3
+shortLabel HL_hs1955_adjcent
+longLabel HL_hs1955_adjcent
 type bigWig
 color 35,132,198
 
 track HL_hs196
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs196.bw
-shortLabel HL_hs196_chicago3
-longLabel HL_hs196_chicago3
+shortLabel HL_hs196_adjcent
+longLabel HL_hs196_adjcent
 type bigWig
 color 98,181,35
 
 track HL_hs1961
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1961.bw
-shortLabel HL_hs1961_chicago3
-longLabel HL_hs1961_chicago3
+shortLabel HL_hs1961_adjcent
+longLabel HL_hs1961_adjcent
 type bigWig
 color 167,195,179
 
 track HL_hs197
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs197.bw
-shortLabel HL_hs197_chicago3
-longLabel HL_hs197_chicago3
+shortLabel HL_hs197_adjcent
+longLabel HL_hs197_adjcent
 type bigWig
 color 187,56,196
 
 track HL_hs1977
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs1977.bw
-shortLabel HL_hs1977_chicago3
-longLabel HL_hs1977_chicago3
+shortLabel HL_hs1977_adjcent
+longLabel HL_hs1977_adjcent
 type bigWig
 color 82,119,89
 
 track HL_hs200
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs200.bw
-shortLabel HL_hs200_chicago3
-longLabel HL_hs200_chicago3
+shortLabel HL_hs200_adjcent
+longLabel HL_hs200_adjcent
 type bigWig
 color 174,92,161
 
 track HL_hs2027
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2027.bw
-shortLabel HL_hs2027_chicago3
-longLabel HL_hs2027_chicago3
+shortLabel HL_hs2027_adjcent
+longLabel HL_hs2027_adjcent
 type bigWig
 color 7,144,102
 
 track HL_hs203
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs203.bw
-shortLabel HL_hs203_chicago3
-longLabel HL_hs203_chicago3
+shortLabel HL_hs203_adjcent
+longLabel HL_hs203_adjcent
 type bigWig
 color 110,76,197
 
 track HL_hs205
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs205.bw
-shortLabel HL_hs205_chicago3
-longLabel HL_hs205_chicago3
+shortLabel HL_hs205_adjcent
+longLabel HL_hs205_adjcent
 type bigWig
 color 213,162,121
 
 track HL_hs2059
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2059.bw
-shortLabel HL_hs2059_chicago3
-longLabel HL_hs2059_chicago3
+shortLabel HL_hs2059_adjcent
+longLabel HL_hs2059_adjcent
 type bigWig
 color 139,60,196
 
 track HL_hs2064
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2064.bw
-shortLabel HL_hs2064_chicago3
-longLabel HL_hs2064_chicago3
+shortLabel HL_hs2064_adjcent
+longLabel HL_hs2064_adjcent
 type bigWig
 color 124,111,135
 
 track HL_hs2070
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2070.bw
-shortLabel HL_hs2070_chicago3
-longLabel HL_hs2070_chicago3
+shortLabel HL_hs2070_adjcent
+longLabel HL_hs2070_adjcent
 type bigWig
 color 24,117,84
 
 track HL_hs2078
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2078.bw
-shortLabel HL_hs2078_chicago3
-longLabel HL_hs2078_chicago3
+shortLabel HL_hs2078_adjcent
+longLabel HL_hs2078_adjcent
 type bigWig
 color 222,43,243
 
 track HL_hs2094
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2094.bw
-shortLabel HL_hs2094_chicago3
-longLabel HL_hs2094_chicago3
+shortLabel HL_hs2094_adjcent
+longLabel HL_hs2094_adjcent
 type bigWig
 color 106,73,51
 
 track HL_hs2104
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2104.bw
-shortLabel HL_hs2104_chicago3
-longLabel HL_hs2104_chicago3
+shortLabel HL_hs2104_adjcent
+longLabel HL_hs2104_adjcent
 type bigWig
 color 252,96,65
 
 track HL_hs2125
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2125.bw
-shortLabel HL_hs2125_chicago3
-longLabel HL_hs2125_chicago3
+shortLabel HL_hs2125_adjcent
+longLabel HL_hs2125_adjcent
 type bigWig
 color 139,214,134
 
 track HL_hs215
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs215.bw
-shortLabel HL_hs215_chicago3
-longLabel HL_hs215_chicago3
+shortLabel HL_hs215_adjcent
+longLabel HL_hs215_adjcent
 type bigWig
 color 177,81,253
 
 track HL_hs216
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs216.bw
-shortLabel HL_hs216_chicago3
-longLabel HL_hs216_chicago3
+shortLabel HL_hs216_adjcent
+longLabel HL_hs216_adjcent
 type bigWig
 color 57,225,125
 
 track HL_hs2170
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2170.bw
-shortLabel HL_hs2170_chicago3
-longLabel HL_hs2170_chicago3
+shortLabel HL_hs2170_adjcent
+longLabel HL_hs2170_adjcent
 type bigWig
 color 86,106,78
 
 track HL_hs218
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs218.bw
-shortLabel HL_hs218_chicago3
-longLabel HL_hs218_chicago3
+shortLabel HL_hs218_adjcent
+longLabel HL_hs218_adjcent
 type bigWig
 color 45,154,51
 
 track HL_hs219
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs219.bw
-shortLabel HL_hs219_chicago3
-longLabel HL_hs219_chicago3
+shortLabel HL_hs219_adjcent
+longLabel HL_hs219_adjcent
 type bigWig
 color 194,6,88
 
 track HL_hs22
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs22.bw
-shortLabel HL_hs22_chicago3
-longLabel HL_hs22_chicago3
+shortLabel HL_hs22_adjcent
+longLabel HL_hs22_adjcent
 type bigWig
 color 211,66,189
 
 track HL_hs220
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs220.bw
-shortLabel HL_hs220_chicago3
-longLabel HL_hs220_chicago3
+shortLabel HL_hs220_adjcent
+longLabel HL_hs220_adjcent
 type bigWig
 color 18,25,157
 
 track HL_hs2205
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2205.bw
-shortLabel HL_hs2205_chicago3
-longLabel HL_hs2205_chicago3
+shortLabel HL_hs2205_adjcent
+longLabel HL_hs2205_adjcent
 type bigWig
 color 210,223,126
 
 track HL_hs221
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs221.bw
-shortLabel HL_hs221_chicago3
-longLabel HL_hs221_chicago3
+shortLabel HL_hs221_adjcent
+longLabel HL_hs221_adjcent
 type bigWig
 color 164,90,200
 
 track HL_hs2225
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2225.bw
-shortLabel HL_hs2225_chicago3
-longLabel HL_hs2225_chicago3
+shortLabel HL_hs2225_adjcent
+longLabel HL_hs2225_adjcent
 type bigWig
 color 115,231,139
 
 track HL_hs2229
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2229.bw
-shortLabel HL_hs2229_chicago3
-longLabel HL_hs2229_chicago3
+shortLabel HL_hs2229_adjcent
+longLabel HL_hs2229_adjcent
 type bigWig
 color 45,209,177
 
 track HL_hs223
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs223.bw
-shortLabel HL_hs223_chicago3
-longLabel HL_hs223_chicago3
+shortLabel HL_hs223_adjcent
+longLabel HL_hs223_adjcent
 type bigWig
 color 20,100,131
 
 track HL_hs2231
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2231.bw
-shortLabel HL_hs2231_chicago3
-longLabel HL_hs2231_chicago3
+shortLabel HL_hs2231_adjcent
+longLabel HL_hs2231_adjcent
 type bigWig
 color 190,118,57
 
 track HL_hs2271
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2271.bw
-shortLabel HL_hs2271_chicago3
-longLabel HL_hs2271_chicago3
+shortLabel HL_hs2271_adjcent
+longLabel HL_hs2271_adjcent
 type bigWig
 color 151,109,134
 
 track HL_hs230
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs230.bw
-shortLabel HL_hs230_chicago3
-longLabel HL_hs230_chicago3
+shortLabel HL_hs230_adjcent
+longLabel HL_hs230_adjcent
 type bigWig
 color 9,150,74
 
 track HL_hs2308
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2308.bw
-shortLabel HL_hs2308_chicago3
-longLabel HL_hs2308_chicago3
+shortLabel HL_hs2308_adjcent
+longLabel HL_hs2308_adjcent
 type bigWig
 color 129,86,130
 
 track HL_hs2309
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2309.bw
-shortLabel HL_hs2309_chicago3
-longLabel HL_hs2309_chicago3
+shortLabel HL_hs2309_adjcent
+longLabel HL_hs2309_adjcent
 type bigWig
 color 209,189,28
 
 track HL_hs231
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs231.bw
-shortLabel HL_hs231_chicago3
-longLabel HL_hs231_chicago3
+shortLabel HL_hs231_adjcent
+longLabel HL_hs231_adjcent
 type bigWig
 color 26,75,200
 
 track HL_hs2312
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2312.bw
-shortLabel HL_hs2312_chicago3
-longLabel HL_hs2312_chicago3
+shortLabel HL_hs2312_adjcent
+longLabel HL_hs2312_adjcent
 type bigWig
 color 95,52,61
 
 track HL_hs2313
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2313.bw
-shortLabel HL_hs2313_chicago3
-longLabel HL_hs2313_chicago3
+shortLabel HL_hs2313_adjcent
+longLabel HL_hs2313_adjcent
 type bigWig
 color 253,209,17
 
 track HL_hs2328
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2328.bw
-shortLabel HL_hs2328_chicago3
-longLabel HL_hs2328_chicago3
+shortLabel HL_hs2328_adjcent
+longLabel HL_hs2328_adjcent
 type bigWig
 color 158,203,180
 
 track HL_hs235
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs235.bw
-shortLabel HL_hs235_chicago3
-longLabel HL_hs235_chicago3
+shortLabel HL_hs235_adjcent
+longLabel HL_hs235_adjcent
 type bigWig
 color 214,101,146
 
 track HL_hs238
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs238.bw
-shortLabel HL_hs238_chicago3
-longLabel HL_hs238_chicago3
+shortLabel HL_hs238_adjcent
+longLabel HL_hs238_adjcent
 type bigWig
 color 130,121,147
 
 track HL_hs239
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs239.bw
-shortLabel HL_hs239_chicago3
-longLabel HL_hs239_chicago3
+shortLabel HL_hs239_adjcent
+longLabel HL_hs239_adjcent
 type bigWig
 color 223,183,190
 
 track HL_hs240
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs240.bw
-shortLabel HL_hs240_chicago3
-longLabel HL_hs240_chicago3
+shortLabel HL_hs240_adjcent
+longLabel HL_hs240_adjcent
 type bigWig
 color 133,18,71
 
 track HL_hs241
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs241.bw
-shortLabel HL_hs241_chicago3
-longLabel HL_hs241_chicago3
+shortLabel HL_hs241_adjcent
+longLabel HL_hs241_adjcent
 type bigWig
 color 226,81,37
 
 track HL_hs245
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs245.bw
-shortLabel HL_hs245_chicago3
-longLabel HL_hs245_chicago3
+shortLabel HL_hs245_adjcent
+longLabel HL_hs245_adjcent
 type bigWig
 color 54,253,177
 
 track HL_hs246
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs246.bw
-shortLabel HL_hs246_chicago3
-longLabel HL_hs246_chicago3
+shortLabel HL_hs246_adjcent
+longLabel HL_hs246_adjcent
 type bigWig
 color 238,177,37
 
 track HL_hs248
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs248.bw
-shortLabel HL_hs248_chicago3
-longLabel HL_hs248_chicago3
+shortLabel HL_hs248_adjcent
+longLabel HL_hs248_adjcent
 type bigWig
 color 29,136,49
 
 track HL_hs2493
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2493.bw
-shortLabel HL_hs2493_chicago3
-longLabel HL_hs2493_chicago3
+shortLabel HL_hs2493_adjcent
+longLabel HL_hs2493_adjcent
 type bigWig
 color 60,157,171
 
 track HL_hs2501
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2501.bw
-shortLabel HL_hs2501_chicago3
-longLabel HL_hs2501_chicago3
+shortLabel HL_hs2501_adjcent
+longLabel HL_hs2501_adjcent
 type bigWig
 color 128,151,232
 
 track HL_hs2516
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs2516.bw
-shortLabel HL_hs2516_chicago3
-longLabel HL_hs2516_chicago3
+shortLabel HL_hs2516_adjcent
+longLabel HL_hs2516_adjcent
 type bigWig
 color 168,93,222
 
 track HL_hs252
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs252.bw
-shortLabel HL_hs252_chicago3
-longLabel HL_hs252_chicago3
+shortLabel HL_hs252_adjcent
+longLabel HL_hs252_adjcent
 type bigWig
 color 147,186,51
 
 track HL_hs257
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs257.bw
-shortLabel HL_hs257_chicago3
-longLabel HL_hs257_chicago3
+shortLabel HL_hs257_adjcent
+longLabel HL_hs257_adjcent
 type bigWig
 color 149,172,69
 
 track HL_hs258
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs258.bw
-shortLabel HL_hs258_chicago3
-longLabel HL_hs258_chicago3
+shortLabel HL_hs258_adjcent
+longLabel HL_hs258_adjcent
 type bigWig
 color 205,242,52
 
 track HL_hs262
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs262.bw
-shortLabel HL_hs262_chicago3
-longLabel HL_hs262_chicago3
+shortLabel HL_hs262_adjcent
+longLabel HL_hs262_adjcent
 type bigWig
 color 192,97,248
 
 track HL_hs263
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs263.bw
-shortLabel HL_hs263_chicago3
-longLabel HL_hs263_chicago3
+shortLabel HL_hs263_adjcent
+longLabel HL_hs263_adjcent
 type bigWig
 color 118,147,122
 
 track HL_hs264
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs264.bw
-shortLabel HL_hs264_chicago3
-longLabel HL_hs264_chicago3
+shortLabel HL_hs264_adjcent
+longLabel HL_hs264_adjcent
 type bigWig
 color 73,70,60
 
 track HL_hs265
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs265.bw
-shortLabel HL_hs265_chicago3
-longLabel HL_hs265_chicago3
+shortLabel HL_hs265_adjcent
+longLabel HL_hs265_adjcent
 type bigWig
 color 17,97,131
 
 track HL_hs266
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs266.bw
-shortLabel HL_hs266_chicago3
-longLabel HL_hs266_chicago3
+shortLabel HL_hs266_adjcent
+longLabel HL_hs266_adjcent
 type bigWig
 color 88,39,195
 
 track HL_hs267
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs267.bw
-shortLabel HL_hs267_chicago3
-longLabel HL_hs267_chicago3
+shortLabel HL_hs267_adjcent
+longLabel HL_hs267_adjcent
 type bigWig
 color 179,191,34
 
 track HL_hs269
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs269.bw
-shortLabel HL_hs269_chicago3
-longLabel HL_hs269_chicago3
+shortLabel HL_hs269_adjcent
+longLabel HL_hs269_adjcent
 type bigWig
 color 194,201,128
 
 track HL_hs270
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs270.bw
-shortLabel HL_hs270_chicago3
-longLabel HL_hs270_chicago3
+shortLabel HL_hs270_adjcent
+longLabel HL_hs270_adjcent
 type bigWig
 color 89,82,31
 
 track HL_hs271
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs271.bw
-shortLabel HL_hs271_chicago3
-longLabel HL_hs271_chicago3
+shortLabel HL_hs271_adjcent
+longLabel HL_hs271_adjcent
 type bigWig
 color 196,251,245
 
 track HL_hs272
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs272.bw
-shortLabel HL_hs272_chicago3
-longLabel HL_hs272_chicago3
+shortLabel HL_hs272_adjcent
+longLabel HL_hs272_adjcent
 type bigWig
 color 231,47,61
 
 track HL_hs277
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs277.bw
-shortLabel HL_hs277_chicago3
-longLabel HL_hs277_chicago3
+shortLabel HL_hs277_adjcent
+longLabel HL_hs277_adjcent
 type bigWig
 color 121,75,174
 
 track HL_hs279
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs279.bw
-shortLabel HL_hs279_chicago3
-longLabel HL_hs279_chicago3
+shortLabel HL_hs279_adjcent
+longLabel HL_hs279_adjcent
 type bigWig
 color 211,151,205
 
 track HL_hs280
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs280.bw
-shortLabel HL_hs280_chicago3
-longLabel HL_hs280_chicago3
+shortLabel HL_hs280_adjcent
+longLabel HL_hs280_adjcent
 type bigWig
 color 0,246,173
 
 track HL_hs281
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs281.bw
-shortLabel HL_hs281_chicago3
-longLabel HL_hs281_chicago3
+shortLabel HL_hs281_adjcent
+longLabel HL_hs281_adjcent
 type bigWig
 color 182,21,235
 
 track HL_hs282
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs282.bw
-shortLabel HL_hs282_chicago3
-longLabel HL_hs282_chicago3
+shortLabel HL_hs282_adjcent
+longLabel HL_hs282_adjcent
 type bigWig
 color 169,138,138
 
 track HL_hs286
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs286.bw
-shortLabel HL_hs286_chicago3
-longLabel HL_hs286_chicago3
+shortLabel HL_hs286_adjcent
+longLabel HL_hs286_adjcent
 type bigWig
 color 241,7,224
 
 track HL_hs289
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs289.bw
-shortLabel HL_hs289_chicago3
-longLabel HL_hs289_chicago3
+shortLabel HL_hs289_adjcent
+longLabel HL_hs289_adjcent
 type bigWig
 color 39,131,99
 
 track HL_hs290
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs290.bw
-shortLabel HL_hs290_chicago3
-longLabel HL_hs290_chicago3
+shortLabel HL_hs290_adjcent
+longLabel HL_hs290_adjcent
 type bigWig
 color 248,182,124
 
 track HL_hs292
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs292.bw
-shortLabel HL_hs292_chicago3
-longLabel HL_hs292_chicago3
+shortLabel HL_hs292_adjcent
+longLabel HL_hs292_adjcent
 type bigWig
 color 253,41,180
 
 track HL_hs293
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs293.bw
-shortLabel HL_hs293_chicago3
-longLabel HL_hs293_chicago3
+shortLabel HL_hs293_adjcent
+longLabel HL_hs293_adjcent
 type bigWig
 color 218,35,172
 
 track HL_hs295
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs295.bw
-shortLabel HL_hs295_chicago3
-longLabel HL_hs295_chicago3
+shortLabel HL_hs295_adjcent
+longLabel HL_hs295_adjcent
 type bigWig
 color 15,17,32
 
 track HL_hs299
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs299.bw
-shortLabel HL_hs299_chicago3
-longLabel HL_hs299_chicago3
+shortLabel HL_hs299_adjcent
+longLabel HL_hs299_adjcent
 type bigWig
 color 107,248,12
 
 track HL_hs301
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs301.bw
-shortLabel HL_hs301_chicago3
-longLabel HL_hs301_chicago3
+shortLabel HL_hs301_adjcent
+longLabel HL_hs301_adjcent
 type bigWig
 color 78,166,241
 
 track HL_hs302
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs302.bw
-shortLabel HL_hs302_chicago3
-longLabel HL_hs302_chicago3
+shortLabel HL_hs302_adjcent
+longLabel HL_hs302_adjcent
 type bigWig
 color 102,198,148
 
 track HL_hs306
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs306.bw
-shortLabel HL_hs306_chicago3
-longLabel HL_hs306_chicago3
+shortLabel HL_hs306_adjcent
+longLabel HL_hs306_adjcent
 type bigWig
 color 9,156,212
 
 track HL_hs309
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs309.bw
-shortLabel HL_hs309_chicago3
-longLabel HL_hs309_chicago3
+shortLabel HL_hs309_adjcent
+longLabel HL_hs309_adjcent
 type bigWig
 color 210,253,191
 
 track HL_hs314
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs314.bw
-shortLabel HL_hs314_chicago3
-longLabel HL_hs314_chicago3
+shortLabel HL_hs314_adjcent
+longLabel HL_hs314_adjcent
 type bigWig
 color 192,2,192
 
 track HL_hs319
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs319.bw
-shortLabel HL_hs319_chicago3
-longLabel HL_hs319_chicago3
+shortLabel HL_hs319_adjcent
+longLabel HL_hs319_adjcent
 type bigWig
 color 245,85,141
 
 track HL_hs324
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs324.bw
-shortLabel HL_hs324_chicago3
-longLabel HL_hs324_chicago3
+shortLabel HL_hs324_adjcent
+longLabel HL_hs324_adjcent
 type bigWig
 color 24,179,27
 
 track HL_hs328
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs328.bw
-shortLabel HL_hs328_chicago3
-longLabel HL_hs328_chicago3
+shortLabel HL_hs328_adjcent
+longLabel HL_hs328_adjcent
 type bigWig
 color 147,205,106
 
 track HL_hs333
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs333.bw
-shortLabel HL_hs333_chicago3
-longLabel HL_hs333_chicago3
+shortLabel HL_hs333_adjcent
+longLabel HL_hs333_adjcent
 type bigWig
 color 126,151,189
 
 track HL_hs337
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs337.bw
-shortLabel HL_hs337_chicago3
-longLabel HL_hs337_chicago3
+shortLabel HL_hs337_adjcent
+longLabel HL_hs337_adjcent
 type bigWig
 color 197,101,29
 
 track HL_hs338
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs338.bw
-shortLabel HL_hs338_chicago3
-longLabel HL_hs338_chicago3
+shortLabel HL_hs338_adjcent
+longLabel HL_hs338_adjcent
 type bigWig
 color 254,105,196
 
 track HL_hs344
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs344.bw
-shortLabel HL_hs344_chicago3
-longLabel HL_hs344_chicago3
+shortLabel HL_hs344_adjcent
+longLabel HL_hs344_adjcent
 type bigWig
 color 136,68,159
 
 track HL_hs346
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs346.bw
-shortLabel HL_hs346_chicago3
-longLabel HL_hs346_chicago3
+shortLabel HL_hs346_adjcent
+longLabel HL_hs346_adjcent
 type bigWig
 color 33,44,74
 
 track HL_hs347
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs347.bw
-shortLabel HL_hs347_chicago3
-longLabel HL_hs347_chicago3
+shortLabel HL_hs347_adjcent
+longLabel HL_hs347_adjcent
 type bigWig
 color 74,24,158
 
 track HL_hs353
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs353.bw
-shortLabel HL_hs353_chicago3
-longLabel HL_hs353_chicago3
+shortLabel HL_hs353_adjcent
+longLabel HL_hs353_adjcent
 type bigWig
 color 159,159,209
 
 track HL_hs356
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs356.bw
-shortLabel HL_hs356_chicago3
-longLabel HL_hs356_chicago3
+shortLabel HL_hs356_adjcent
+longLabel HL_hs356_adjcent
 type bigWig
 color 134,182,132
 
 track HL_hs361
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs361.bw
-shortLabel HL_hs361_chicago3
-longLabel HL_hs361_chicago3
+shortLabel HL_hs361_adjcent
+longLabel HL_hs361_adjcent
 type bigWig
 color 140,223,254
 
 track HL_hs363
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs363.bw
-shortLabel HL_hs363_chicago3
-longLabel HL_hs363_chicago3
+shortLabel HL_hs363_adjcent
+longLabel HL_hs363_adjcent
 type bigWig
 color 16,123,82
 
 track HL_hs364
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs364.bw
-shortLabel HL_hs364_chicago3
-longLabel HL_hs364_chicago3
+shortLabel HL_hs364_adjcent
+longLabel HL_hs364_adjcent
 type bigWig
 color 196,78,219
 
 track HL_hs371
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs371.bw
-shortLabel HL_hs371_chicago3
-longLabel HL_hs371_chicago3
+shortLabel HL_hs371_adjcent
+longLabel HL_hs371_adjcent
 type bigWig
 color 137,254,9
 
 track HL_hs372
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs372.bw
-shortLabel HL_hs372_chicago3
-longLabel HL_hs372_chicago3
+shortLabel HL_hs372_adjcent
+longLabel HL_hs372_adjcent
 type bigWig
 color 144,21,1
 
 track HL_hs373
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs373.bw
-shortLabel HL_hs373_chicago3
-longLabel HL_hs373_chicago3
+shortLabel HL_hs373_adjcent
+longLabel HL_hs373_adjcent
 type bigWig
 color 20,236,214
 
 track HL_hs375
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs375.bw
-shortLabel HL_hs375_chicago3
-longLabel HL_hs375_chicago3
+shortLabel HL_hs375_adjcent
+longLabel HL_hs375_adjcent
 type bigWig
 color 206,5,62
 
 track HL_hs376
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs376.bw
-shortLabel HL_hs376_chicago3
-longLabel HL_hs376_chicago3
+shortLabel HL_hs376_adjcent
+longLabel HL_hs376_adjcent
 type bigWig
 color 124,241,26
 
 track HL_hs378
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs378.bw
-shortLabel HL_hs378_chicago3
-longLabel HL_hs378_chicago3
+shortLabel HL_hs378_adjcent
+longLabel HL_hs378_adjcent
 type bigWig
 color 96,82,108
 
 track HL_hs379
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs379.bw
-shortLabel HL_hs379_chicago3
-longLabel HL_hs379_chicago3
+shortLabel HL_hs379_adjcent
+longLabel HL_hs379_adjcent
 type bigWig
 color 245,1,227
 
 track HL_hs381
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs381.bw
-shortLabel HL_hs381_chicago3
-longLabel HL_hs381_chicago3
+shortLabel HL_hs381_adjcent
+longLabel HL_hs381_adjcent
 type bigWig
 color 75,185,198
 
 track HL_hs382
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs382.bw
-shortLabel HL_hs382_chicago3
-longLabel HL_hs382_chicago3
+shortLabel HL_hs382_adjcent
+longLabel HL_hs382_adjcent
 type bigWig
 color 20,13,134
 
 track HL_hs386
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs386.bw
-shortLabel HL_hs386_chicago3
-longLabel HL_hs386_chicago3
+shortLabel HL_hs386_adjcent
+longLabel HL_hs386_adjcent
 type bigWig
 color 141,126,110
 
 track HL_hs390
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs390.bw
-shortLabel HL_hs390_chicago3
-longLabel HL_hs390_chicago3
+shortLabel HL_hs390_adjcent
+longLabel HL_hs390_adjcent
 type bigWig
 color 6,117,85
 
 track HL_hs391
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs391.bw
-shortLabel HL_hs391_chicago3
-longLabel HL_hs391_chicago3
+shortLabel HL_hs391_adjcent
+longLabel HL_hs391_adjcent
 type bigWig
 color 183,114,164
 
 track HL_hs392
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs392.bw
-shortLabel HL_hs392_chicago3
-longLabel HL_hs392_chicago3
+shortLabel HL_hs392_adjcent
+longLabel HL_hs392_adjcent
 type bigWig
 color 63,124,66
 
 track HL_hs397
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs397.bw
-shortLabel HL_hs397_chicago3
-longLabel HL_hs397_chicago3
+shortLabel HL_hs397_adjcent
+longLabel HL_hs397_adjcent
 type bigWig
 color 161,143,51
 
 track HL_hs402
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs402.bw
-shortLabel HL_hs402_chicago3
-longLabel HL_hs402_chicago3
+shortLabel HL_hs402_adjcent
+longLabel HL_hs402_adjcent
 type bigWig
 color 137,132,176
 
 track HL_hs403
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs403.bw
-shortLabel HL_hs403_chicago3
-longLabel HL_hs403_chicago3
+shortLabel HL_hs403_adjcent
+longLabel HL_hs403_adjcent
 type bigWig
 color 94,137,212
 
 track HL_hs408
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs408.bw
-shortLabel HL_hs408_chicago3
-longLabel HL_hs408_chicago3
+shortLabel HL_hs408_adjcent
+longLabel HL_hs408_adjcent
 type bigWig
 color 144,146,167
 
 track HL_hs410
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs410.bw
-shortLabel HL_hs410_chicago3
-longLabel HL_hs410_chicago3
+shortLabel HL_hs410_adjcent
+longLabel HL_hs410_adjcent
 type bigWig
 color 136,220,188
 
 track HL_hs411
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs411.bw
-shortLabel HL_hs411_chicago3
-longLabel HL_hs411_chicago3
+shortLabel HL_hs411_adjcent
+longLabel HL_hs411_adjcent
 type bigWig
 color 39,215,125
 
 track HL_hs412
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs412.bw
-shortLabel HL_hs412_chicago3
-longLabel HL_hs412_chicago3
+shortLabel HL_hs412_adjcent
+longLabel HL_hs412_adjcent
 type bigWig
 color 156,41,225
 
 track HL_hs414
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs414.bw
-shortLabel HL_hs414_chicago3
-longLabel HL_hs414_chicago3
+shortLabel HL_hs414_adjcent
+longLabel HL_hs414_adjcent
 type bigWig
 color 66,245,251
 
 track HL_hs415
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs415.bw
-shortLabel HL_hs415_chicago3
-longLabel HL_hs415_chicago3
+shortLabel HL_hs415_adjcent
+longLabel HL_hs415_adjcent
 type bigWig
 color 152,155,93
 
 track HL_hs417
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs417.bw
-shortLabel HL_hs417_chicago3
-longLabel HL_hs417_chicago3
+shortLabel HL_hs417_adjcent
+longLabel HL_hs417_adjcent
 type bigWig
 color 228,67,217
 
 track HL_hs420
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs420.bw
-shortLabel HL_hs420_chicago3
-longLabel HL_hs420_chicago3
+shortLabel HL_hs420_adjcent
+longLabel HL_hs420_adjcent
 type bigWig
 color 29,100,26
 
 track HL_hs421
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs421.bw
-shortLabel HL_hs421_chicago3
-longLabel HL_hs421_chicago3
+shortLabel HL_hs421_adjcent
+longLabel HL_hs421_adjcent
 type bigWig
 color 86,122,150
 
 track HL_hs423
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs423.bw
-shortLabel HL_hs423_chicago3
-longLabel HL_hs423_chicago3
+shortLabel HL_hs423_adjcent
+longLabel HL_hs423_adjcent
 type bigWig
 color 103,215,62
 
 track HL_hs428
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs428.bw
-shortLabel HL_hs428_chicago3
-longLabel HL_hs428_chicago3
+shortLabel HL_hs428_adjcent
+longLabel HL_hs428_adjcent
 type bigWig
 color 183,193,24
 
 track HL_hs429
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs429.bw
-shortLabel HL_hs429_chicago3
-longLabel HL_hs429_chicago3
+shortLabel HL_hs429_adjcent
+longLabel HL_hs429_adjcent
 type bigWig
 color 247,30,245
 
 track HL_hs476
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs476.bw
-shortLabel HL_hs476_chicago3
-longLabel HL_hs476_chicago3
+shortLabel HL_hs476_adjcent
+longLabel HL_hs476_adjcent
 type bigWig
 color 183,253,47
 
 track HL_hs477
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs477.bw
-shortLabel HL_hs477_chicago3
-longLabel HL_hs477_chicago3
+shortLabel HL_hs477_adjcent
+longLabel HL_hs477_adjcent
 type bigWig
 color 242,246,158
 
 track HL_hs480
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs480.bw
-shortLabel HL_hs480_chicago3
-longLabel HL_hs480_chicago3
+shortLabel HL_hs480_adjcent
+longLabel HL_hs480_adjcent
 type bigWig
 color 164,71,84
 
 track HL_hs483
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs483.bw
-shortLabel HL_hs483_chicago3
-longLabel HL_hs483_chicago3
+shortLabel HL_hs483_adjcent
+longLabel HL_hs483_adjcent
 type bigWig
 color 174,249,74
 
 track HL_hs484
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs484.bw
-shortLabel HL_hs484_chicago3
-longLabel HL_hs484_chicago3
+shortLabel HL_hs484_adjcent
+longLabel HL_hs484_adjcent
 type bigWig
 color 42,134,247
 
 track HL_hs487
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs487.bw
-shortLabel HL_hs487_chicago3
-longLabel HL_hs487_chicago3
+shortLabel HL_hs487_adjcent
+longLabel HL_hs487_adjcent
 type bigWig
 color 139,246,42
 
 track HL_hs492
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs492.bw
-shortLabel HL_hs492_chicago3
-longLabel HL_hs492_chicago3
+shortLabel HL_hs492_adjcent
+longLabel HL_hs492_adjcent
 type bigWig
 color 44,134,23
 
 track HL_hs51
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs51.bw
-shortLabel HL_hs51_chicago3
-longLabel HL_hs51_chicago3
+shortLabel HL_hs51_adjcent
+longLabel HL_hs51_adjcent
 type bigWig
 color 234,164,48
 
 track HL_hs511
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs511.bw
-shortLabel HL_hs511_chicago3
-longLabel HL_hs511_chicago3
+shortLabel HL_hs511_adjcent
+longLabel HL_hs511_adjcent
 type bigWig
 color 200,160,80
 
 track HL_hs513
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs513.bw
-shortLabel HL_hs513_chicago3
-longLabel HL_hs513_chicago3
+shortLabel HL_hs513_adjcent
+longLabel HL_hs513_adjcent
 type bigWig
 color 202,23,60
 
 track HL_hs515
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs515.bw
-shortLabel HL_hs515_chicago3
-longLabel HL_hs515_chicago3
+shortLabel HL_hs515_adjcent
+longLabel HL_hs515_adjcent
 type bigWig
 color 31,161,177
 
 track HL_hs522
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs522.bw
-shortLabel HL_hs522_chicago3
-longLabel HL_hs522_chicago3
+shortLabel HL_hs522_adjcent
+longLabel HL_hs522_adjcent
 type bigWig
 color 145,111,222
 
 track HL_hs532
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs532.bw
-shortLabel HL_hs532_chicago3
-longLabel HL_hs532_chicago3
+shortLabel HL_hs532_adjcent
+longLabel HL_hs532_adjcent
 type bigWig
 color 81,138,225
 
 track HL_hs540
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs540.bw
-shortLabel HL_hs540_chicago3
-longLabel HL_hs540_chicago3
+shortLabel HL_hs540_adjcent
+longLabel HL_hs540_adjcent
 type bigWig
 color 88,28,87
 
 track HL_hs541
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs541.bw
-shortLabel HL_hs541_chicago3
-longLabel HL_hs541_chicago3
+shortLabel HL_hs541_adjcent
+longLabel HL_hs541_adjcent
 type bigWig
 color 137,187,80
 
 track HL_hs545
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs545.bw
-shortLabel HL_hs545_chicago3
-longLabel HL_hs545_chicago3
+shortLabel HL_hs545_adjcent
+longLabel HL_hs545_adjcent
 type bigWig
 color 189,69,50
 
 track HL_hs550
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs550.bw
-shortLabel HL_hs550_chicago3
-longLabel HL_hs550_chicago3
+shortLabel HL_hs550_adjcent
+longLabel HL_hs550_adjcent
 type bigWig
 color 17,94,88
 
 track HL_hs553
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs553.bw
-shortLabel HL_hs553_chicago3
-longLabel HL_hs553_chicago3
+shortLabel HL_hs553_adjcent
+longLabel HL_hs553_adjcent
 type bigWig
 color 100,5,112
 
 track HL_hs556
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs556.bw
-shortLabel HL_hs556_chicago3
-longLabel HL_hs556_chicago3
+shortLabel HL_hs556_adjcent
+longLabel HL_hs556_adjcent
 type bigWig
 color 94,148,47
 
 track HL_hs563
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs563.bw
-shortLabel HL_hs563_chicago3
-longLabel HL_hs563_chicago3
+shortLabel HL_hs563_adjcent
+longLabel HL_hs563_adjcent
 type bigWig
 color 235,62,99
 
 track HL_hs573
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs573.bw
-shortLabel HL_hs573_chicago3
-longLabel HL_hs573_chicago3
+shortLabel HL_hs573_adjcent
+longLabel HL_hs573_adjcent
 type bigWig
 color 124,160,214
 
 track HL_hs576
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs576.bw
-shortLabel HL_hs576_chicago3
-longLabel HL_hs576_chicago3
+shortLabel HL_hs576_adjcent
+longLabel HL_hs576_adjcent
 type bigWig
 color 127,238,182
 
 track HL_hs580
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs580.bw
-shortLabel HL_hs580_chicago3
-longLabel HL_hs580_chicago3
+shortLabel HL_hs580_adjcent
+longLabel HL_hs580_adjcent
 type bigWig
 color 245,112,101
 
 track HL_hs586
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs586.bw
-shortLabel HL_hs586_chicago3
-longLabel HL_hs586_chicago3
+shortLabel HL_hs586_adjcent
+longLabel HL_hs586_adjcent
 type bigWig
 color 146,236,39
 
 track HL_hs59
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs59.bw
-shortLabel HL_hs59_chicago3
-longLabel HL_hs59_chicago3
+shortLabel HL_hs59_adjcent
+longLabel HL_hs59_adjcent
 type bigWig
 color 65,26,186
 
 track HL_hs590
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs590.bw
-shortLabel HL_hs590_chicago3
-longLabel HL_hs590_chicago3
+shortLabel HL_hs590_adjcent
+longLabel HL_hs590_adjcent
 type bigWig
 color 15,176,239
 
 track HL_hs593
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs593.bw
-shortLabel HL_hs593_chicago3
-longLabel HL_hs593_chicago3
+shortLabel HL_hs593_adjcent
+longLabel HL_hs593_adjcent
 type bigWig
 color 113,221,18
 
 track HL_hs599
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs599.bw
-shortLabel HL_hs599_chicago3
-longLabel HL_hs599_chicago3
+shortLabel HL_hs599_adjcent
+longLabel HL_hs599_adjcent
 type bigWig
 color 79,49,137
 
 track HL_hs609
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs609.bw
-shortLabel HL_hs609_chicago3
-longLabel HL_hs609_chicago3
+shortLabel HL_hs609_adjcent
+longLabel HL_hs609_adjcent
 type bigWig
 color 1,146,208
 
 track HL_hs612
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs612.bw
-shortLabel HL_hs612_chicago3
-longLabel HL_hs612_chicago3
+shortLabel HL_hs612_adjcent
+longLabel HL_hs612_adjcent
 type bigWig
 color 39,73,246
 
 track HL_hs625
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs625.bw
-shortLabel HL_hs625_chicago3
-longLabel HL_hs625_chicago3
+shortLabel HL_hs625_adjcent
+longLabel HL_hs625_adjcent
 type bigWig
 color 158,71,232
 
 track HL_hs629
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs629.bw
-shortLabel HL_hs629_chicago3
-longLabel HL_hs629_chicago3
+shortLabel HL_hs629_adjcent
+longLabel HL_hs629_adjcent
 type bigWig
 color 230,141,127
 
 track HL_hs631
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs631.bw
-shortLabel HL_hs631_chicago3
-longLabel HL_hs631_chicago3
+shortLabel HL_hs631_adjcent
+longLabel HL_hs631_adjcent
 type bigWig
 color 107,50,133
 
 track HL_hs643
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs643.bw
-shortLabel HL_hs643_chicago3
-longLabel HL_hs643_chicago3
+shortLabel HL_hs643_adjcent
+longLabel HL_hs643_adjcent
 type bigWig
 color 210,75,79
 
 track HL_hs649
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs649.bw
-shortLabel HL_hs649_chicago3
-longLabel HL_hs649_chicago3
+shortLabel HL_hs649_adjcent
+longLabel HL_hs649_adjcent
 type bigWig
 color 43,70,181
 
 track HL_hs658
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs658.bw
-shortLabel HL_hs658_chicago3
-longLabel HL_hs658_chicago3
+shortLabel HL_hs658_adjcent
+longLabel HL_hs658_adjcent
 type bigWig
 color 90,252,141
 
 track HL_hs662
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs662.bw
-shortLabel HL_hs662_chicago3
-longLabel HL_hs662_chicago3
+shortLabel HL_hs662_adjcent
+longLabel HL_hs662_adjcent
 type bigWig
 color 143,56,107
 
 track HL_hs669
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs669.bw
-shortLabel HL_hs669_chicago3
-longLabel HL_hs669_chicago3
+shortLabel HL_hs669_adjcent
+longLabel HL_hs669_adjcent
 type bigWig
 color 107,98,17
 
 track HL_hs672
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs672.bw
-shortLabel HL_hs672_chicago3
-longLabel HL_hs672_chicago3
+shortLabel HL_hs672_adjcent
+longLabel HL_hs672_adjcent
 type bigWig
 color 128,107,206
 
 track HL_hs675
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs675.bw
-shortLabel HL_hs675_chicago3
-longLabel HL_hs675_chicago3
+shortLabel HL_hs675_adjcent
+longLabel HL_hs675_adjcent
 type bigWig
 color 132,115,60
 
 track HL_hs676
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs676.bw
-shortLabel HL_hs676_chicago3
-longLabel HL_hs676_chicago3
+shortLabel HL_hs676_adjcent
+longLabel HL_hs676_adjcent
 type bigWig
 color 18,1,60
 
 track HL_hs688
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs688.bw
-shortLabel HL_hs688_chicago3
-longLabel HL_hs688_chicago3
+shortLabel HL_hs688_adjcent
+longLabel HL_hs688_adjcent
 type bigWig
 color 252,195,3
 
 track HL_hs695
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs695.bw
-shortLabel HL_hs695_chicago3
-longLabel HL_hs695_chicago3
+shortLabel HL_hs695_adjcent
+longLabel HL_hs695_adjcent
 type bigWig
 color 229,115,38
 
 track HL_hs699
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs699.bw
-shortLabel HL_hs699_chicago3
-longLabel HL_hs699_chicago3
+shortLabel HL_hs699_adjcent
+longLabel HL_hs699_adjcent
 type bigWig
 color 139,36,225
 
 track HL_hs705
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs705.bw
-shortLabel HL_hs705_chicago3
-longLabel HL_hs705_chicago3
+shortLabel HL_hs705_adjcent
+longLabel HL_hs705_adjcent
 type bigWig
 color 66,214,96
 
 track HL_hs712
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs712.bw
-shortLabel HL_hs712_chicago3
-longLabel HL_hs712_chicago3
+shortLabel HL_hs712_adjcent
+longLabel HL_hs712_adjcent
 type bigWig
 color 91,126,10
 
 track HL_hs737
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs737.bw
-shortLabel HL_hs737_chicago3
-longLabel HL_hs737_chicago3
+shortLabel HL_hs737_adjcent
+longLabel HL_hs737_adjcent
 type bigWig
 color 137,247,120
 
 track HL_hs741
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs741.bw
-shortLabel HL_hs741_chicago3
-longLabel HL_hs741_chicago3
+shortLabel HL_hs741_adjcent
+longLabel HL_hs741_adjcent
 type bigWig
 color 233,221,18
 
 track HL_hs742
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs742.bw
-shortLabel HL_hs742_chicago3
-longLabel HL_hs742_chicago3
+shortLabel HL_hs742_adjcent
+longLabel HL_hs742_adjcent
 type bigWig
 color 56,157,34
 
 track HL_hs752
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs752.bw
-shortLabel HL_hs752_chicago3
-longLabel HL_hs752_chicago3
+shortLabel HL_hs752_adjcent
+longLabel HL_hs752_adjcent
 type bigWig
 color 57,189,228
 
 track HL_hs762
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs762.bw
-shortLabel HL_hs762_chicago3
-longLabel HL_hs762_chicago3
+shortLabel HL_hs762_adjcent
+longLabel HL_hs762_adjcent
 type bigWig
 color 167,112,171
 
 track HL_hs774
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs774.bw
-shortLabel HL_hs774_chicago3
-longLabel HL_hs774_chicago3
+shortLabel HL_hs774_adjcent
+longLabel HL_hs774_adjcent
 type bigWig
 color 229,43,199
 
 track HL_hs778
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs778.bw
-shortLabel HL_hs778_chicago3
-longLabel HL_hs778_chicago3
+shortLabel HL_hs778_adjcent
+longLabel HL_hs778_adjcent
 type bigWig
 color 34,138,61
 
 track HL_hs783
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs783.bw
-shortLabel HL_hs783_chicago3
-longLabel HL_hs783_chicago3
+shortLabel HL_hs783_adjcent
+longLabel HL_hs783_adjcent
 type bigWig
 color 121,54,132
 
 track HL_hs784
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs784.bw
-shortLabel HL_hs784_chicago3
-longLabel HL_hs784_chicago3
+shortLabel HL_hs784_adjcent
+longLabel HL_hs784_adjcent
 type bigWig
 color 173,231,171
 
 track HL_hs824
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs824.bw
-shortLabel HL_hs824_chicago3
-longLabel HL_hs824_chicago3
+shortLabel HL_hs824_adjcent
+longLabel HL_hs824_adjcent
 type bigWig
 color 201,208,216
 
 track HL_hs830
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs830.bw
-shortLabel HL_hs830_chicago3
-longLabel HL_hs830_chicago3
+shortLabel HL_hs830_adjcent
+longLabel HL_hs830_adjcent
 type bigWig
 color 81,35,4
 
 track HL_hs834
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs834.bw
-shortLabel HL_hs834_chicago3
-longLabel HL_hs834_chicago3
+shortLabel HL_hs834_adjcent
+longLabel HL_hs834_adjcent
 type bigWig
 color 162,229,164
 
 track HL_hs836
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs836.bw
-shortLabel HL_hs836_chicago3
-longLabel HL_hs836_chicago3
+shortLabel HL_hs836_adjcent
+longLabel HL_hs836_adjcent
 type bigWig
 color 193,10,244
 
 track HL_hs842
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs842.bw
-shortLabel HL_hs842_chicago3
-longLabel HL_hs842_chicago3
+shortLabel HL_hs842_adjcent
+longLabel HL_hs842_adjcent
 type bigWig
 color 32,170,141
 
 track HL_hs844
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs844.bw
-shortLabel HL_hs844_chicago3
-longLabel HL_hs844_chicago3
+shortLabel HL_hs844_adjcent
+longLabel HL_hs844_adjcent
 type bigWig
 color 190,187,10
 
 track HL_hs853
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs853.bw
-shortLabel HL_hs853_chicago3
-longLabel HL_hs853_chicago3
+shortLabel HL_hs853_adjcent
+longLabel HL_hs853_adjcent
 type bigWig
 color 196,203,55
 
 track HL_hs855
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs855.bw
-shortLabel HL_hs855_chicago3
-longLabel HL_hs855_chicago3
+shortLabel HL_hs855_adjcent
+longLabel HL_hs855_adjcent
 type bigWig
 color 130,168,237
 
 track HL_hs860
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs860.bw
-shortLabel HL_hs860_chicago3
-longLabel HL_hs860_chicago3
+shortLabel HL_hs860_adjcent
+longLabel HL_hs860_adjcent
 type bigWig
 color 76,236,196
 
 track HL_hs865
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs865.bw
-shortLabel HL_hs865_chicago3
-longLabel HL_hs865_chicago3
+shortLabel HL_hs865_adjcent
+longLabel HL_hs865_adjcent
 type bigWig
 color 140,236,172
 
 track HL_hs868
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs868.bw
-shortLabel HL_hs868_chicago3
-longLabel HL_hs868_chicago3
+shortLabel HL_hs868_adjcent
+longLabel HL_hs868_adjcent
 type bigWig
 color 177,57,50
 
 track HL_hs872
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs872.bw
-shortLabel HL_hs872_chicago3
-longLabel HL_hs872_chicago3
+shortLabel HL_hs872_adjcent
+longLabel HL_hs872_adjcent
 type bigWig
 color 73,114,142
 
 track HL_hs882
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs882.bw
-shortLabel HL_hs882_chicago3
-longLabel HL_hs882_chicago3
+shortLabel HL_hs882_adjcent
+longLabel HL_hs882_adjcent
 type bigWig
 color 73,120,194
 
 track HL_hs886
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs886.bw
-shortLabel HL_hs886_chicago3
-longLabel HL_hs886_chicago3
+shortLabel HL_hs886_adjcent
+longLabel HL_hs886_adjcent
 type bigWig
 color 252,205,45
 
 track HL_hs933
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs933.bw
-shortLabel HL_hs933_chicago3
-longLabel HL_hs933_chicago3
+shortLabel HL_hs933_adjcent
+longLabel HL_hs933_adjcent
 type bigWig
 color 67,146,110
 
 track HL_hs935
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs935.bw
-shortLabel HL_hs935_chicago3
-longLabel HL_hs935_chicago3
+shortLabel HL_hs935_adjcent
+longLabel HL_hs935_adjcent
 type bigWig
 color 39,48,204
 
 track HL_hs953
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs953.bw
-shortLabel HL_hs953_chicago3
-longLabel HL_hs953_chicago3
+shortLabel HL_hs953_adjcent
+longLabel HL_hs953_adjcent
 type bigWig
 color 94,249,87
 
 track HL_hs957
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs957.bw
-shortLabel HL_hs957_chicago3
-longLabel HL_hs957_chicago3
+shortLabel HL_hs957_adjcent
+longLabel HL_hs957_adjcent
 type bigWig
 color 119,173,204
 
 track HL_hs965
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs965.bw
-shortLabel HL_hs965_chicago3
-longLabel HL_hs965_chicago3
+shortLabel HL_hs965_adjcent
+longLabel HL_hs965_adjcent
 type bigWig
 color 22,109,239
 
 track HL_hs971
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs971.bw
-shortLabel HL_hs971_chicago3
-longLabel HL_hs971_chicago3
+shortLabel HL_hs971_adjcent
+longLabel HL_hs971_adjcent
 type bigWig
 color 89,215,73
 
 track HL_hs972
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs972.bw
-shortLabel HL_hs972_chicago3
-longLabel HL_hs972_chicago3
+shortLabel HL_hs972_adjcent
+longLabel HL_hs972_adjcent
 type bigWig
 color 93,103,222
 
 track HL_hs978
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs978.bw
-shortLabel HL_hs978_chicago3
-longLabel HL_hs978_chicago3
+shortLabel HL_hs978_adjcent
+longLabel HL_hs978_adjcent
 type bigWig
 color 76,236,33
 
 track HL_hs981
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs981.bw
-shortLabel HL_hs981_chicago3
-longLabel HL_hs981_chicago3
+shortLabel HL_hs981_adjcent
+longLabel HL_hs981_adjcent
 type bigWig
 color 200,197,128
 
 track HL_hs990
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_hs990.bw
-shortLabel HL_hs990_chicago3
-longLabel HL_hs990_chicago3
+shortLabel HL_hs990_adjcent
+longLabel HL_hs990_adjcent
 type bigWig
 color 168,193,173
 
 track HL_mm1001
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1001.bw
-shortLabel HL_mm1001_chicago3
-longLabel HL_mm1001_chicago3
+shortLabel HL_mm1001_adjcent
+longLabel HL_mm1001_adjcent
 type bigWig
 color 7,186,32
 
 track HL_mm1003
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1003.bw
-shortLabel HL_mm1003_chicago3
-longLabel HL_mm1003_chicago3
+shortLabel HL_mm1003_adjcent
+longLabel HL_mm1003_adjcent
 type bigWig
 color 38,149,49
 
 track HL_mm1010
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1010.bw
-shortLabel HL_mm1010_chicago3
-longLabel HL_mm1010_chicago3
+shortLabel HL_mm1010_adjcent
+longLabel HL_mm1010_adjcent
 type bigWig
 color 207,22,192
 
 track HL_mm1018
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1018.bw
-shortLabel HL_mm1018_chicago3
-longLabel HL_mm1018_chicago3
+shortLabel HL_mm1018_adjcent
+longLabel HL_mm1018_adjcent
 type bigWig
 color 194,69,170
 
 track HL_mm102
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm102.bw
-shortLabel HL_mm102_chicago3
-longLabel HL_mm102_chicago3
+shortLabel HL_mm102_adjcent
+longLabel HL_mm102_adjcent
 type bigWig
 color 58,69,44
 
 track HL_mm1036
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1036.bw
-shortLabel HL_mm1036_chicago3
-longLabel HL_mm1036_chicago3
+shortLabel HL_mm1036_adjcent
+longLabel HL_mm1036_adjcent
 type bigWig
 color 7,10,174
 
 track HL_mm1048
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1048.bw
-shortLabel HL_mm1048_chicago3
-longLabel HL_mm1048_chicago3
+shortLabel HL_mm1048_adjcent
+longLabel HL_mm1048_adjcent
 type bigWig
 color 167,26,217
 
 track HL_mm1050
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1050.bw
-shortLabel HL_mm1050_chicago3
-longLabel HL_mm1050_chicago3
+shortLabel HL_mm1050_adjcent
+longLabel HL_mm1050_adjcent
 type bigWig
 color 89,7,33
 
 track HL_mm1052
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1052.bw
-shortLabel HL_mm1052_chicago3
-longLabel HL_mm1052_chicago3
+shortLabel HL_mm1052_adjcent
+longLabel HL_mm1052_adjcent
 type bigWig
 color 93,2,15
 
 track HL_mm1063
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1063.bw
-shortLabel HL_mm1063_chicago3
-longLabel HL_mm1063_chicago3
+shortLabel HL_mm1063_adjcent
+longLabel HL_mm1063_adjcent
 type bigWig
 color 2,223,97
 
 track HL_mm1087
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1087.bw
-shortLabel HL_mm1087_chicago3
-longLabel HL_mm1087_chicago3
+shortLabel HL_mm1087_adjcent
+longLabel HL_mm1087_adjcent
 type bigWig
 color 53,166,163
 
 track HL_mm1088
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1088.bw
-shortLabel HL_mm1088_chicago3
-longLabel HL_mm1088_chicago3
+shortLabel HL_mm1088_adjcent
+longLabel HL_mm1088_adjcent
 type bigWig
 color 58,127,0
 
 track HL_mm1090
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1090.bw
-shortLabel HL_mm1090_chicago3
-longLabel HL_mm1090_chicago3
+shortLabel HL_mm1090_adjcent
+longLabel HL_mm1090_adjcent
 type bigWig
 color 151,6,141
 
 track HL_mm1098
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1098.bw
-shortLabel HL_mm1098_chicago3
-longLabel HL_mm1098_chicago3
+shortLabel HL_mm1098_adjcent
+longLabel HL_mm1098_adjcent
 type bigWig
 color 88,118,121
 
 track HL_mm1105
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1105.bw
-shortLabel HL_mm1105_chicago3
-longLabel HL_mm1105_chicago3
+shortLabel HL_mm1105_adjcent
+longLabel HL_mm1105_adjcent
 type bigWig
 color 18,215,232
 
 track HL_mm1109
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1109.bw
-shortLabel HL_mm1109_chicago3
-longLabel HL_mm1109_chicago3
+shortLabel HL_mm1109_adjcent
+longLabel HL_mm1109_adjcent
 type bigWig
 color 15,147,8
 
 track HL_mm1112
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1112.bw
-shortLabel HL_mm1112_chicago3
-longLabel HL_mm1112_chicago3
+shortLabel HL_mm1112_adjcent
+longLabel HL_mm1112_adjcent
 type bigWig
 color 155,92,112
 
 track HL_mm1165
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1165.bw
-shortLabel HL_mm1165_chicago3
-longLabel HL_mm1165_chicago3
+shortLabel HL_mm1165_adjcent
+longLabel HL_mm1165_adjcent
 type bigWig
 color 189,245,73
 
 track HL_mm1176
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1176.bw
-shortLabel HL_mm1176_chicago3
-longLabel HL_mm1176_chicago3
+shortLabel HL_mm1176_adjcent
+longLabel HL_mm1176_adjcent
 type bigWig
 color 186,141,242
 
 track HL_mm1177
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1177.bw
-shortLabel HL_mm1177_chicago3
-longLabel HL_mm1177_chicago3
+shortLabel HL_mm1177_adjcent
+longLabel HL_mm1177_adjcent
 type bigWig
 color 210,41,219
 
 track HL_mm1179
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1179.bw
-shortLabel HL_mm1179_chicago3
-longLabel HL_mm1179_chicago3
+shortLabel HL_mm1179_adjcent
+longLabel HL_mm1179_adjcent
 type bigWig
 color 39,80,122
 
 track HL_mm123
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm123.bw
-shortLabel HL_mm123_chicago3
-longLabel HL_mm123_chicago3
+shortLabel HL_mm123_adjcent
+longLabel HL_mm123_adjcent
 type bigWig
 color 73,162,153
 
 track HL_mm1239
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1239.bw
-shortLabel HL_mm1239_chicago3
-longLabel HL_mm1239_chicago3
+shortLabel HL_mm1239_adjcent
+longLabel HL_mm1239_adjcent
 type bigWig
 color 166,126,76
 
 track HL_mm1252
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1252.bw
-shortLabel HL_mm1252_chicago3
-longLabel HL_mm1252_chicago3
+shortLabel HL_mm1252_adjcent
+longLabel HL_mm1252_adjcent
 type bigWig
 color 29,81,143
 
 track HL_mm1261
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1261.bw
-shortLabel HL_mm1261_chicago3
-longLabel HL_mm1261_chicago3
+shortLabel HL_mm1261_adjcent
+longLabel HL_mm1261_adjcent
 type bigWig
 color 73,39,58
 
 track HL_mm1274
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1274.bw
-shortLabel HL_mm1274_chicago3
-longLabel HL_mm1274_chicago3
+shortLabel HL_mm1274_adjcent
+longLabel HL_mm1274_adjcent
 type bigWig
 color 81,19,39
 
 track HL_mm1283
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1283.bw
-shortLabel HL_mm1283_chicago3
-longLabel HL_mm1283_chicago3
+shortLabel HL_mm1283_adjcent
+longLabel HL_mm1283_adjcent
 type bigWig
 color 150,254,224
 
 track HL_mm1290
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1290.bw
-shortLabel HL_mm1290_chicago3
-longLabel HL_mm1290_chicago3
+shortLabel HL_mm1290_adjcent
+longLabel HL_mm1290_adjcent
 type bigWig
 color 241,101,88
 
 track HL_mm131
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm131.bw
-shortLabel HL_mm131_chicago3
-longLabel HL_mm131_chicago3
+shortLabel HL_mm131_adjcent
+longLabel HL_mm131_adjcent
 type bigWig
 color 76,56,83
 
 track HL_mm1314
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1314.bw
-shortLabel HL_mm1314_chicago3
-longLabel HL_mm1314_chicago3
+shortLabel HL_mm1314_adjcent
+longLabel HL_mm1314_adjcent
 type bigWig
 color 18,160,33
 
 track HL_mm1322
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1322.bw
-shortLabel HL_mm1322_chicago3
-longLabel HL_mm1322_chicago3
+shortLabel HL_mm1322_adjcent
+longLabel HL_mm1322_adjcent
 type bigWig
 color 80,186,28
 
 track HL_mm1328
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1328.bw
-shortLabel HL_mm1328_chicago3
-longLabel HL_mm1328_chicago3
+shortLabel HL_mm1328_adjcent
+longLabel HL_mm1328_adjcent
 type bigWig
 color 220,228,197
 
 track HL_mm1333
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1333.bw
-shortLabel HL_mm1333_chicago3
-longLabel HL_mm1333_chicago3
+shortLabel HL_mm1333_adjcent
+longLabel HL_mm1333_adjcent
 type bigWig
 color 195,124,41
 
 track HL_mm1338
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1338.bw
-shortLabel HL_mm1338_chicago3
-longLabel HL_mm1338_chicago3
+shortLabel HL_mm1338_adjcent
+longLabel HL_mm1338_adjcent
 type bigWig
 color 200,234,13
 
 track HL_mm1340
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1340.bw
-shortLabel HL_mm1340_chicago3
-longLabel HL_mm1340_chicago3
+shortLabel HL_mm1340_adjcent
+longLabel HL_mm1340_adjcent
 type bigWig
 color 120,175,117
 
 track HL_mm1341
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1341.bw
-shortLabel HL_mm1341_chicago3
-longLabel HL_mm1341_chicago3
+shortLabel HL_mm1341_adjcent
+longLabel HL_mm1341_adjcent
 type bigWig
 color 96,162,207
 
 track HL_mm1343
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1343.bw
-shortLabel HL_mm1343_chicago3
-longLabel HL_mm1343_chicago3
+shortLabel HL_mm1343_adjcent
+longLabel HL_mm1343_adjcent
 type bigWig
 color 6,69,221
 
 track HL_mm1351
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1351.bw
-shortLabel HL_mm1351_chicago3
-longLabel HL_mm1351_chicago3
+shortLabel HL_mm1351_adjcent
+longLabel HL_mm1351_adjcent
 type bigWig
 color 220,146,182
 
 track HL_mm1368
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1368.bw
-shortLabel HL_mm1368_chicago3
-longLabel HL_mm1368_chicago3
+shortLabel HL_mm1368_adjcent
+longLabel HL_mm1368_adjcent
 type bigWig
 color 133,241,192
 
 track HL_mm1369
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1369.bw
-shortLabel HL_mm1369_chicago3
-longLabel HL_mm1369_chicago3
+shortLabel HL_mm1369_adjcent
+longLabel HL_mm1369_adjcent
 type bigWig
 color 65,183,14
 
 track HL_mm1370
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1370.bw
-shortLabel HL_mm1370_chicago3
-longLabel HL_mm1370_chicago3
+shortLabel HL_mm1370_adjcent
+longLabel HL_mm1370_adjcent
 type bigWig
 color 96,223,103
 
 track HL_mm1371
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1371.bw
-shortLabel HL_mm1371_chicago3
-longLabel HL_mm1371_chicago3
+shortLabel HL_mm1371_adjcent
+longLabel HL_mm1371_adjcent
 type bigWig
 color 159,17,8
 
 track HL_mm1393
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1393.bw
-shortLabel HL_mm1393_chicago3
-longLabel HL_mm1393_chicago3
+shortLabel HL_mm1393_adjcent
+longLabel HL_mm1393_adjcent
 type bigWig
 color 96,10,189
 
 track HL_mm14
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm14.bw
-shortLabel HL_mm14_chicago3
-longLabel HL_mm14_chicago3
+shortLabel HL_mm14_adjcent
+longLabel HL_mm14_adjcent
 type bigWig
 color 72,126,113
 
 track HL_mm1406
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1406.bw
-shortLabel HL_mm1406_chicago3
-longLabel HL_mm1406_chicago3
+shortLabel HL_mm1406_adjcent
+longLabel HL_mm1406_adjcent
 type bigWig
 color 95,73,22
 
 track HL_mm1408
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1408.bw
-shortLabel HL_mm1408_chicago3
-longLabel HL_mm1408_chicago3
+shortLabel HL_mm1408_adjcent
+longLabel HL_mm1408_adjcent
 type bigWig
 color 184,153,137
 
 track HL_mm1444
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1444.bw
-shortLabel HL_mm1444_chicago3
-longLabel HL_mm1444_chicago3
+shortLabel HL_mm1444_adjcent
+longLabel HL_mm1444_adjcent
 type bigWig
 color 25,104,159
 
 track HL_mm1446
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1446.bw
-shortLabel HL_mm1446_chicago3
-longLabel HL_mm1446_chicago3
+shortLabel HL_mm1446_adjcent
+longLabel HL_mm1446_adjcent
 type bigWig
 color 159,32,198
 
 track HL_mm1452
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1452.bw
-shortLabel HL_mm1452_chicago3
-longLabel HL_mm1452_chicago3
+shortLabel HL_mm1452_adjcent
+longLabel HL_mm1452_adjcent
 type bigWig
 color 20,5,145
 
 track HL_mm1454
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1454.bw
-shortLabel HL_mm1454_chicago3
-longLabel HL_mm1454_chicago3
+shortLabel HL_mm1454_adjcent
+longLabel HL_mm1454_adjcent
 type bigWig
 color 59,244,163
 
 track HL_mm1463
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1463.bw
-shortLabel HL_mm1463_chicago3
-longLabel HL_mm1463_chicago3
+shortLabel HL_mm1463_adjcent
+longLabel HL_mm1463_adjcent
 type bigWig
 color 183,178,253
 
 track HL_mm1464
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1464.bw
-shortLabel HL_mm1464_chicago3
-longLabel HL_mm1464_chicago3
+shortLabel HL_mm1464_adjcent
+longLabel HL_mm1464_adjcent
 type bigWig
 color 11,19,217
 
 track HL_mm1473
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1473.bw
-shortLabel HL_mm1473_chicago3
-longLabel HL_mm1473_chicago3
+shortLabel HL_mm1473_adjcent
+longLabel HL_mm1473_adjcent
 type bigWig
 color 91,146,227
 
 track HL_mm1474
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1474.bw
-shortLabel HL_mm1474_chicago3
-longLabel HL_mm1474_chicago3
+shortLabel HL_mm1474_adjcent
+longLabel HL_mm1474_adjcent
 type bigWig
 color 54,46,237
 
 track HL_mm1475
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1475.bw
-shortLabel HL_mm1475_chicago3
-longLabel HL_mm1475_chicago3
+shortLabel HL_mm1475_adjcent
+longLabel HL_mm1475_adjcent
 type bigWig
 color 201,192,229
 
 track HL_mm1481
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1481.bw
-shortLabel HL_mm1481_chicago3
-longLabel HL_mm1481_chicago3
+shortLabel HL_mm1481_adjcent
+longLabel HL_mm1481_adjcent
 type bigWig
 color 120,235,219
 
 track HL_mm1486
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1486.bw
-shortLabel HL_mm1486_chicago3
-longLabel HL_mm1486_chicago3
+shortLabel HL_mm1486_adjcent
+longLabel HL_mm1486_adjcent
 type bigWig
 color 139,202,27
 
 track HL_mm149
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm149.bw
-shortLabel HL_mm149_chicago3
-longLabel HL_mm149_chicago3
+shortLabel HL_mm149_adjcent
+longLabel HL_mm149_adjcent
 type bigWig
 color 130,231,215
 
 track HL_mm1490
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1490.bw
-shortLabel HL_mm1490_chicago3
-longLabel HL_mm1490_chicago3
+shortLabel HL_mm1490_adjcent
+longLabel HL_mm1490_adjcent
 type bigWig
 color 24,212,25
 
 track HL_mm1492
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1492.bw
-shortLabel HL_mm1492_chicago3
-longLabel HL_mm1492_chicago3
+shortLabel HL_mm1492_adjcent
+longLabel HL_mm1492_adjcent
 type bigWig
 color 212,73,29
 
 track HL_mm1496
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1496.bw
-shortLabel HL_mm1496_chicago3
-longLabel HL_mm1496_chicago3
+shortLabel HL_mm1496_adjcent
+longLabel HL_mm1496_adjcent
 type bigWig
 color 101,218,48
 
 track HL_mm1499
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1499.bw
-shortLabel HL_mm1499_chicago3
-longLabel HL_mm1499_chicago3
+shortLabel HL_mm1499_adjcent
+longLabel HL_mm1499_adjcent
 type bigWig
 color 95,28,247
 
 track HL_mm1503
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1503.bw
-shortLabel HL_mm1503_chicago3
-longLabel HL_mm1503_chicago3
+shortLabel HL_mm1503_adjcent
+longLabel HL_mm1503_adjcent
 type bigWig
 color 77,249,114
 
 track HL_mm1505
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1505.bw
-shortLabel HL_mm1505_chicago3
-longLabel HL_mm1505_chicago3
+shortLabel HL_mm1505_adjcent
+longLabel HL_mm1505_adjcent
 type bigWig
 color 103,30,232
 
 track HL_mm1514
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1514.bw
-shortLabel HL_mm1514_chicago3
-longLabel HL_mm1514_chicago3
+shortLabel HL_mm1514_adjcent
+longLabel HL_mm1514_adjcent
 type bigWig
 color 221,57,41
 
 track HL_mm1515
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1515.bw
-shortLabel HL_mm1515_chicago3
-longLabel HL_mm1515_chicago3
+shortLabel HL_mm1515_adjcent
+longLabel HL_mm1515_adjcent
 type bigWig
 color 219,20,18
 
 track HL_mm1518
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1518.bw
-shortLabel HL_mm1518_chicago3
-longLabel HL_mm1518_chicago3
+shortLabel HL_mm1518_adjcent
+longLabel HL_mm1518_adjcent
 type bigWig
 color 214,232,240
 
 track HL_mm154
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm154.bw
-shortLabel HL_mm154_chicago3
-longLabel HL_mm154_chicago3
+shortLabel HL_mm154_adjcent
+longLabel HL_mm154_adjcent
 type bigWig
 color 116,186,50
 
 track HL_mm1546
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1546.bw
-shortLabel HL_mm1546_chicago3
-longLabel HL_mm1546_chicago3
+shortLabel HL_mm1546_adjcent
+longLabel HL_mm1546_adjcent
 type bigWig
 color 183,51,81
 
 track HL_mm1548
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1548.bw
-shortLabel HL_mm1548_chicago3
-longLabel HL_mm1548_chicago3
+shortLabel HL_mm1548_adjcent
+longLabel HL_mm1548_adjcent
 type bigWig
 color 83,76,211
 
 track HL_mm1555
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1555.bw
-shortLabel HL_mm1555_chicago3
-longLabel HL_mm1555_chicago3
+shortLabel HL_mm1555_adjcent
+longLabel HL_mm1555_adjcent
 type bigWig
 color 202,29,115
 
 track HL_mm1556
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1556.bw
-shortLabel HL_mm1556_chicago3
-longLabel HL_mm1556_chicago3
+shortLabel HL_mm1556_adjcent
+longLabel HL_mm1556_adjcent
 type bigWig
 color 1,6,106
 
 track HL_mm156
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm156.bw
-shortLabel HL_mm156_chicago3
-longLabel HL_mm156_chicago3
+shortLabel HL_mm156_adjcent
+longLabel HL_mm156_adjcent
 type bigWig
 color 246,101,140
 
 track HL_mm1564
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1564.bw
-shortLabel HL_mm1564_chicago3
-longLabel HL_mm1564_chicago3
+shortLabel HL_mm1564_adjcent
+longLabel HL_mm1564_adjcent
 type bigWig
 color 72,182,201
 
 track HL_mm1566
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1566.bw
-shortLabel HL_mm1566_chicago3
-longLabel HL_mm1566_chicago3
+shortLabel HL_mm1566_adjcent
+longLabel HL_mm1566_adjcent
 type bigWig
 color 112,121,162
 
 track HL_mm1567
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1567.bw
-shortLabel HL_mm1567_chicago3
-longLabel HL_mm1567_chicago3
+shortLabel HL_mm1567_adjcent
+longLabel HL_mm1567_adjcent
 type bigWig
 color 28,128,40
 
 track HL_mm1570
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1570.bw
-shortLabel HL_mm1570_chicago3
-longLabel HL_mm1570_chicago3
+shortLabel HL_mm1570_adjcent
+longLabel HL_mm1570_adjcent
 type bigWig
 color 61,171,65
 
 track HL_mm1574
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1574.bw
-shortLabel HL_mm1574_chicago3
-longLabel HL_mm1574_chicago3
+shortLabel HL_mm1574_adjcent
+longLabel HL_mm1574_adjcent
 type bigWig
 color 196,110,12
 
 track HL_mm1575
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1575.bw
-shortLabel HL_mm1575_chicago3
-longLabel HL_mm1575_chicago3
+shortLabel HL_mm1575_adjcent
+longLabel HL_mm1575_adjcent
 type bigWig
 color 46,90,223
 
 track HL_mm1577
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1577.bw
-shortLabel HL_mm1577_chicago3
-longLabel HL_mm1577_chicago3
+shortLabel HL_mm1577_adjcent
+longLabel HL_mm1577_adjcent
 type bigWig
 color 154,108,239
 
 track HL_mm1583
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1583.bw
-shortLabel HL_mm1583_chicago3
-longLabel HL_mm1583_chicago3
+shortLabel HL_mm1583_adjcent
+longLabel HL_mm1583_adjcent
 type bigWig
 color 180,131,93
 
 track HL_mm1586
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1586.bw
-shortLabel HL_mm1586_chicago3
-longLabel HL_mm1586_chicago3
+shortLabel HL_mm1586_adjcent
+longLabel HL_mm1586_adjcent
 type bigWig
 color 89,171,141
 
 track HL_mm1597
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1597.bw
-shortLabel HL_mm1597_chicago3
-longLabel HL_mm1597_chicago3
+shortLabel HL_mm1597_adjcent
+longLabel HL_mm1597_adjcent
 type bigWig
 color 94,146,43
 
 track HL_mm1598
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1598.bw
-shortLabel HL_mm1598_chicago3
-longLabel HL_mm1598_chicago3
+shortLabel HL_mm1598_adjcent
+longLabel HL_mm1598_adjcent
 type bigWig
 color 107,75,206
 
 track HL_mm1599
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1599.bw
-shortLabel HL_mm1599_chicago3
-longLabel HL_mm1599_chicago3
+shortLabel HL_mm1599_adjcent
+longLabel HL_mm1599_adjcent
 type bigWig
 color 221,199,178
 
 track HL_mm1600
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1600.bw
-shortLabel HL_mm1600_chicago3
-longLabel HL_mm1600_chicago3
+shortLabel HL_mm1600_adjcent
+longLabel HL_mm1600_adjcent
 type bigWig
 color 62,133,220
 
 track HL_mm1601
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1601.bw
-shortLabel HL_mm1601_chicago3
-longLabel HL_mm1601_chicago3
+shortLabel HL_mm1601_adjcent
+longLabel HL_mm1601_adjcent
 type bigWig
 color 17,198,53
 
 track HL_mm1604
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm1604.bw
-shortLabel HL_mm1604_chicago3
-longLabel HL_mm1604_chicago3
+shortLabel HL_mm1604_adjcent
+longLabel HL_mm1604_adjcent
 type bigWig
 color 77,82,3
 
 track HL_mm174
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm174.bw
-shortLabel HL_mm174_chicago3
-longLabel HL_mm174_chicago3
+shortLabel HL_mm174_adjcent
+longLabel HL_mm174_adjcent
 type bigWig
 color 5,165,199
 
 track HL_mm183
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm183.bw
-shortLabel HL_mm183_chicago3
-longLabel HL_mm183_chicago3
+shortLabel HL_mm183_adjcent
+longLabel HL_mm183_adjcent
 type bigWig
 color 114,253,210
 
 track HL_mm192
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm192.bw
-shortLabel HL_mm192_chicago3
-longLabel HL_mm192_chicago3
+shortLabel HL_mm192_adjcent
+longLabel HL_mm192_adjcent
 type bigWig
 color 100,5,99
 
 track HL_mm196
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm196.bw
-shortLabel HL_mm196_chicago3
-longLabel HL_mm196_chicago3
+shortLabel HL_mm196_adjcent
+longLabel HL_mm196_adjcent
 type bigWig
 color 104,104,224
 
 track HL_mm21
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm21.bw
-shortLabel HL_mm21_chicago3
-longLabel HL_mm21_chicago3
+shortLabel HL_mm21_adjcent
+longLabel HL_mm21_adjcent
 type bigWig
 color 34,11,226
 
 track HL_mm241
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm241.bw
-shortLabel HL_mm241_chicago3
-longLabel HL_mm241_chicago3
+shortLabel HL_mm241_adjcent
+longLabel HL_mm241_adjcent
 type bigWig
 color 235,181,157
 
 track HL_mm244
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm244.bw
-shortLabel HL_mm244_chicago3
-longLabel HL_mm244_chicago3
+shortLabel HL_mm244_adjcent
+longLabel HL_mm244_adjcent
 type bigWig
 color 59,116,167
 
 track HL_mm245
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm245.bw
-shortLabel HL_mm245_chicago3
-longLabel HL_mm245_chicago3
+shortLabel HL_mm245_adjcent
+longLabel HL_mm245_adjcent
 type bigWig
 color 38,22,16
 
 track HL_mm253
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm253.bw
-shortLabel HL_mm253_chicago3
-longLabel HL_mm253_chicago3
+shortLabel HL_mm253_adjcent
+longLabel HL_mm253_adjcent
 type bigWig
 color 241,171,93
 
 track HL_mm257
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm257.bw
-shortLabel HL_mm257_chicago3
-longLabel HL_mm257_chicago3
+shortLabel HL_mm257_adjcent
+longLabel HL_mm257_adjcent
 type bigWig
 color 120,137,191
 
 track HL_mm265
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm265.bw
-shortLabel HL_mm265_chicago3
-longLabel HL_mm265_chicago3
+shortLabel HL_mm265_adjcent
+longLabel HL_mm265_adjcent
 type bigWig
 color 123,47,103
 
 track HL_mm30
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm30.bw
-shortLabel HL_mm30_chicago3
-longLabel HL_mm30_chicago3
+shortLabel HL_mm30_adjcent
+longLabel HL_mm30_adjcent
 type bigWig
 color 57,136,116
 
 track HL_mm318
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm318.bw
-shortLabel HL_mm318_chicago3
-longLabel HL_mm318_chicago3
+shortLabel HL_mm318_adjcent
+longLabel HL_mm318_adjcent
 type bigWig
 color 195,87,139
 
 track HL_mm34
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm34.bw
-shortLabel HL_mm34_chicago3
-longLabel HL_mm34_chicago3
+shortLabel HL_mm34_adjcent
+longLabel HL_mm34_adjcent
 type bigWig
 color 239,105,218
 
 track HL_mm383
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm383.bw
-shortLabel HL_mm383_chicago3
-longLabel HL_mm383_chicago3
+shortLabel HL_mm383_adjcent
+longLabel HL_mm383_adjcent
 type bigWig
 color 81,224,171
 
 track HL_mm384
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm384.bw
-shortLabel HL_mm384_chicago3
-longLabel HL_mm384_chicago3
+shortLabel HL_mm384_adjcent
+longLabel HL_mm384_adjcent
 type bigWig
 color 190,48,124
 
 track HL_mm387
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm387.bw
-shortLabel HL_mm387_chicago3
-longLabel HL_mm387_chicago3
+shortLabel HL_mm387_adjcent
+longLabel HL_mm387_adjcent
 type bigWig
 color 205,146,160
 
 track HL_mm39
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm39.bw
-shortLabel HL_mm39_chicago3
-longLabel HL_mm39_chicago3
+shortLabel HL_mm39_adjcent
+longLabel HL_mm39_adjcent
 type bigWig
 color 14,94,45
 
 track HL_mm397
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm397.bw
-shortLabel HL_mm397_chicago3
-longLabel HL_mm397_chicago3
+shortLabel HL_mm397_adjcent
+longLabel HL_mm397_adjcent
 type bigWig
 color 16,110,121
 
 track HL_mm400
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm400.bw
-shortLabel HL_mm400_chicago3
-longLabel HL_mm400_chicago3
+shortLabel HL_mm400_adjcent
+longLabel HL_mm400_adjcent
 type bigWig
 color 225,211,63
 
 track HL_mm402
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm402.bw
-shortLabel HL_mm402_chicago3
-longLabel HL_mm402_chicago3
+shortLabel HL_mm402_adjcent
+longLabel HL_mm402_adjcent
 type bigWig
 color 184,145,151
 
 track HL_mm403
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm403.bw
-shortLabel HL_mm403_chicago3
-longLabel HL_mm403_chicago3
+shortLabel HL_mm403_adjcent
+longLabel HL_mm403_adjcent
 type bigWig
 color 57,212,9
 
 track HL_mm404
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm404.bw
-shortLabel HL_mm404_chicago3
-longLabel HL_mm404_chicago3
+shortLabel HL_mm404_adjcent
+longLabel HL_mm404_adjcent
 type bigWig
 color 204,210,44
 
 track HL_mm405
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm405.bw
-shortLabel HL_mm405_chicago3
-longLabel HL_mm405_chicago3
+shortLabel HL_mm405_adjcent
+longLabel HL_mm405_adjcent
 type bigWig
 color 63,88,246
 
 track HL_mm406
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm406.bw
-shortLabel HL_mm406_chicago3
-longLabel HL_mm406_chicago3
+shortLabel HL_mm406_adjcent
+longLabel HL_mm406_adjcent
 type bigWig
 color 155,246,191
 
 track HL_mm41
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm41.bw
-shortLabel HL_mm41_chicago3
-longLabel HL_mm41_chicago3
+shortLabel HL_mm41_adjcent
+longLabel HL_mm41_adjcent
 type bigWig
 color 15,16,174
 
 track HL_mm417
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm417.bw
-shortLabel HL_mm417_chicago3
-longLabel HL_mm417_chicago3
+shortLabel HL_mm417_adjcent
+longLabel HL_mm417_adjcent
 type bigWig
 color 253,195,13
 
 track HL_mm427
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm427.bw
-shortLabel HL_mm427_chicago3
-longLabel HL_mm427_chicago3
+shortLabel HL_mm427_adjcent
+longLabel HL_mm427_adjcent
 type bigWig
 color 239,80,186
 
 track HL_mm428
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm428.bw
-shortLabel HL_mm428_chicago3
-longLabel HL_mm428_chicago3
+shortLabel HL_mm428_adjcent
+longLabel HL_mm428_adjcent
 type bigWig
 color 182,85,222
 
 track HL_mm439
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm439.bw
-shortLabel HL_mm439_chicago3
-longLabel HL_mm439_chicago3
+shortLabel HL_mm439_adjcent
+longLabel HL_mm439_adjcent
 type bigWig
 color 120,31,241
 
 track HL_mm448
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm448.bw
-shortLabel HL_mm448_chicago3
-longLabel HL_mm448_chicago3
+shortLabel HL_mm448_adjcent
+longLabel HL_mm448_adjcent
 type bigWig
 color 50,19,116
 
 track HL_mm451
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm451.bw
-shortLabel HL_mm451_chicago3
-longLabel HL_mm451_chicago3
+shortLabel HL_mm451_adjcent
+longLabel HL_mm451_adjcent
 type bigWig
 color 236,124,87
 
 track HL_mm47
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm47.bw
-shortLabel HL_mm47_chicago3
-longLabel HL_mm47_chicago3
+shortLabel HL_mm47_adjcent
+longLabel HL_mm47_adjcent
 type bigWig
 color 187,168,138
 
 track HL_mm489
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm489.bw
-shortLabel HL_mm489_chicago3
-longLabel HL_mm489_chicago3
+shortLabel HL_mm489_adjcent
+longLabel HL_mm489_adjcent
 type bigWig
 color 174,246,1
 
 track HL_mm50
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm50.bw
-shortLabel HL_mm50_chicago3
-longLabel HL_mm50_chicago3
+shortLabel HL_mm50_adjcent
+longLabel HL_mm50_adjcent
 type bigWig
 color 34,79,100
 
 track HL_mm56
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm56.bw
-shortLabel HL_mm56_chicago3
-longLabel HL_mm56_chicago3
+shortLabel HL_mm56_adjcent
+longLabel HL_mm56_adjcent
 type bigWig
 color 16,102,29
 
 track HL_mm568
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm568.bw
-shortLabel HL_mm568_chicago3
-longLabel HL_mm568_chicago3
+shortLabel HL_mm568_adjcent
+longLabel HL_mm568_adjcent
 type bigWig
 color 190,42,172
 
 track HL_mm569
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm569.bw
-shortLabel HL_mm569_chicago3
-longLabel HL_mm569_chicago3
+shortLabel HL_mm569_adjcent
+longLabel HL_mm569_adjcent
 type bigWig
 color 60,74,215
 
 track HL_mm576
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm576.bw
-shortLabel HL_mm576_chicago3
-longLabel HL_mm576_chicago3
+shortLabel HL_mm576_adjcent
+longLabel HL_mm576_adjcent
 type bigWig
 color 89,246,25
 
 track HL_mm577
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm577.bw
-shortLabel HL_mm577_chicago3
-longLabel HL_mm577_chicago3
+shortLabel HL_mm577_adjcent
+longLabel HL_mm577_adjcent
 type bigWig
 color 102,92,216
 
 track HL_mm594
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm594.bw
-shortLabel HL_mm594_chicago3
-longLabel HL_mm594_chicago3
+shortLabel HL_mm594_adjcent
+longLabel HL_mm594_adjcent
 type bigWig
 color 41,72,136
 
 track HL_mm60
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm60.bw
-shortLabel HL_mm60_chicago3
-longLabel HL_mm60_chicago3
+shortLabel HL_mm60_adjcent
+longLabel HL_mm60_adjcent
 type bigWig
 color 147,117,135
 
 track HL_mm607
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm607.bw
-shortLabel HL_mm607_chicago3
-longLabel HL_mm607_chicago3
+shortLabel HL_mm607_adjcent
+longLabel HL_mm607_adjcent
 type bigWig
 color 99,193,206
 
 track HL_mm610
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm610.bw
-shortLabel HL_mm610_chicago3
-longLabel HL_mm610_chicago3
+shortLabel HL_mm610_adjcent
+longLabel HL_mm610_adjcent
 type bigWig
 color 102,93,136
 
 track HL_mm612
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm612.bw
-shortLabel HL_mm612_chicago3
-longLabel HL_mm612_chicago3
+shortLabel HL_mm612_adjcent
+longLabel HL_mm612_adjcent
 type bigWig
 color 117,168,160
 
 track HL_mm627
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm627.bw
-shortLabel HL_mm627_chicago3
-longLabel HL_mm627_chicago3
+shortLabel HL_mm627_adjcent
+longLabel HL_mm627_adjcent
 type bigWig
 color 125,54,30
 
 track HL_mm628
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm628.bw
-shortLabel HL_mm628_chicago3
-longLabel HL_mm628_chicago3
+shortLabel HL_mm628_adjcent
+longLabel HL_mm628_adjcent
 type bigWig
 color 12,108,83
 
 track HL_mm636
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm636.bw
-shortLabel HL_mm636_chicago3
-longLabel HL_mm636_chicago3
+shortLabel HL_mm636_adjcent
+longLabel HL_mm636_adjcent
 type bigWig
 color 252,236,163
 
 track HL_mm64
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm64.bw
-shortLabel HL_mm64_chicago3
-longLabel HL_mm64_chicago3
+shortLabel HL_mm64_adjcent
+longLabel HL_mm64_adjcent
 type bigWig
 color 152,88,229
 
 track HL_mm641
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm641.bw
-shortLabel HL_mm641_chicago3
-longLabel HL_mm641_chicago3
+shortLabel HL_mm641_adjcent
+longLabel HL_mm641_adjcent
 type bigWig
 color 208,167,8
 
 track HL_mm645
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm645.bw
-shortLabel HL_mm645_chicago3
-longLabel HL_mm645_chicago3
+shortLabel HL_mm645_adjcent
+longLabel HL_mm645_adjcent
 type bigWig
 color 121,107,45
 
 track HL_mm652
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm652.bw
-shortLabel HL_mm652_chicago3
-longLabel HL_mm652_chicago3
+shortLabel HL_mm652_adjcent
+longLabel HL_mm652_adjcent
 type bigWig
 color 140,212,224
 
 track HL_mm67
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm67.bw
-shortLabel HL_mm67_chicago3
-longLabel HL_mm67_chicago3
+shortLabel HL_mm67_adjcent
+longLabel HL_mm67_adjcent
 type bigWig
 color 41,136,140
 
 track HL_mm671
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm671.bw
-shortLabel HL_mm671_chicago3
-longLabel HL_mm671_chicago3
+shortLabel HL_mm671_adjcent
+longLabel HL_mm671_adjcent
 type bigWig
 color 0,184,174
 
 track HL_mm673
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm673.bw
-shortLabel HL_mm673_chicago3
-longLabel HL_mm673_chicago3
+shortLabel HL_mm673_adjcent
+longLabel HL_mm673_adjcent
 type bigWig
 color 138,65,190
 
 track HL_mm678
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm678.bw
-shortLabel HL_mm678_chicago3
-longLabel HL_mm678_chicago3
+shortLabel HL_mm678_adjcent
+longLabel HL_mm678_adjcent
 type bigWig
 color 77,248,134
 
 track HL_mm683
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm683.bw
-shortLabel HL_mm683_chicago3
-longLabel HL_mm683_chicago3
+shortLabel HL_mm683_adjcent
+longLabel HL_mm683_adjcent
 type bigWig
 color 10,254,119
 
 track HL_mm702
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm702.bw
-shortLabel HL_mm702_chicago3
-longLabel HL_mm702_chicago3
+shortLabel HL_mm702_adjcent
+longLabel HL_mm702_adjcent
 type bigWig
 color 245,7,182
 
 track HL_mm712
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm712.bw
-shortLabel HL_mm712_chicago3
-longLabel HL_mm712_chicago3
+shortLabel HL_mm712_adjcent
+longLabel HL_mm712_adjcent
 type bigWig
 color 39,6,94
 
 track HL_mm720
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm720.bw
-shortLabel HL_mm720_chicago3
-longLabel HL_mm720_chicago3
+shortLabel HL_mm720_adjcent
+longLabel HL_mm720_adjcent
 type bigWig
 color 126,86,182
 
 track HL_mm725
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm725.bw
-shortLabel HL_mm725_chicago3
-longLabel HL_mm725_chicago3
+shortLabel HL_mm725_adjcent
+longLabel HL_mm725_adjcent
 type bigWig
 color 205,112,11
 
 track HL_mm734
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm734.bw
-shortLabel HL_mm734_chicago3
-longLabel HL_mm734_chicago3
+shortLabel HL_mm734_adjcent
+longLabel HL_mm734_adjcent
 type bigWig
 color 183,233,198
 
 track HL_mm745
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm745.bw
-shortLabel HL_mm745_chicago3
-longLabel HL_mm745_chicago3
+shortLabel HL_mm745_adjcent
+longLabel HL_mm745_adjcent
 type bigWig
 color 236,29,132
 
 track HL_mm751
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm751.bw
-shortLabel HL_mm751_chicago3
-longLabel HL_mm751_chicago3
+shortLabel HL_mm751_adjcent
+longLabel HL_mm751_adjcent
 type bigWig
 color 90,169,23
 
 track HL_mm757
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm757.bw
-shortLabel HL_mm757_chicago3
-longLabel HL_mm757_chicago3
+shortLabel HL_mm757_adjcent
+longLabel HL_mm757_adjcent
 type bigWig
 color 132,206,216
 
 track HL_mm76
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm76.bw
-shortLabel HL_mm76_chicago3
-longLabel HL_mm76_chicago3
+shortLabel HL_mm76_adjcent
+longLabel HL_mm76_adjcent
 type bigWig
 color 115,144,155
 
 track HL_mm768
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm768.bw
-shortLabel HL_mm768_chicago3
-longLabel HL_mm768_chicago3
+shortLabel HL_mm768_adjcent
+longLabel HL_mm768_adjcent
 type bigWig
 color 85,186,56
 
 track HL_mm829
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm829.bw
-shortLabel HL_mm829_chicago3
-longLabel HL_mm829_chicago3
+shortLabel HL_mm829_adjcent
+longLabel HL_mm829_adjcent
 type bigWig
 color 56,41,140
 
 track HL_mm832
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm832.bw
-shortLabel HL_mm832_chicago3
-longLabel HL_mm832_chicago3
+shortLabel HL_mm832_adjcent
+longLabel HL_mm832_adjcent
 type bigWig
 color 16,215,35
 
 track HL_mm84
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm84.bw
-shortLabel HL_mm84_chicago3
-longLabel HL_mm84_chicago3
+shortLabel HL_mm84_adjcent
+longLabel HL_mm84_adjcent
 type bigWig
 color 34,100,42
 
 track HL_mm85
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm85.bw
-shortLabel HL_mm85_chicago3
-longLabel HL_mm85_chicago3
+shortLabel HL_mm85_adjcent
+longLabel HL_mm85_adjcent
 type bigWig
 color 52,107,213
 
 track HL_mm871
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm871.bw
-shortLabel HL_mm871_chicago3
-longLabel HL_mm871_chicago3
+shortLabel HL_mm871_adjcent
+longLabel HL_mm871_adjcent
 type bigWig
 color 230,28,238
 
 track HL_mm881
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm881.bw
-shortLabel HL_mm881_chicago3
-longLabel HL_mm881_chicago3
+shortLabel HL_mm881_adjcent
+longLabel HL_mm881_adjcent
 type bigWig
 color 202,79,34
 
 track HL_mm89
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm89.bw
-shortLabel HL_mm89_chicago3
-longLabel HL_mm89_chicago3
+shortLabel HL_mm89_adjcent
+longLabel HL_mm89_adjcent
 type bigWig
 color 122,206,64
 
 track HL_mm90
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm90.bw
-shortLabel HL_mm90_chicago3
-longLabel HL_mm90_chicago3
+shortLabel HL_mm90_adjcent
+longLabel HL_mm90_adjcent
 type bigWig
 color 124,251,104
 
 track HL_mm901
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm901.bw
-shortLabel HL_mm901_chicago3
-longLabel HL_mm901_chicago3
+shortLabel HL_mm901_adjcent
+longLabel HL_mm901_adjcent
 type bigWig
 color 113,111,59
 
 track HL_mm91
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm91.bw
-shortLabel HL_mm91_chicago3
-longLabel HL_mm91_chicago3
+shortLabel HL_mm91_adjcent
+longLabel HL_mm91_adjcent
 type bigWig
 color 80,26,180
 
 track HL_mm917
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm917.bw
-shortLabel HL_mm917_chicago3
-longLabel HL_mm917_chicago3
+shortLabel HL_mm917_adjcent
+longLabel HL_mm917_adjcent
 type bigWig
 color 126,246,76
 
 track HL_mm919
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm919.bw
-shortLabel HL_mm919_chicago3
-longLabel HL_mm919_chicago3
+shortLabel HL_mm919_adjcent
+longLabel HL_mm919_adjcent
 type bigWig
 color 73,100,166
 
 track HL_mm933
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm933.bw
-shortLabel HL_mm933_chicago3
-longLabel HL_mm933_chicago3
+shortLabel HL_mm933_adjcent
+longLabel HL_mm933_adjcent
 type bigWig
 color 124,1,158
 
 track HL_mm936
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm936.bw
-shortLabel HL_mm936_chicago3
-longLabel HL_mm936_chicago3
+shortLabel HL_mm936_adjcent
+longLabel HL_mm936_adjcent
 type bigWig
 color 68,222,33
 
 track HL_mm938
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm938.bw
-shortLabel HL_mm938_chicago3
-longLabel HL_mm938_chicago3
+shortLabel HL_mm938_adjcent
+longLabel HL_mm938_adjcent
 type bigWig
 color 11,43,142
 
 track HL_mm94
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm94.bw
-shortLabel HL_mm94_chicago3
-longLabel HL_mm94_chicago3
+shortLabel HL_mm94_adjcent
+longLabel HL_mm94_adjcent
 type bigWig
 color 95,18,170
 
 track HL_mm971
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm971.bw
-shortLabel HL_mm971_chicago3
-longLabel HL_mm971_chicago3
+shortLabel HL_mm971_adjcent
+longLabel HL_mm971_adjcent
 type bigWig
 color 79,168,233
 
 track HL_mm985
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm985.bw
-shortLabel HL_mm985_chicago3
-longLabel HL_mm985_chicago3
+shortLabel HL_mm985_adjcent
+longLabel HL_mm985_adjcent
 type bigWig
 color 30,185,138
 
 track HL_mm99
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_mm99.bw
-shortLabel HL_mm99_chicago3
-longLabel HL_mm99_chicago3
+shortLabel HL_mm99_adjcent
+longLabel HL_mm99_adjcent
 type bigWig
 color 159,22,80
 
 track HL_PrxEn
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_PrxEn.bw
-shortLabel HL_PrxEn_chicago3
-longLabel HL_PrxEn_chicago3
+shortLabel HL_PrxEn_adjcent
+longLabel HL_PrxEn_adjcent
 type bigWig
 color 131,22,163
 
 track HL_ZRS
 parent bw_chicago3_HL
 bigDataUrl bw/HL/HL_ZRS.bw
-shortLabel HL_ZRS_chicago3
-longLabel HL_ZRS_chicago3
+shortLabel HL_ZRS_adjcent
+longLabel HL_ZRS_adjcent
 type bigWig
 color 102,63,99
 
