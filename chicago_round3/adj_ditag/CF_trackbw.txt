@@ -1,0 +1,8348 @@
+track bw_chicago3_CF
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel CF_adj_ditag
+longLabel CF_adj_ditag
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track CF_HLEA
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_HLEA.bw
+shortLabel CF_HLEA_adj_ditag
+longLabel CF_HLEA_adj_ditag
+type bigWig
+color 4,131,207
+
+track CF_HLEB
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_HLEB.bw
+shortLabel CF_HLEB_adj_ditag
+longLabel CF_HLEB_adj_ditag
+type bigWig
+color 62,139,82
+
+track CF_hs1001
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1001.bw
+shortLabel CF_hs1001_adj_ditag
+longLabel CF_hs1001_adj_ditag
+type bigWig
+color 39,91,222
+
+track CF_hs1004
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1004.bw
+shortLabel CF_hs1004_adj_ditag
+longLabel CF_hs1004_adj_ditag
+type bigWig
+color 247,153,5
+
+track CF_hs1007
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1007.bw
+shortLabel CF_hs1007_adj_ditag
+longLabel CF_hs1007_adj_ditag
+type bigWig
+color 61,208,63
+
+track CF_hs1011
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1011.bw
+shortLabel CF_hs1011_adj_ditag
+longLabel CF_hs1011_adj_ditag
+type bigWig
+color 178,199,203
+
+track CF_hs1017
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1017.bw
+shortLabel CF_hs1017_adj_ditag
+longLabel CF_hs1017_adj_ditag
+type bigWig
+color 192,176,164
+
+track CF_hs1020
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1020.bw
+shortLabel CF_hs1020_adj_ditag
+longLabel CF_hs1020_adj_ditag
+type bigWig
+color 34,120,216
+
+track CF_hs1022
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1022.bw
+shortLabel CF_hs1022_adj_ditag
+longLabel CF_hs1022_adj_ditag
+type bigWig
+color 33,221,121
+
+track CF_hs1024
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1024.bw
+shortLabel CF_hs1024_adj_ditag
+longLabel CF_hs1024_adj_ditag
+type bigWig
+color 224,178,100
+
+track CF_hs1025
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1025.bw
+shortLabel CF_hs1025_adj_ditag
+longLabel CF_hs1025_adj_ditag
+type bigWig
+color 159,249,230
+
+track CF_hs1030
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1030.bw
+shortLabel CF_hs1030_adj_ditag
+longLabel CF_hs1030_adj_ditag
+type bigWig
+color 16,36,54
+
+track CF_hs1035
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1035.bw
+shortLabel CF_hs1035_adj_ditag
+longLabel CF_hs1035_adj_ditag
+type bigWig
+color 177,53,153
+
+track CF_hs1042
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1042.bw
+shortLabel CF_hs1042_adj_ditag
+longLabel CF_hs1042_adj_ditag
+type bigWig
+color 203,238,243
+
+track CF_hs1043
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1043.bw
+shortLabel CF_hs1043_adj_ditag
+longLabel CF_hs1043_adj_ditag
+type bigWig
+color 195,82,197
+
+track CF_hs1052
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1052.bw
+shortLabel CF_hs1052_adj_ditag
+longLabel CF_hs1052_adj_ditag
+type bigWig
+color 140,132,209
+
+track CF_hs1056
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1056.bw
+shortLabel CF_hs1056_adj_ditag
+longLabel CF_hs1056_adj_ditag
+type bigWig
+color 106,56,180
+
+track CF_hs1060
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1060.bw
+shortLabel CF_hs1060_adj_ditag
+longLabel CF_hs1060_adj_ditag
+type bigWig
+color 69,160,151
+
+track CF_hs1066
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1066.bw
+shortLabel CF_hs1066_adj_ditag
+longLabel CF_hs1066_adj_ditag
+type bigWig
+color 236,88,64
+
+track CF_hs1078
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1078.bw
+shortLabel CF_hs1078_adj_ditag
+longLabel CF_hs1078_adj_ditag
+type bigWig
+color 203,41,135
+
+track CF_hs1079
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1079.bw
+shortLabel CF_hs1079_adj_ditag
+longLabel CF_hs1079_adj_ditag
+type bigWig
+color 32,251,17
+
+track CF_hs1082
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1082.bw
+shortLabel CF_hs1082_adj_ditag
+longLabel CF_hs1082_adj_ditag
+type bigWig
+color 7,186,213
+
+track CF_hs1085
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1085.bw
+shortLabel CF_hs1085_adj_ditag
+longLabel CF_hs1085_adj_ditag
+type bigWig
+color 125,167,150
+
+track CF_hs1086
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1086.bw
+shortLabel CF_hs1086_adj_ditag
+longLabel CF_hs1086_adj_ditag
+type bigWig
+color 166,83,82
+
+track CF_hs1092
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1092.bw
+shortLabel CF_hs1092_adj_ditag
+longLabel CF_hs1092_adj_ditag
+type bigWig
+color 193,128,156
+
+track CF_hs1093
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1093.bw
+shortLabel CF_hs1093_adj_ditag
+longLabel CF_hs1093_adj_ditag
+type bigWig
+color 117,63,192
+
+track CF_hs1099
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1099.bw
+shortLabel CF_hs1099_adj_ditag
+longLabel CF_hs1099_adj_ditag
+type bigWig
+color 31,139,184
+
+track CF_hs110
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs110.bw
+shortLabel CF_hs110_adj_ditag
+longLabel CF_hs110_adj_ditag
+type bigWig
+color 153,123,249
+
+track CF_hs1100
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1100.bw
+shortLabel CF_hs1100_adj_ditag
+longLabel CF_hs1100_adj_ditag
+type bigWig
+color 129,49,147
+
+track CF_hs1105
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1105.bw
+shortLabel CF_hs1105_adj_ditag
+longLabel CF_hs1105_adj_ditag
+type bigWig
+color 187,252,75
+
+track CF_hs1107
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1107.bw
+shortLabel CF_hs1107_adj_ditag
+longLabel CF_hs1107_adj_ditag
+type bigWig
+color 182,27,234
+
+track CF_hs1109
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1109.bw
+shortLabel CF_hs1109_adj_ditag
+longLabel CF_hs1109_adj_ditag
+type bigWig
+color 55,84,216
+
+track CF_hs111
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs111.bw
+shortLabel CF_hs111_adj_ditag
+longLabel CF_hs111_adj_ditag
+type bigWig
+color 93,75,132
+
+track CF_hs1112
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1112.bw
+shortLabel CF_hs1112_adj_ditag
+longLabel CF_hs1112_adj_ditag
+type bigWig
+color 213,161,217
+
+track CF_hs1114
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1114.bw
+shortLabel CF_hs1114_adj_ditag
+longLabel CF_hs1114_adj_ditag
+type bigWig
+color 175,69,118
+
+track CF_hs1117
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1117.bw
+shortLabel CF_hs1117_adj_ditag
+longLabel CF_hs1117_adj_ditag
+type bigWig
+color 204,215,205
+
+track CF_hs1118
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1118.bw
+shortLabel CF_hs1118_adj_ditag
+longLabel CF_hs1118_adj_ditag
+type bigWig
+color 230,207,236
+
+track CF_hs1119
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1119.bw
+shortLabel CF_hs1119_adj_ditag
+longLabel CF_hs1119_adj_ditag
+type bigWig
+color 83,187,155
+
+track CF_hs112
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs112.bw
+shortLabel CF_hs112_adj_ditag
+longLabel CF_hs112_adj_ditag
+type bigWig
+color 225,190,141
+
+track CF_hs1122
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1122.bw
+shortLabel CF_hs1122_adj_ditag
+longLabel CF_hs1122_adj_ditag
+type bigWig
+color 70,114,238
+
+track CF_hs1123
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1123.bw
+shortLabel CF_hs1123_adj_ditag
+longLabel CF_hs1123_adj_ditag
+type bigWig
+color 87,73,10
+
+track CF_hs1124
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1124.bw
+shortLabel CF_hs1124_adj_ditag
+longLabel CF_hs1124_adj_ditag
+type bigWig
+color 12,8,41
+
+track CF_hs1128
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1128.bw
+shortLabel CF_hs1128_adj_ditag
+longLabel CF_hs1128_adj_ditag
+type bigWig
+color 172,37,79
+
+track CF_hs1130
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1130.bw
+shortLabel CF_hs1130_adj_ditag
+longLabel CF_hs1130_adj_ditag
+type bigWig
+color 2,117,27
+
+track CF_hs1139
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1139.bw
+shortLabel CF_hs1139_adj_ditag
+longLabel CF_hs1139_adj_ditag
+type bigWig
+color 181,1,20
+
+track CF_hs1147
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1147.bw
+shortLabel CF_hs1147_adj_ditag
+longLabel CF_hs1147_adj_ditag
+type bigWig
+color 99,196,73
+
+track CF_hs1148
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1148.bw
+shortLabel CF_hs1148_adj_ditag
+longLabel CF_hs1148_adj_ditag
+type bigWig
+color 135,177,95
+
+track CF_hs1151
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1151.bw
+shortLabel CF_hs1151_adj_ditag
+longLabel CF_hs1151_adj_ditag
+type bigWig
+color 15,246,239
+
+track CF_hs1152
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1152.bw
+shortLabel CF_hs1152_adj_ditag
+longLabel CF_hs1152_adj_ditag
+type bigWig
+color 30,11,230
+
+track CF_hs1153
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1153.bw
+shortLabel CF_hs1153_adj_ditag
+longLabel CF_hs1153_adj_ditag
+type bigWig
+color 163,183,172
+
+track CF_hs116
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs116.bw
+shortLabel CF_hs116_adj_ditag
+longLabel CF_hs116_adj_ditag
+type bigWig
+color 39,185,158
+
+track CF_hs1163
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1163.bw
+shortLabel CF_hs1163_adj_ditag
+longLabel CF_hs1163_adj_ditag
+type bigWig
+color 144,74,119
+
+track CF_hs1166
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1166.bw
+shortLabel CF_hs1166_adj_ditag
+longLabel CF_hs1166_adj_ditag
+type bigWig
+color 193,132,156
+
+track CF_hs1168
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1168.bw
+shortLabel CF_hs1168_adj_ditag
+longLabel CF_hs1168_adj_ditag
+type bigWig
+color 104,227,222
+
+track CF_hs1169
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1169.bw
+shortLabel CF_hs1169_adj_ditag
+longLabel CF_hs1169_adj_ditag
+type bigWig
+color 83,95,162
+
+track CF_hs117
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs117.bw
+shortLabel CF_hs117_adj_ditag
+longLabel CF_hs117_adj_ditag
+type bigWig
+color 54,227,202
+
+track CF_hs1170
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1170.bw
+shortLabel CF_hs1170_adj_ditag
+longLabel CF_hs1170_adj_ditag
+type bigWig
+color 235,140,178
+
+track CF_hs1172
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1172.bw
+shortLabel CF_hs1172_adj_ditag
+longLabel CF_hs1172_adj_ditag
+type bigWig
+color 203,28,230
+
+track CF_hs1173
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1173.bw
+shortLabel CF_hs1173_adj_ditag
+longLabel CF_hs1173_adj_ditag
+type bigWig
+color 148,244,246
+
+track CF_hs1174
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1174.bw
+shortLabel CF_hs1174_adj_ditag
+longLabel CF_hs1174_adj_ditag
+type bigWig
+color 216,63,151
+
+track CF_hs1175
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1175.bw
+shortLabel CF_hs1175_adj_ditag
+longLabel CF_hs1175_adj_ditag
+type bigWig
+color 177,76,214
+
+track CF_hs1185
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1185.bw
+shortLabel CF_hs1185_adj_ditag
+longLabel CF_hs1185_adj_ditag
+type bigWig
+color 217,32,253
+
+track CF_hs1186
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1186.bw
+shortLabel CF_hs1186_adj_ditag
+longLabel CF_hs1186_adj_ditag
+type bigWig
+color 32,253,202
+
+track CF_hs1187
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1187.bw
+shortLabel CF_hs1187_adj_ditag
+longLabel CF_hs1187_adj_ditag
+type bigWig
+color 150,160,94
+
+track CF_hs12
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs12.bw
+shortLabel CF_hs12_adj_ditag
+longLabel CF_hs12_adj_ditag
+type bigWig
+color 68,81,216
+
+track CF_hs120
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs120.bw
+shortLabel CF_hs120_adj_ditag
+longLabel CF_hs120_adj_ditag
+type bigWig
+color 136,211,94
+
+track CF_hs1202
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1202.bw
+shortLabel CF_hs1202_adj_ditag
+longLabel CF_hs1202_adj_ditag
+type bigWig
+color 62,70,144
+
+track CF_hs1205
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1205.bw
+shortLabel CF_hs1205_adj_ditag
+longLabel CF_hs1205_adj_ditag
+type bigWig
+color 32,207,55
+
+track CF_hs1208
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1208.bw
+shortLabel CF_hs1208_adj_ditag
+longLabel CF_hs1208_adj_ditag
+type bigWig
+color 138,8,74
+
+track CF_hs121
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs121.bw
+shortLabel CF_hs121_adj_ditag
+longLabel CF_hs121_adj_ditag
+type bigWig
+color 43,60,228
+
+track CF_hs1210
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1210.bw
+shortLabel CF_hs1210_adj_ditag
+longLabel CF_hs1210_adj_ditag
+type bigWig
+color 164,132,228
+
+track CF_hs1212
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1212.bw
+shortLabel CF_hs1212_adj_ditag
+longLabel CF_hs1212_adj_ditag
+type bigWig
+color 74,70,87
+
+track CF_hs1213
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1213.bw
+shortLabel CF_hs1213_adj_ditag
+longLabel CF_hs1213_adj_ditag
+type bigWig
+color 147,251,155
+
+track CF_hs122
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs122.bw
+shortLabel CF_hs122_adj_ditag
+longLabel CF_hs122_adj_ditag
+type bigWig
+color 232,222,234
+
+track CF_hs1220
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1220.bw
+shortLabel CF_hs1220_adj_ditag
+longLabel CF_hs1220_adj_ditag
+type bigWig
+color 159,232,28
+
+track CF_hs1226
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1226.bw
+shortLabel CF_hs1226_adj_ditag
+longLabel CF_hs1226_adj_ditag
+type bigWig
+color 187,151,199
+
+track CF_hs123
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs123.bw
+shortLabel CF_hs123_adj_ditag
+longLabel CF_hs123_adj_ditag
+type bigWig
+color 49,26,12
+
+track CF_hs1233
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1233.bw
+shortLabel CF_hs1233_adj_ditag
+longLabel CF_hs1233_adj_ditag
+type bigWig
+color 170,130,9
+
+track CF_hs1235
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1235.bw
+shortLabel CF_hs1235_adj_ditag
+longLabel CF_hs1235_adj_ditag
+type bigWig
+color 207,103,178
+
+track CF_hs1236
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1236.bw
+shortLabel CF_hs1236_adj_ditag
+longLabel CF_hs1236_adj_ditag
+type bigWig
+color 202,224,88
+
+track CF_hs1247
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1247.bw
+shortLabel CF_hs1247_adj_ditag
+longLabel CF_hs1247_adj_ditag
+type bigWig
+color 57,93,11
+
+track CF_hs125
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs125.bw
+shortLabel CF_hs125_adj_ditag
+longLabel CF_hs125_adj_ditag
+type bigWig
+color 242,45,253
+
+track CF_hs1251
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1251.bw
+shortLabel CF_hs1251_adj_ditag
+longLabel CF_hs1251_adj_ditag
+type bigWig
+color 108,210,100
+
+track CF_hs1256
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1256.bw
+shortLabel CF_hs1256_adj_ditag
+longLabel CF_hs1256_adj_ditag
+type bigWig
+color 84,160,37
+
+track CF_hs126
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs126.bw
+shortLabel CF_hs126_adj_ditag
+longLabel CF_hs126_adj_ditag
+type bigWig
+color 113,144,24
+
+track CF_hs1262
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1262.bw
+shortLabel CF_hs1262_adj_ditag
+longLabel CF_hs1262_adj_ditag
+type bigWig
+color 88,80,238
+
+track CF_hs1271
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1271.bw
+shortLabel CF_hs1271_adj_ditag
+longLabel CF_hs1271_adj_ditag
+type bigWig
+color 84,18,246
+
+track CF_hs1273
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1273.bw
+shortLabel CF_hs1273_adj_ditag
+longLabel CF_hs1273_adj_ditag
+type bigWig
+color 136,179,55
+
+track CF_hs1278
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1278.bw
+shortLabel CF_hs1278_adj_ditag
+longLabel CF_hs1278_adj_ditag
+type bigWig
+color 5,137,95
+
+track CF_hs1300
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1300.bw
+shortLabel CF_hs1300_adj_ditag
+longLabel CF_hs1300_adj_ditag
+type bigWig
+color 29,180,157
+
+track CF_hs1302
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1302.bw
+shortLabel CF_hs1302_adj_ditag
+longLabel CF_hs1302_adj_ditag
+type bigWig
+color 64,172,228
+
+track CF_hs1303
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1303.bw
+shortLabel CF_hs1303_adj_ditag
+longLabel CF_hs1303_adj_ditag
+type bigWig
+color 251,215,130
+
+track CF_hs1304
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1304.bw
+shortLabel CF_hs1304_adj_ditag
+longLabel CF_hs1304_adj_ditag
+type bigWig
+color 188,158,75
+
+track CF_hs1305
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1305.bw
+shortLabel CF_hs1305_adj_ditag
+longLabel CF_hs1305_adj_ditag
+type bigWig
+color 8,52,130
+
+track CF_hs1308
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1308.bw
+shortLabel CF_hs1308_adj_ditag
+longLabel CF_hs1308_adj_ditag
+type bigWig
+color 16,80,207
+
+track CF_hs1309
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1309.bw
+shortLabel CF_hs1309_adj_ditag
+longLabel CF_hs1309_adj_ditag
+type bigWig
+color 128,68,87
+
+track CF_hs1310
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1310.bw
+shortLabel CF_hs1310_adj_ditag
+longLabel CF_hs1310_adj_ditag
+type bigWig
+color 223,217,180
+
+track CF_hs1311
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1311.bw
+shortLabel CF_hs1311_adj_ditag
+longLabel CF_hs1311_adj_ditag
+type bigWig
+color 50,137,74
+
+track CF_hs1314
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1314.bw
+shortLabel CF_hs1314_adj_ditag
+longLabel CF_hs1314_adj_ditag
+type bigWig
+color 182,33,111
+
+track CF_hs1315
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1315.bw
+shortLabel CF_hs1315_adj_ditag
+longLabel CF_hs1315_adj_ditag
+type bigWig
+color 129,145,174
+
+track CF_hs1316
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1316.bw
+shortLabel CF_hs1316_adj_ditag
+longLabel CF_hs1316_adj_ditag
+type bigWig
+color 36,75,16
+
+track CF_hs1318
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1318.bw
+shortLabel CF_hs1318_adj_ditag
+longLabel CF_hs1318_adj_ditag
+type bigWig
+color 136,175,155
+
+track CF_hs1319
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1319.bw
+shortLabel CF_hs1319_adj_ditag
+longLabel CF_hs1319_adj_ditag
+type bigWig
+color 1,240,238
+
+track CF_hs1321
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1321.bw
+shortLabel CF_hs1321_adj_ditag
+longLabel CF_hs1321_adj_ditag
+type bigWig
+color 125,194,53
+
+track CF_hs1324
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1324.bw
+shortLabel CF_hs1324_adj_ditag
+longLabel CF_hs1324_adj_ditag
+type bigWig
+color 185,254,50
+
+track CF_hs1325
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1325.bw
+shortLabel CF_hs1325_adj_ditag
+longLabel CF_hs1325_adj_ditag
+type bigWig
+color 114,90,236
+
+track CF_hs1326
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1326.bw
+shortLabel CF_hs1326_adj_ditag
+longLabel CF_hs1326_adj_ditag
+type bigWig
+color 149,35,139
+
+track CF_hs1327
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1327.bw
+shortLabel CF_hs1327_adj_ditag
+longLabel CF_hs1327_adj_ditag
+type bigWig
+color 219,11,97
+
+track CF_hs1328
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1328.bw
+shortLabel CF_hs1328_adj_ditag
+longLabel CF_hs1328_adj_ditag
+type bigWig
+color 138,91,146
+
+track CF_hs1330
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1330.bw
+shortLabel CF_hs1330_adj_ditag
+longLabel CF_hs1330_adj_ditag
+type bigWig
+color 169,205,36
+
+track CF_hs1331
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1331.bw
+shortLabel CF_hs1331_adj_ditag
+longLabel CF_hs1331_adj_ditag
+type bigWig
+color 52,122,45
+
+track CF_hs1332
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1332.bw
+shortLabel CF_hs1332_adj_ditag
+longLabel CF_hs1332_adj_ditag
+type bigWig
+color 80,23,151
+
+track CF_hs1333
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1333.bw
+shortLabel CF_hs1333_adj_ditag
+longLabel CF_hs1333_adj_ditag
+type bigWig
+color 59,44,78
+
+track CF_hs1334
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1334.bw
+shortLabel CF_hs1334_adj_ditag
+longLabel CF_hs1334_adj_ditag
+type bigWig
+color 247,60,182
+
+track CF_hs1335
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1335.bw
+shortLabel CF_hs1335_adj_ditag
+longLabel CF_hs1335_adj_ditag
+type bigWig
+color 51,53,242
+
+track CF_hs1336
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1336.bw
+shortLabel CF_hs1336_adj_ditag
+longLabel CF_hs1336_adj_ditag
+type bigWig
+color 234,24,23
+
+track CF_hs1339
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1339.bw
+shortLabel CF_hs1339_adj_ditag
+longLabel CF_hs1339_adj_ditag
+type bigWig
+color 94,90,246
+
+track CF_hs1340
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1340.bw
+shortLabel CF_hs1340_adj_ditag
+longLabel CF_hs1340_adj_ditag
+type bigWig
+color 5,209,246
+
+track CF_hs1341
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1341.bw
+shortLabel CF_hs1341_adj_ditag
+longLabel CF_hs1341_adj_ditag
+type bigWig
+color 59,220,111
+
+track CF_hs1344
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1344.bw
+shortLabel CF_hs1344_adj_ditag
+longLabel CF_hs1344_adj_ditag
+type bigWig
+color 221,100,124
+
+track CF_hs1345
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1345.bw
+shortLabel CF_hs1345_adj_ditag
+longLabel CF_hs1345_adj_ditag
+type bigWig
+color 211,147,214
+
+track CF_hs1358
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1358.bw
+shortLabel CF_hs1358_adj_ditag
+longLabel CF_hs1358_adj_ditag
+type bigWig
+color 22,3,163
+
+track CF_hs1359
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1359.bw
+shortLabel CF_hs1359_adj_ditag
+longLabel CF_hs1359_adj_ditag
+type bigWig
+color 151,34,172
+
+track CF_hs1360
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1360.bw
+shortLabel CF_hs1360_adj_ditag
+longLabel CF_hs1360_adj_ditag
+type bigWig
+color 134,145,162
+
+track CF_hs1361
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1361.bw
+shortLabel CF_hs1361_adj_ditag
+longLabel CF_hs1361_adj_ditag
+type bigWig
+color 202,208,99
+
+track CF_hs1364
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1364.bw
+shortLabel CF_hs1364_adj_ditag
+longLabel CF_hs1364_adj_ditag
+type bigWig
+color 154,109,171
+
+track CF_hs1368
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1368.bw
+shortLabel CF_hs1368_adj_ditag
+longLabel CF_hs1368_adj_ditag
+type bigWig
+color 195,198,98
+
+track CF_hs1369
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1369.bw
+shortLabel CF_hs1369_adj_ditag
+longLabel CF_hs1369_adj_ditag
+type bigWig
+color 157,231,208
+
+track CF_hs1374
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1374.bw
+shortLabel CF_hs1374_adj_ditag
+longLabel CF_hs1374_adj_ditag
+type bigWig
+color 202,92,244
+
+track CF_hs138
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs138.bw
+shortLabel CF_hs138_adj_ditag
+longLabel CF_hs138_adj_ditag
+type bigWig
+color 18,41,57
+
+track CF_hs1383
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1383.bw
+shortLabel CF_hs1383_adj_ditag
+longLabel CF_hs1383_adj_ditag
+type bigWig
+color 58,194,26
+
+track CF_hs1384
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1384.bw
+shortLabel CF_hs1384_adj_ditag
+longLabel CF_hs1384_adj_ditag
+type bigWig
+color 80,107,214
+
+track CF_hs1385
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1385.bw
+shortLabel CF_hs1385_adj_ditag
+longLabel CF_hs1385_adj_ditag
+type bigWig
+color 239,95,231
+
+track CF_hs1388
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1388.bw
+shortLabel CF_hs1388_adj_ditag
+longLabel CF_hs1388_adj_ditag
+type bigWig
+color 7,148,136
+
+track CF_hs1389
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1389.bw
+shortLabel CF_hs1389_adj_ditag
+longLabel CF_hs1389_adj_ditag
+type bigWig
+color 180,126,135
+
+track CF_hs1390
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1390.bw
+shortLabel CF_hs1390_adj_ditag
+longLabel CF_hs1390_adj_ditag
+type bigWig
+color 175,47,47
+
+track CF_hs1391
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1391.bw
+shortLabel CF_hs1391_adj_ditag
+longLabel CF_hs1391_adj_ditag
+type bigWig
+color 40,215,145
+
+track CF_hs1393
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1393.bw
+shortLabel CF_hs1393_adj_ditag
+longLabel CF_hs1393_adj_ditag
+type bigWig
+color 151,68,133
+
+track CF_hs1394
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1394.bw
+shortLabel CF_hs1394_adj_ditag
+longLabel CF_hs1394_adj_ditag
+type bigWig
+color 176,136,210
+
+track CF_hs1397
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1397.bw
+shortLabel CF_hs1397_adj_ditag
+longLabel CF_hs1397_adj_ditag
+type bigWig
+color 44,220,204
+
+track CF_hs1413
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1413.bw
+shortLabel CF_hs1413_adj_ditag
+longLabel CF_hs1413_adj_ditag
+type bigWig
+color 26,123,139
+
+track CF_hs1414
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1414.bw
+shortLabel CF_hs1414_adj_ditag
+longLabel CF_hs1414_adj_ditag
+type bigWig
+color 234,52,207
+
+track CF_hs1417
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1417.bw
+shortLabel CF_hs1417_adj_ditag
+longLabel CF_hs1417_adj_ditag
+type bigWig
+color 123,84,230
+
+track CF_hs1418
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1418.bw
+shortLabel CF_hs1418_adj_ditag
+longLabel CF_hs1418_adj_ditag
+type bigWig
+color 12,170,86
+
+track CF_hs1419
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1419.bw
+shortLabel CF_hs1419_adj_ditag
+longLabel CF_hs1419_adj_ditag
+type bigWig
+color 208,15,28
+
+track CF_hs1422
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1422.bw
+shortLabel CF_hs1422_adj_ditag
+longLabel CF_hs1422_adj_ditag
+type bigWig
+color 14,24,13
+
+track CF_hs1425
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1425.bw
+shortLabel CF_hs1425_adj_ditag
+longLabel CF_hs1425_adj_ditag
+type bigWig
+color 180,254,245
+
+track CF_hs1427
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1427.bw
+shortLabel CF_hs1427_adj_ditag
+longLabel CF_hs1427_adj_ditag
+type bigWig
+color 206,44,123
+
+track CF_hs1430
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1430.bw
+shortLabel CF_hs1430_adj_ditag
+longLabel CF_hs1430_adj_ditag
+type bigWig
+color 34,115,68
+
+track CF_hs1431
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1431.bw
+shortLabel CF_hs1431_adj_ditag
+longLabel CF_hs1431_adj_ditag
+type bigWig
+color 48,151,234
+
+track CF_hs1432
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1432.bw
+shortLabel CF_hs1432_adj_ditag
+longLabel CF_hs1432_adj_ditag
+type bigWig
+color 184,161,240
+
+track CF_hs1433
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1433.bw
+shortLabel CF_hs1433_adj_ditag
+longLabel CF_hs1433_adj_ditag
+type bigWig
+color 182,104,12
+
+track CF_hs1435
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1435.bw
+shortLabel CF_hs1435_adj_ditag
+longLabel CF_hs1435_adj_ditag
+type bigWig
+color 98,96,52
+
+track CF_hs1436
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1436.bw
+shortLabel CF_hs1436_adj_ditag
+longLabel CF_hs1436_adj_ditag
+type bigWig
+color 43,12,158
+
+track CF_hs1437
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1437.bw
+shortLabel CF_hs1437_adj_ditag
+longLabel CF_hs1437_adj_ditag
+type bigWig
+color 142,24,234
+
+track CF_hs1441
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1441.bw
+shortLabel CF_hs1441_adj_ditag
+longLabel CF_hs1441_adj_ditag
+type bigWig
+color 199,62,190
+
+track CF_hs1442
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1442.bw
+shortLabel CF_hs1442_adj_ditag
+longLabel CF_hs1442_adj_ditag
+type bigWig
+color 57,219,23
+
+track CF_hs1445
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1445.bw
+shortLabel CF_hs1445_adj_ditag
+longLabel CF_hs1445_adj_ditag
+type bigWig
+color 237,166,180
+
+track CF_hs1450
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1450.bw
+shortLabel CF_hs1450_adj_ditag
+longLabel CF_hs1450_adj_ditag
+type bigWig
+color 99,199,75
+
+track CF_hs1453
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1453.bw
+shortLabel CF_hs1453_adj_ditag
+longLabel CF_hs1453_adj_ditag
+type bigWig
+color 159,4,46
+
+track CF_hs1460
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1460.bw
+shortLabel CF_hs1460_adj_ditag
+longLabel CF_hs1460_adj_ditag
+type bigWig
+color 250,58,157
+
+track CF_hs1463
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1463.bw
+shortLabel CF_hs1463_adj_ditag
+longLabel CF_hs1463_adj_ditag
+type bigWig
+color 137,92,83
+
+track CF_hs1465
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1465.bw
+shortLabel CF_hs1465_adj_ditag
+longLabel CF_hs1465_adj_ditag
+type bigWig
+color 89,83,95
+
+track CF_hs1466
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1466.bw
+shortLabel CF_hs1466_adj_ditag
+longLabel CF_hs1466_adj_ditag
+type bigWig
+color 156,41,41
+
+track CF_hs1467
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1467.bw
+shortLabel CF_hs1467_adj_ditag
+longLabel CF_hs1467_adj_ditag
+type bigWig
+color 26,109,158
+
+track CF_hs1472
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1472.bw
+shortLabel CF_hs1472_adj_ditag
+longLabel CF_hs1472_adj_ditag
+type bigWig
+color 163,248,135
+
+track CF_hs1473
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1473.bw
+shortLabel CF_hs1473_adj_ditag
+longLabel CF_hs1473_adj_ditag
+type bigWig
+color 62,19,243
+
+track CF_hs1475
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1475.bw
+shortLabel CF_hs1475_adj_ditag
+longLabel CF_hs1475_adj_ditag
+type bigWig
+color 187,130,183
+
+track CF_hs1477
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1477.bw
+shortLabel CF_hs1477_adj_ditag
+longLabel CF_hs1477_adj_ditag
+type bigWig
+color 61,193,114
+
+track CF_hs1482
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1482.bw
+shortLabel CF_hs1482_adj_ditag
+longLabel CF_hs1482_adj_ditag
+type bigWig
+color 206,71,10
+
+track CF_hs1484
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1484.bw
+shortLabel CF_hs1484_adj_ditag
+longLabel CF_hs1484_adj_ditag
+type bigWig
+color 242,97,13
+
+track CF_hs1485
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1485.bw
+shortLabel CF_hs1485_adj_ditag
+longLabel CF_hs1485_adj_ditag
+type bigWig
+color 124,240,225
+
+track CF_hs1486
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1486.bw
+shortLabel CF_hs1486_adj_ditag
+longLabel CF_hs1486_adj_ditag
+type bigWig
+color 223,204,184
+
+track CF_hs1487
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1487.bw
+shortLabel CF_hs1487_adj_ditag
+longLabel CF_hs1487_adj_ditag
+type bigWig
+color 51,66,95
+
+track CF_hs1488
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1488.bw
+shortLabel CF_hs1488_adj_ditag
+longLabel CF_hs1488_adj_ditag
+type bigWig
+color 244,91,238
+
+track CF_hs149
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs149.bw
+shortLabel CF_hs149_adj_ditag
+longLabel CF_hs149_adj_ditag
+type bigWig
+color 8,29,10
+
+track CF_hs1491
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1491.bw
+shortLabel CF_hs1491_adj_ditag
+longLabel CF_hs1491_adj_ditag
+type bigWig
+color 67,110,148
+
+track CF_hs1496
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1496.bw
+shortLabel CF_hs1496_adj_ditag
+longLabel CF_hs1496_adj_ditag
+type bigWig
+color 158,222,114
+
+track CF_hs1497
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1497.bw
+shortLabel CF_hs1497_adj_ditag
+longLabel CF_hs1497_adj_ditag
+type bigWig
+color 9,28,242
+
+track CF_hs1500
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1500.bw
+shortLabel CF_hs1500_adj_ditag
+longLabel CF_hs1500_adj_ditag
+type bigWig
+color 78,202,243
+
+track CF_hs1507
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1507.bw
+shortLabel CF_hs1507_adj_ditag
+longLabel CF_hs1507_adj_ditag
+type bigWig
+color 42,170,239
+
+track CF_hs1517
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1517.bw
+shortLabel CF_hs1517_adj_ditag
+longLabel CF_hs1517_adj_ditag
+type bigWig
+color 40,212,186
+
+track CF_hs152
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs152.bw
+shortLabel CF_hs152_adj_ditag
+longLabel CF_hs152_adj_ditag
+type bigWig
+color 59,135,86
+
+track CF_hs1530
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1530.bw
+shortLabel CF_hs1530_adj_ditag
+longLabel CF_hs1530_adj_ditag
+type bigWig
+color 131,91,80
+
+track CF_hs1534
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1534.bw
+shortLabel CF_hs1534_adj_ditag
+longLabel CF_hs1534_adj_ditag
+type bigWig
+color 136,229,26
+
+track CF_hs1535
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1535.bw
+shortLabel CF_hs1535_adj_ditag
+longLabel CF_hs1535_adj_ditag
+type bigWig
+color 216,70,153
+
+track CF_hs1537
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1537.bw
+shortLabel CF_hs1537_adj_ditag
+longLabel CF_hs1537_adj_ditag
+type bigWig
+color 81,29,241
+
+track CF_hs1538
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1538.bw
+shortLabel CF_hs1538_adj_ditag
+longLabel CF_hs1538_adj_ditag
+type bigWig
+color 101,47,86
+
+track CF_hs1543
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1543.bw
+shortLabel CF_hs1543_adj_ditag
+longLabel CF_hs1543_adj_ditag
+type bigWig
+color 127,154,79
+
+track CF_hs1545
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1545.bw
+shortLabel CF_hs1545_adj_ditag
+longLabel CF_hs1545_adj_ditag
+type bigWig
+color 240,201,8
+
+track CF_hs1546
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1546.bw
+shortLabel CF_hs1546_adj_ditag
+longLabel CF_hs1546_adj_ditag
+type bigWig
+color 194,221,233
+
+track CF_hs1548
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1548.bw
+shortLabel CF_hs1548_adj_ditag
+longLabel CF_hs1548_adj_ditag
+type bigWig
+color 109,78,109
+
+track CF_hs1553
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1553.bw
+shortLabel CF_hs1553_adj_ditag
+longLabel CF_hs1553_adj_ditag
+type bigWig
+color 182,60,26
+
+track CF_hs1554
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1554.bw
+shortLabel CF_hs1554_adj_ditag
+longLabel CF_hs1554_adj_ditag
+type bigWig
+color 248,140,8
+
+track CF_hs1555
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1555.bw
+shortLabel CF_hs1555_adj_ditag
+longLabel CF_hs1555_adj_ditag
+type bigWig
+color 1,11,81
+
+track CF_hs1557
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1557.bw
+shortLabel CF_hs1557_adj_ditag
+longLabel CF_hs1557_adj_ditag
+type bigWig
+color 128,87,191
+
+track CF_hs1563
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1563.bw
+shortLabel CF_hs1563_adj_ditag
+longLabel CF_hs1563_adj_ditag
+type bigWig
+color 156,71,177
+
+track CF_hs1564
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1564.bw
+shortLabel CF_hs1564_adj_ditag
+longLabel CF_hs1564_adj_ditag
+type bigWig
+color 10,131,38
+
+track CF_hs1566
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1566.bw
+shortLabel CF_hs1566_adj_ditag
+longLabel CF_hs1566_adj_ditag
+type bigWig
+color 57,25,173
+
+track CF_hs1567
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1567.bw
+shortLabel CF_hs1567_adj_ditag
+longLabel CF_hs1567_adj_ditag
+type bigWig
+color 190,219,206
+
+track CF_hs1571
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1571.bw
+shortLabel CF_hs1571_adj_ditag
+longLabel CF_hs1571_adj_ditag
+type bigWig
+color 89,74,45
+
+track CF_hs1574
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1574.bw
+shortLabel CF_hs1574_adj_ditag
+longLabel CF_hs1574_adj_ditag
+type bigWig
+color 222,3,37
+
+track CF_hs1575
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1575.bw
+shortLabel CF_hs1575_adj_ditag
+longLabel CF_hs1575_adj_ditag
+type bigWig
+color 19,9,40
+
+track CF_hs1577
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1577.bw
+shortLabel CF_hs1577_adj_ditag
+longLabel CF_hs1577_adj_ditag
+type bigWig
+color 99,191,20
+
+track CF_hs1578
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1578.bw
+shortLabel CF_hs1578_adj_ditag
+longLabel CF_hs1578_adj_ditag
+type bigWig
+color 13,175,97
+
+track CF_hs1581
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1581.bw
+shortLabel CF_hs1581_adj_ditag
+longLabel CF_hs1581_adj_ditag
+type bigWig
+color 1,229,178
+
+track CF_hs1582
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1582.bw
+shortLabel CF_hs1582_adj_ditag
+longLabel CF_hs1582_adj_ditag
+type bigWig
+color 34,58,195
+
+track CF_hs1585
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1585.bw
+shortLabel CF_hs1585_adj_ditag
+longLabel CF_hs1585_adj_ditag
+type bigWig
+color 210,154,102
+
+track CF_hs1586
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1586.bw
+shortLabel CF_hs1586_adj_ditag
+longLabel CF_hs1586_adj_ditag
+type bigWig
+color 8,163,222
+
+track CF_hs1588
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1588.bw
+shortLabel CF_hs1588_adj_ditag
+longLabel CF_hs1588_adj_ditag
+type bigWig
+color 31,139,98
+
+track CF_hs1599
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1599.bw
+shortLabel CF_hs1599_adj_ditag
+longLabel CF_hs1599_adj_ditag
+type bigWig
+color 240,42,238
+
+track CF_hs16
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs16.bw
+shortLabel CF_hs16_adj_ditag
+longLabel CF_hs16_adj_ditag
+type bigWig
+color 224,95,205
+
+track CF_hs1600
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1600.bw
+shortLabel CF_hs1600_adj_ditag
+longLabel CF_hs1600_adj_ditag
+type bigWig
+color 103,19,226
+
+track CF_hs1602
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1602.bw
+shortLabel CF_hs1602_adj_ditag
+longLabel CF_hs1602_adj_ditag
+type bigWig
+color 86,68,114
+
+track CF_hs1603
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1603.bw
+shortLabel CF_hs1603_adj_ditag
+longLabel CF_hs1603_adj_ditag
+type bigWig
+color 35,155,114
+
+track CF_hs1604
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1604.bw
+shortLabel CF_hs1604_adj_ditag
+longLabel CF_hs1604_adj_ditag
+type bigWig
+color 13,126,13
+
+track CF_hs1611
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1611.bw
+shortLabel CF_hs1611_adj_ditag
+longLabel CF_hs1611_adj_ditag
+type bigWig
+color 121,172,253
+
+track CF_hs1612
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1612.bw
+shortLabel CF_hs1612_adj_ditag
+longLabel CF_hs1612_adj_ditag
+type bigWig
+color 192,26,66
+
+track CF_hs1613
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1613.bw
+shortLabel CF_hs1613_adj_ditag
+longLabel CF_hs1613_adj_ditag
+type bigWig
+color 124,182,223
+
+track CF_hs1614
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1614.bw
+shortLabel CF_hs1614_adj_ditag
+longLabel CF_hs1614_adj_ditag
+type bigWig
+color 236,156,56
+
+track CF_hs1616
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1616.bw
+shortLabel CF_hs1616_adj_ditag
+longLabel CF_hs1616_adj_ditag
+type bigWig
+color 82,159,171
+
+track CF_hs1620
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1620.bw
+shortLabel CF_hs1620_adj_ditag
+longLabel CF_hs1620_adj_ditag
+type bigWig
+color 124,118,127
+
+track CF_hs1622
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1622.bw
+shortLabel CF_hs1622_adj_ditag
+longLabel CF_hs1622_adj_ditag
+type bigWig
+color 75,155,139
+
+track CF_hs1625
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1625.bw
+shortLabel CF_hs1625_adj_ditag
+longLabel CF_hs1625_adj_ditag
+type bigWig
+color 86,99,130
+
+track CF_hs1626
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1626.bw
+shortLabel CF_hs1626_adj_ditag
+longLabel CF_hs1626_adj_ditag
+type bigWig
+color 79,234,94
+
+track CF_hs1627
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1627.bw
+shortLabel CF_hs1627_adj_ditag
+longLabel CF_hs1627_adj_ditag
+type bigWig
+color 129,174,183
+
+track CF_hs1628
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1628.bw
+shortLabel CF_hs1628_adj_ditag
+longLabel CF_hs1628_adj_ditag
+type bigWig
+color 103,76,125
+
+track CF_hs1629
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1629.bw
+shortLabel CF_hs1629_adj_ditag
+longLabel CF_hs1629_adj_ditag
+type bigWig
+color 91,112,173
+
+track CF_hs1631
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1631.bw
+shortLabel CF_hs1631_adj_ditag
+longLabel CF_hs1631_adj_ditag
+type bigWig
+color 209,20,42
+
+track CF_hs1632
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1632.bw
+shortLabel CF_hs1632_adj_ditag
+longLabel CF_hs1632_adj_ditag
+type bigWig
+color 203,141,115
+
+track CF_hs1633
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1633.bw
+shortLabel CF_hs1633_adj_ditag
+longLabel CF_hs1633_adj_ditag
+type bigWig
+color 246,178,14
+
+track CF_hs1635
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1635.bw
+shortLabel CF_hs1635_adj_ditag
+longLabel CF_hs1635_adj_ditag
+type bigWig
+color 165,12,153
+
+track CF_hs1636
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1636.bw
+shortLabel CF_hs1636_adj_ditag
+longLabel CF_hs1636_adj_ditag
+type bigWig
+color 130,22,237
+
+track CF_hs1638
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1638.bw
+shortLabel CF_hs1638_adj_ditag
+longLabel CF_hs1638_adj_ditag
+type bigWig
+color 49,175,185
+
+track CF_hs1640
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1640.bw
+shortLabel CF_hs1640_adj_ditag
+longLabel CF_hs1640_adj_ditag
+type bigWig
+color 44,53,56
+
+track CF_hs1641
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1641.bw
+shortLabel CF_hs1641_adj_ditag
+longLabel CF_hs1641_adj_ditag
+type bigWig
+color 115,55,81
+
+track CF_hs1642
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1642.bw
+shortLabel CF_hs1642_adj_ditag
+longLabel CF_hs1642_adj_ditag
+type bigWig
+color 223,25,37
+
+track CF_hs1643
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1643.bw
+shortLabel CF_hs1643_adj_ditag
+longLabel CF_hs1643_adj_ditag
+type bigWig
+color 79,9,201
+
+track CF_hs1644
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1644.bw
+shortLabel CF_hs1644_adj_ditag
+longLabel CF_hs1644_adj_ditag
+type bigWig
+color 232,67,227
+
+track CF_hs1645
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1645.bw
+shortLabel CF_hs1645_adj_ditag
+longLabel CF_hs1645_adj_ditag
+type bigWig
+color 85,234,26
+
+track CF_hs1648
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1648.bw
+shortLabel CF_hs1648_adj_ditag
+longLabel CF_hs1648_adj_ditag
+type bigWig
+color 236,83,112
+
+track CF_hs1650
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1650.bw
+shortLabel CF_hs1650_adj_ditag
+longLabel CF_hs1650_adj_ditag
+type bigWig
+color 132,8,3
+
+track CF_hs1651
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1651.bw
+shortLabel CF_hs1651_adj_ditag
+longLabel CF_hs1651_adj_ditag
+type bigWig
+color 70,150,82
+
+track CF_hs1657
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1657.bw
+shortLabel CF_hs1657_adj_ditag
+longLabel CF_hs1657_adj_ditag
+type bigWig
+color 130,195,45
+
+track CF_hs1658
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1658.bw
+shortLabel CF_hs1658_adj_ditag
+longLabel CF_hs1658_adj_ditag
+type bigWig
+color 97,189,197
+
+track CF_hs1665
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1665.bw
+shortLabel CF_hs1665_adj_ditag
+longLabel CF_hs1665_adj_ditag
+type bigWig
+color 174,85,133
+
+track CF_hs1668
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1668.bw
+shortLabel CF_hs1668_adj_ditag
+longLabel CF_hs1668_adj_ditag
+type bigWig
+color 144,60,147
+
+track CF_hs1673
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1673.bw
+shortLabel CF_hs1673_adj_ditag
+longLabel CF_hs1673_adj_ditag
+type bigWig
+color 29,27,219
+
+track CF_hs1675
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1675.bw
+shortLabel CF_hs1675_adj_ditag
+longLabel CF_hs1675_adj_ditag
+type bigWig
+color 225,204,26
+
+track CF_hs1677
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1677.bw
+shortLabel CF_hs1677_adj_ditag
+longLabel CF_hs1677_adj_ditag
+type bigWig
+color 234,56,12
+
+track CF_hs1678
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1678.bw
+shortLabel CF_hs1678_adj_ditag
+longLabel CF_hs1678_adj_ditag
+type bigWig
+color 206,113,75
+
+track CF_hs1679
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1679.bw
+shortLabel CF_hs1679_adj_ditag
+longLabel CF_hs1679_adj_ditag
+type bigWig
+color 3,172,119
+
+track CF_hs1681
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1681.bw
+shortLabel CF_hs1681_adj_ditag
+longLabel CF_hs1681_adj_ditag
+type bigWig
+color 99,136,210
+
+track CF_hs1699
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1699.bw
+shortLabel CF_hs1699_adj_ditag
+longLabel CF_hs1699_adj_ditag
+type bigWig
+color 50,69,162
+
+track CF_hs170
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs170.bw
+shortLabel CF_hs170_adj_ditag
+longLabel CF_hs170_adj_ditag
+type bigWig
+color 111,153,241
+
+track CF_hs1702
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1702.bw
+shortLabel CF_hs1702_adj_ditag
+longLabel CF_hs1702_adj_ditag
+type bigWig
+color 56,74,106
+
+track CF_hs1705
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1705.bw
+shortLabel CF_hs1705_adj_ditag
+longLabel CF_hs1705_adj_ditag
+type bigWig
+color 224,2,200
+
+track CF_hs1707
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1707.bw
+shortLabel CF_hs1707_adj_ditag
+longLabel CF_hs1707_adj_ditag
+type bigWig
+color 223,245,182
+
+track CF_hs1715
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1715.bw
+shortLabel CF_hs1715_adj_ditag
+longLabel CF_hs1715_adj_ditag
+type bigWig
+color 202,29,245
+
+track CF_hs1720
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1720.bw
+shortLabel CF_hs1720_adj_ditag
+longLabel CF_hs1720_adj_ditag
+type bigWig
+color 50,45,21
+
+track CF_hs1723
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1723.bw
+shortLabel CF_hs1723_adj_ditag
+longLabel CF_hs1723_adj_ditag
+type bigWig
+color 114,10,119
+
+track CF_hs1725
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1725.bw
+shortLabel CF_hs1725_adj_ditag
+longLabel CF_hs1725_adj_ditag
+type bigWig
+color 142,106,130
+
+track CF_hs1726
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1726.bw
+shortLabel CF_hs1726_adj_ditag
+longLabel CF_hs1726_adj_ditag
+type bigWig
+color 74,219,119
+
+track CF_hs1734
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1734.bw
+shortLabel CF_hs1734_adj_ditag
+longLabel CF_hs1734_adj_ditag
+type bigWig
+color 21,227,36
+
+track CF_hs1738
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1738.bw
+shortLabel CF_hs1738_adj_ditag
+longLabel CF_hs1738_adj_ditag
+type bigWig
+color 198,82,49
+
+track CF_hs1743
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1743.bw
+shortLabel CF_hs1743_adj_ditag
+longLabel CF_hs1743_adj_ditag
+type bigWig
+color 173,57,155
+
+track CF_hs1745
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1745.bw
+shortLabel CF_hs1745_adj_ditag
+longLabel CF_hs1745_adj_ditag
+type bigWig
+color 166,64,67
+
+track CF_hs1746
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1746.bw
+shortLabel CF_hs1746_adj_ditag
+longLabel CF_hs1746_adj_ditag
+type bigWig
+color 194,34,89
+
+track CF_hs1747
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1747.bw
+shortLabel CF_hs1747_adj_ditag
+longLabel CF_hs1747_adj_ditag
+type bigWig
+color 160,91,246
+
+track CF_hs1750
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1750.bw
+shortLabel CF_hs1750_adj_ditag
+longLabel CF_hs1750_adj_ditag
+type bigWig
+color 74,212,214
+
+track CF_hs1751
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1751.bw
+shortLabel CF_hs1751_adj_ditag
+longLabel CF_hs1751_adj_ditag
+type bigWig
+color 86,86,95
+
+track CF_hs1752
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1752.bw
+shortLabel CF_hs1752_adj_ditag
+longLabel CF_hs1752_adj_ditag
+type bigWig
+color 179,204,123
+
+track CF_hs1760
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1760.bw
+shortLabel CF_hs1760_adj_ditag
+longLabel CF_hs1760_adj_ditag
+type bigWig
+color 58,7,198
+
+track CF_hs1763
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1763.bw
+shortLabel CF_hs1763_adj_ditag
+longLabel CF_hs1763_adj_ditag
+type bigWig
+color 30,73,61
+
+track CF_hs1767
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1767.bw
+shortLabel CF_hs1767_adj_ditag
+longLabel CF_hs1767_adj_ditag
+type bigWig
+color 183,130,119
+
+track CF_hs1769
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1769.bw
+shortLabel CF_hs1769_adj_ditag
+longLabel CF_hs1769_adj_ditag
+type bigWig
+color 55,193,0
+
+track CF_hs1783
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1783.bw
+shortLabel CF_hs1783_adj_ditag
+longLabel CF_hs1783_adj_ditag
+type bigWig
+color 229,219,169
+
+track CF_hs1791
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1791.bw
+shortLabel CF_hs1791_adj_ditag
+longLabel CF_hs1791_adj_ditag
+type bigWig
+color 15,128,249
+
+track CF_hs1798
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1798.bw
+shortLabel CF_hs1798_adj_ditag
+longLabel CF_hs1798_adj_ditag
+type bigWig
+color 114,28,100
+
+track CF_hs1800
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1800.bw
+shortLabel CF_hs1800_adj_ditag
+longLabel CF_hs1800_adj_ditag
+type bigWig
+color 14,158,183
+
+track CF_hs1809
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1809.bw
+shortLabel CF_hs1809_adj_ditag
+longLabel CF_hs1809_adj_ditag
+type bigWig
+color 215,90,48
+
+track CF_hs181
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs181.bw
+shortLabel CF_hs181_adj_ditag
+longLabel CF_hs181_adj_ditag
+type bigWig
+color 99,115,163
+
+track CF_hs1833
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1833.bw
+shortLabel CF_hs1833_adj_ditag
+longLabel CF_hs1833_adj_ditag
+type bigWig
+color 37,159,52
+
+track CF_hs1857
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1857.bw
+shortLabel CF_hs1857_adj_ditag
+longLabel CF_hs1857_adj_ditag
+type bigWig
+color 92,110,210
+
+track CF_hs1862
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1862.bw
+shortLabel CF_hs1862_adj_ditag
+longLabel CF_hs1862_adj_ditag
+type bigWig
+color 169,199,59
+
+track CF_hs1875
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1875.bw
+shortLabel CF_hs1875_adj_ditag
+longLabel CF_hs1875_adj_ditag
+type bigWig
+color 25,175,243
+
+track CF_hs1877
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1877.bw
+shortLabel CF_hs1877_adj_ditag
+longLabel CF_hs1877_adj_ditag
+type bigWig
+color 250,103,83
+
+track CF_hs1886
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1886.bw
+shortLabel CF_hs1886_adj_ditag
+longLabel CF_hs1886_adj_ditag
+type bigWig
+color 253,21,3
+
+track CF_hs189
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs189.bw
+shortLabel CF_hs189_adj_ditag
+longLabel CF_hs189_adj_ditag
+type bigWig
+color 31,92,52
+
+track CF_hs1891
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1891.bw
+shortLabel CF_hs1891_adj_ditag
+longLabel CF_hs1891_adj_ditag
+type bigWig
+color 173,27,11
+
+track CF_hs1909
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1909.bw
+shortLabel CF_hs1909_adj_ditag
+longLabel CF_hs1909_adj_ditag
+type bigWig
+color 194,218,178
+
+track CF_hs1912
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1912.bw
+shortLabel CF_hs1912_adj_ditag
+longLabel CF_hs1912_adj_ditag
+type bigWig
+color 240,237,58
+
+track CF_hs1915
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1915.bw
+shortLabel CF_hs1915_adj_ditag
+longLabel CF_hs1915_adj_ditag
+type bigWig
+color 233,96,2
+
+track CF_hs1919
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1919.bw
+shortLabel CF_hs1919_adj_ditag
+longLabel CF_hs1919_adj_ditag
+type bigWig
+color 81,55,253
+
+track CF_hs192
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs192.bw
+shortLabel CF_hs192_adj_ditag
+longLabel CF_hs192_adj_ditag
+type bigWig
+color 203,221,135
+
+track CF_hs1920
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1920.bw
+shortLabel CF_hs1920_adj_ditag
+longLabel CF_hs1920_adj_ditag
+type bigWig
+color 6,204,190
+
+track CF_hs1922
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1922.bw
+shortLabel CF_hs1922_adj_ditag
+longLabel CF_hs1922_adj_ditag
+type bigWig
+color 27,163,3
+
+track CF_hs1924
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1924.bw
+shortLabel CF_hs1924_adj_ditag
+longLabel CF_hs1924_adj_ditag
+type bigWig
+color 178,27,183
+
+track CF_hs1927
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1927.bw
+shortLabel CF_hs1927_adj_ditag
+longLabel CF_hs1927_adj_ditag
+type bigWig
+color 37,149,68
+
+track CF_hs1931
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1931.bw
+shortLabel CF_hs1931_adj_ditag
+longLabel CF_hs1931_adj_ditag
+type bigWig
+color 95,76,248
+
+track CF_hs1932
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1932.bw
+shortLabel CF_hs1932_adj_ditag
+longLabel CF_hs1932_adj_ditag
+type bigWig
+color 63,181,140
+
+track CF_hs1933
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1933.bw
+shortLabel CF_hs1933_adj_ditag
+longLabel CF_hs1933_adj_ditag
+type bigWig
+color 217,9,70
+
+track CF_hs1955
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1955.bw
+shortLabel CF_hs1955_adj_ditag
+longLabel CF_hs1955_adj_ditag
+type bigWig
+color 35,132,198
+
+track CF_hs1958
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1958.bw
+shortLabel CF_hs1958_adj_ditag
+longLabel CF_hs1958_adj_ditag
+type bigWig
+color 8,135,235
+
+track CF_hs196
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs196.bw
+shortLabel CF_hs196_adj_ditag
+longLabel CF_hs196_adj_ditag
+type bigWig
+color 98,181,35
+
+track CF_hs1961
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1961.bw
+shortLabel CF_hs1961_adj_ditag
+longLabel CF_hs1961_adj_ditag
+type bigWig
+color 167,195,179
+
+track CF_hs197
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs197.bw
+shortLabel CF_hs197_adj_ditag
+longLabel CF_hs197_adj_ditag
+type bigWig
+color 187,56,196
+
+track CF_hs1971
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1971.bw
+shortLabel CF_hs1971_adj_ditag
+longLabel CF_hs1971_adj_ditag
+type bigWig
+color 211,237,200
+
+track CF_hs1974
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1974.bw
+shortLabel CF_hs1974_adj_ditag
+longLabel CF_hs1974_adj_ditag
+type bigWig
+color 226,112,121
+
+track CF_hs1977
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1977.bw
+shortLabel CF_hs1977_adj_ditag
+longLabel CF_hs1977_adj_ditag
+type bigWig
+color 82,119,89
+
+track CF_hs1991
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs1991.bw
+shortLabel CF_hs1991_adj_ditag
+longLabel CF_hs1991_adj_ditag
+type bigWig
+color 120,190,145
+
+track CF_hs20
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs20.bw
+shortLabel CF_hs20_adj_ditag
+longLabel CF_hs20_adj_ditag
+type bigWig
+color 213,223,130
+
+track CF_hs200
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs200.bw
+shortLabel CF_hs200_adj_ditag
+longLabel CF_hs200_adj_ditag
+type bigWig
+color 174,92,161
+
+track CF_hs201
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs201.bw
+shortLabel CF_hs201_adj_ditag
+longLabel CF_hs201_adj_ditag
+type bigWig
+color 95,165,210
+
+track CF_hs202
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs202.bw
+shortLabel CF_hs202_adj_ditag
+longLabel CF_hs202_adj_ditag
+type bigWig
+color 147,10,37
+
+track CF_hs2027
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2027.bw
+shortLabel CF_hs2027_adj_ditag
+longLabel CF_hs2027_adj_ditag
+type bigWig
+color 7,144,102
+
+track CF_hs203
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs203.bw
+shortLabel CF_hs203_adj_ditag
+longLabel CF_hs203_adj_ditag
+type bigWig
+color 110,76,197
+
+track CF_hs205
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs205.bw
+shortLabel CF_hs205_adj_ditag
+longLabel CF_hs205_adj_ditag
+type bigWig
+color 213,162,121
+
+track CF_hs2050
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2050.bw
+shortLabel CF_hs2050_adj_ditag
+longLabel CF_hs2050_adj_ditag
+type bigWig
+color 22,97,16
+
+track CF_hs2059
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2059.bw
+shortLabel CF_hs2059_adj_ditag
+longLabel CF_hs2059_adj_ditag
+type bigWig
+color 139,60,196
+
+track CF_hs206
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs206.bw
+shortLabel CF_hs206_adj_ditag
+longLabel CF_hs206_adj_ditag
+type bigWig
+color 113,239,253
+
+track CF_hs2064
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2064.bw
+shortLabel CF_hs2064_adj_ditag
+longLabel CF_hs2064_adj_ditag
+type bigWig
+color 124,111,135
+
+track CF_hs207
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs207.bw
+shortLabel CF_hs207_adj_ditag
+longLabel CF_hs207_adj_ditag
+type bigWig
+color 168,105,148
+
+track CF_hs2070
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2070.bw
+shortLabel CF_hs2070_adj_ditag
+longLabel CF_hs2070_adj_ditag
+type bigWig
+color 24,117,84
+
+track CF_hs2071
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2071.bw
+shortLabel CF_hs2071_adj_ditag
+longLabel CF_hs2071_adj_ditag
+type bigWig
+color 248,71,235
+
+track CF_hs2073
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2073.bw
+shortLabel CF_hs2073_adj_ditag
+longLabel CF_hs2073_adj_ditag
+type bigWig
+color 195,106,51
+
+track CF_hs2077
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2077.bw
+shortLabel CF_hs2077_adj_ditag
+longLabel CF_hs2077_adj_ditag
+type bigWig
+color 199,112,142
+
+track CF_hs2078
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2078.bw
+shortLabel CF_hs2078_adj_ditag
+longLabel CF_hs2078_adj_ditag
+type bigWig
+color 222,43,243
+
+track CF_hs2081
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2081.bw
+shortLabel CF_hs2081_adj_ditag
+longLabel CF_hs2081_adj_ditag
+type bigWig
+color 232,10,30
+
+track CF_hs2082
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2082.bw
+shortLabel CF_hs2082_adj_ditag
+longLabel CF_hs2082_adj_ditag
+type bigWig
+color 156,21,105
+
+track CF_hs2084
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2084.bw
+shortLabel CF_hs2084_adj_ditag
+longLabel CF_hs2084_adj_ditag
+type bigWig
+color 215,220,12
+
+track CF_hs209
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs209.bw
+shortLabel CF_hs209_adj_ditag
+longLabel CF_hs209_adj_ditag
+type bigWig
+color 45,41,27
+
+track CF_hs2094
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2094.bw
+shortLabel CF_hs2094_adj_ditag
+longLabel CF_hs2094_adj_ditag
+type bigWig
+color 106,73,51
+
+track CF_hs210
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs210.bw
+shortLabel CF_hs210_adj_ditag
+longLabel CF_hs210_adj_ditag
+type bigWig
+color 177,62,80
+
+track CF_hs2100
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2100.bw
+shortLabel CF_hs2100_adj_ditag
+longLabel CF_hs2100_adj_ditag
+type bigWig
+color 79,7,230
+
+track CF_hs2104
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2104.bw
+shortLabel CF_hs2104_adj_ditag
+longLabel CF_hs2104_adj_ditag
+type bigWig
+color 252,96,65
+
+track CF_hs212
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs212.bw
+shortLabel CF_hs212_adj_ditag
+longLabel CF_hs212_adj_ditag
+type bigWig
+color 218,76,181
+
+track CF_hs2125
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2125.bw
+shortLabel CF_hs2125_adj_ditag
+longLabel CF_hs2125_adj_ditag
+type bigWig
+color 139,214,134
+
+track CF_hs214
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs214.bw
+shortLabel CF_hs214_adj_ditag
+longLabel CF_hs214_adj_ditag
+type bigWig
+color 90,96,190
+
+track CF_hs2142
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2142.bw
+shortLabel CF_hs2142_adj_ditag
+longLabel CF_hs2142_adj_ditag
+type bigWig
+color 11,127,166
+
+track CF_hs215
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs215.bw
+shortLabel CF_hs215_adj_ditag
+longLabel CF_hs215_adj_ditag
+type bigWig
+color 177,81,253
+
+track CF_hs2155
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2155.bw
+shortLabel CF_hs2155_adj_ditag
+longLabel CF_hs2155_adj_ditag
+type bigWig
+color 62,30,135
+
+track CF_hs216
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs216.bw
+shortLabel CF_hs216_adj_ditag
+longLabel CF_hs216_adj_ditag
+type bigWig
+color 57,225,125
+
+track CF_hs2160
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2160.bw
+shortLabel CF_hs2160_adj_ditag
+longLabel CF_hs2160_adj_ditag
+type bigWig
+color 64,17,167
+
+track CF_hs217
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs217.bw
+shortLabel CF_hs217_adj_ditag
+longLabel CF_hs217_adj_ditag
+type bigWig
+color 187,64,157
+
+track CF_hs2170
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2170.bw
+shortLabel CF_hs2170_adj_ditag
+longLabel CF_hs2170_adj_ditag
+type bigWig
+color 86,106,78
+
+track CF_hs2179
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2179.bw
+shortLabel CF_hs2179_adj_ditag
+longLabel CF_hs2179_adj_ditag
+type bigWig
+color 167,239,248
+
+track CF_hs218
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs218.bw
+shortLabel CF_hs218_adj_ditag
+longLabel CF_hs218_adj_ditag
+type bigWig
+color 45,154,51
+
+track CF_hs219
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs219.bw
+shortLabel CF_hs219_adj_ditag
+longLabel CF_hs219_adj_ditag
+type bigWig
+color 194,6,88
+
+track CF_hs2191
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2191.bw
+shortLabel CF_hs2191_adj_ditag
+longLabel CF_hs2191_adj_ditag
+type bigWig
+color 191,174,176
+
+track CF_hs2192
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2192.bw
+shortLabel CF_hs2192_adj_ditag
+longLabel CF_hs2192_adj_ditag
+type bigWig
+color 28,55,20
+
+track CF_hs2194
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2194.bw
+shortLabel CF_hs2194_adj_ditag
+longLabel CF_hs2194_adj_ditag
+type bigWig
+color 147,134,207
+
+track CF_hs22
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs22.bw
+shortLabel CF_hs22_adj_ditag
+longLabel CF_hs22_adj_ditag
+type bigWig
+color 211,66,189
+
+track CF_hs220
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs220.bw
+shortLabel CF_hs220_adj_ditag
+longLabel CF_hs220_adj_ditag
+type bigWig
+color 18,25,157
+
+track CF_hs2205
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2205.bw
+shortLabel CF_hs2205_adj_ditag
+longLabel CF_hs2205_adj_ditag
+type bigWig
+color 210,223,126
+
+track CF_hs221
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs221.bw
+shortLabel CF_hs221_adj_ditag
+longLabel CF_hs221_adj_ditag
+type bigWig
+color 164,90,200
+
+track CF_hs2216
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2216.bw
+shortLabel CF_hs2216_adj_ditag
+longLabel CF_hs2216_adj_ditag
+type bigWig
+color 23,177,163
+
+track CF_hs222
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs222.bw
+shortLabel CF_hs222_adj_ditag
+longLabel CF_hs222_adj_ditag
+type bigWig
+color 167,170,207
+
+track CF_hs2225
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2225.bw
+shortLabel CF_hs2225_adj_ditag
+longLabel CF_hs2225_adj_ditag
+type bigWig
+color 115,231,139
+
+track CF_hs2229
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2229.bw
+shortLabel CF_hs2229_adj_ditag
+longLabel CF_hs2229_adj_ditag
+type bigWig
+color 45,209,177
+
+track CF_hs223
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs223.bw
+shortLabel CF_hs223_adj_ditag
+longLabel CF_hs223_adj_ditag
+type bigWig
+color 20,100,131
+
+track CF_hs2231
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2231.bw
+shortLabel CF_hs2231_adj_ditag
+longLabel CF_hs2231_adj_ditag
+type bigWig
+color 190,118,57
+
+track CF_hs225
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs225.bw
+shortLabel CF_hs225_adj_ditag
+longLabel CF_hs225_adj_ditag
+type bigWig
+color 232,122,29
+
+track CF_hs2267
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2267.bw
+shortLabel CF_hs2267_adj_ditag
+longLabel CF_hs2267_adj_ditag
+type bigWig
+color 243,58,105
+
+track CF_hs2271
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2271.bw
+shortLabel CF_hs2271_adj_ditag
+longLabel CF_hs2271_adj_ditag
+type bigWig
+color 151,109,134
+
+track CF_hs229
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs229.bw
+shortLabel CF_hs229_adj_ditag
+longLabel CF_hs229_adj_ditag
+type bigWig
+color 186,38,69
+
+track CF_hs23
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs23.bw
+shortLabel CF_hs23_adj_ditag
+longLabel CF_hs23_adj_ditag
+type bigWig
+color 100,171,149
+
+track CF_hs230
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs230.bw
+shortLabel CF_hs230_adj_ditag
+longLabel CF_hs230_adj_ditag
+type bigWig
+color 9,150,74
+
+track CF_hs2306
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2306.bw
+shortLabel CF_hs2306_adj_ditag
+longLabel CF_hs2306_adj_ditag
+type bigWig
+color 205,183,158
+
+track CF_hs2308
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2308.bw
+shortLabel CF_hs2308_adj_ditag
+longLabel CF_hs2308_adj_ditag
+type bigWig
+color 129,86,130
+
+track CF_hs2309
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2309.bw
+shortLabel CF_hs2309_adj_ditag
+longLabel CF_hs2309_adj_ditag
+type bigWig
+color 209,189,28
+
+track CF_hs231
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs231.bw
+shortLabel CF_hs231_adj_ditag
+longLabel CF_hs231_adj_ditag
+type bigWig
+color 26,75,200
+
+track CF_hs2311
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2311.bw
+shortLabel CF_hs2311_adj_ditag
+longLabel CF_hs2311_adj_ditag
+type bigWig
+color 10,221,10
+
+track CF_hs2312
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2312.bw
+shortLabel CF_hs2312_adj_ditag
+longLabel CF_hs2312_adj_ditag
+type bigWig
+color 95,52,61
+
+track CF_hs2313
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2313.bw
+shortLabel CF_hs2313_adj_ditag
+longLabel CF_hs2313_adj_ditag
+type bigWig
+color 253,209,17
+
+track CF_hs2315
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2315.bw
+shortLabel CF_hs2315_adj_ditag
+longLabel CF_hs2315_adj_ditag
+type bigWig
+color 167,185,177
+
+track CF_hs2318
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2318.bw
+shortLabel CF_hs2318_adj_ditag
+longLabel CF_hs2318_adj_ditag
+type bigWig
+color 250,158,136
+
+track CF_hs232
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs232.bw
+shortLabel CF_hs232_adj_ditag
+longLabel CF_hs232_adj_ditag
+type bigWig
+color 5,118,213
+
+track CF_hs2328
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2328.bw
+shortLabel CF_hs2328_adj_ditag
+longLabel CF_hs2328_adj_ditag
+type bigWig
+color 158,203,180
+
+track CF_hs2330
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2330.bw
+shortLabel CF_hs2330_adj_ditag
+longLabel CF_hs2330_adj_ditag
+type bigWig
+color 241,46,73
+
+track CF_hs2336
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2336.bw
+shortLabel CF_hs2336_adj_ditag
+longLabel CF_hs2336_adj_ditag
+type bigWig
+color 138,185,44
+
+track CF_hs2337
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2337.bw
+shortLabel CF_hs2337_adj_ditag
+longLabel CF_hs2337_adj_ditag
+type bigWig
+color 53,162,162
+
+track CF_hs2342
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2342.bw
+shortLabel CF_hs2342_adj_ditag
+longLabel CF_hs2342_adj_ditag
+type bigWig
+color 133,231,247
+
+track CF_hs2343
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2343.bw
+shortLabel CF_hs2343_adj_ditag
+longLabel CF_hs2343_adj_ditag
+type bigWig
+color 100,14,38
+
+track CF_hs235
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs235.bw
+shortLabel CF_hs235_adj_ditag
+longLabel CF_hs235_adj_ditag
+type bigWig
+color 214,101,146
+
+track CF_hs238
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs238.bw
+shortLabel CF_hs238_adj_ditag
+longLabel CF_hs238_adj_ditag
+type bigWig
+color 130,121,147
+
+track CF_hs2384
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2384.bw
+shortLabel CF_hs2384_adj_ditag
+longLabel CF_hs2384_adj_ditag
+type bigWig
+color 182,120,84
+
+track CF_hs239
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs239.bw
+shortLabel CF_hs239_adj_ditag
+longLabel CF_hs239_adj_ditag
+type bigWig
+color 223,183,190
+
+track CF_hs240
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs240.bw
+shortLabel CF_hs240_adj_ditag
+longLabel CF_hs240_adj_ditag
+type bigWig
+color 133,18,71
+
+track CF_hs241
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs241.bw
+shortLabel CF_hs241_adj_ditag
+longLabel CF_hs241_adj_ditag
+type bigWig
+color 226,81,37
+
+track CF_hs2414
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2414.bw
+shortLabel CF_hs2414_adj_ditag
+longLabel CF_hs2414_adj_ditag
+type bigWig
+color 45,179,132
+
+track CF_hs242
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs242.bw
+shortLabel CF_hs242_adj_ditag
+longLabel CF_hs242_adj_ditag
+type bigWig
+color 101,62,187
+
+track CF_hs243
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs243.bw
+shortLabel CF_hs243_adj_ditag
+longLabel CF_hs243_adj_ditag
+type bigWig
+color 89,130,100
+
+track CF_hs244
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs244.bw
+shortLabel CF_hs244_adj_ditag
+longLabel CF_hs244_adj_ditag
+type bigWig
+color 167,157,154
+
+track CF_hs245
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs245.bw
+shortLabel CF_hs245_adj_ditag
+longLabel CF_hs245_adj_ditag
+type bigWig
+color 54,253,177
+
+track CF_hs246
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs246.bw
+shortLabel CF_hs246_adj_ditag
+longLabel CF_hs246_adj_ditag
+type bigWig
+color 238,177,37
+
+track CF_hs247
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs247.bw
+shortLabel CF_hs247_adj_ditag
+longLabel CF_hs247_adj_ditag
+type bigWig
+color 105,73,176
+
+track CF_hs248
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs248.bw
+shortLabel CF_hs248_adj_ditag
+longLabel CF_hs248_adj_ditag
+type bigWig
+color 29,136,49
+
+track CF_hs249
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs249.bw
+shortLabel CF_hs249_adj_ditag
+longLabel CF_hs249_adj_ditag
+type bigWig
+color 80,85,148
+
+track CF_hs2493
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2493.bw
+shortLabel CF_hs2493_adj_ditag
+longLabel CF_hs2493_adj_ditag
+type bigWig
+color 60,157,171
+
+track CF_hs2501
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2501.bw
+shortLabel CF_hs2501_adj_ditag
+longLabel CF_hs2501_adj_ditag
+type bigWig
+color 128,151,232
+
+track CF_hs251
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs251.bw
+shortLabel CF_hs251_adj_ditag
+longLabel CF_hs251_adj_ditag
+type bigWig
+color 28,249,6
+
+track CF_hs2516
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2516.bw
+shortLabel CF_hs2516_adj_ditag
+longLabel CF_hs2516_adj_ditag
+type bigWig
+color 168,93,222
+
+track CF_hs2517
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs2517.bw
+shortLabel CF_hs2517_adj_ditag
+longLabel CF_hs2517_adj_ditag
+type bigWig
+color 20,201,104
+
+track CF_hs252
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs252.bw
+shortLabel CF_hs252_adj_ditag
+longLabel CF_hs252_adj_ditag
+type bigWig
+color 147,186,51
+
+track CF_hs254
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs254.bw
+shortLabel CF_hs254_adj_ditag
+longLabel CF_hs254_adj_ditag
+type bigWig
+color 137,128,130
+
+track CF_hs255
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs255.bw
+shortLabel CF_hs255_adj_ditag
+longLabel CF_hs255_adj_ditag
+type bigWig
+color 158,249,218
+
+track CF_hs256
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs256.bw
+shortLabel CF_hs256_adj_ditag
+longLabel CF_hs256_adj_ditag
+type bigWig
+color 221,187,68
+
+track CF_hs257
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs257.bw
+shortLabel CF_hs257_adj_ditag
+longLabel CF_hs257_adj_ditag
+type bigWig
+color 149,172,69
+
+track CF_hs258
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs258.bw
+shortLabel CF_hs258_adj_ditag
+longLabel CF_hs258_adj_ditag
+type bigWig
+color 205,242,52
+
+track CF_hs260
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs260.bw
+shortLabel CF_hs260_adj_ditag
+longLabel CF_hs260_adj_ditag
+type bigWig
+color 110,172,105
+
+track CF_hs262
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs262.bw
+shortLabel CF_hs262_adj_ditag
+longLabel CF_hs262_adj_ditag
+type bigWig
+color 192,97,248
+
+track CF_hs263
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs263.bw
+shortLabel CF_hs263_adj_ditag
+longLabel CF_hs263_adj_ditag
+type bigWig
+color 118,147,122
+
+track CF_hs264
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs264.bw
+shortLabel CF_hs264_adj_ditag
+longLabel CF_hs264_adj_ditag
+type bigWig
+color 73,70,60
+
+track CF_hs265
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs265.bw
+shortLabel CF_hs265_adj_ditag
+longLabel CF_hs265_adj_ditag
+type bigWig
+color 17,97,131
+
+track CF_hs266
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs266.bw
+shortLabel CF_hs266_adj_ditag
+longLabel CF_hs266_adj_ditag
+type bigWig
+color 88,39,195
+
+track CF_hs267
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs267.bw
+shortLabel CF_hs267_adj_ditag
+longLabel CF_hs267_adj_ditag
+type bigWig
+color 179,191,34
+
+track CF_hs268
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs268.bw
+shortLabel CF_hs268_adj_ditag
+longLabel CF_hs268_adj_ditag
+type bigWig
+color 80,60,215
+
+track CF_hs269
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs269.bw
+shortLabel CF_hs269_adj_ditag
+longLabel CF_hs269_adj_ditag
+type bigWig
+color 194,201,128
+
+track CF_hs270
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs270.bw
+shortLabel CF_hs270_adj_ditag
+longLabel CF_hs270_adj_ditag
+type bigWig
+color 89,82,31
+
+track CF_hs271
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs271.bw
+shortLabel CF_hs271_adj_ditag
+longLabel CF_hs271_adj_ditag
+type bigWig
+color 196,251,245
+
+track CF_hs272
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs272.bw
+shortLabel CF_hs272_adj_ditag
+longLabel CF_hs272_adj_ditag
+type bigWig
+color 231,47,61
+
+track CF_hs273
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs273.bw
+shortLabel CF_hs273_adj_ditag
+longLabel CF_hs273_adj_ditag
+type bigWig
+color 128,232,78
+
+track CF_hs274
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs274.bw
+shortLabel CF_hs274_adj_ditag
+longLabel CF_hs274_adj_ditag
+type bigWig
+color 166,54,106
+
+track CF_hs277
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs277.bw
+shortLabel CF_hs277_adj_ditag
+longLabel CF_hs277_adj_ditag
+type bigWig
+color 121,75,174
+
+track CF_hs278
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs278.bw
+shortLabel CF_hs278_adj_ditag
+longLabel CF_hs278_adj_ditag
+type bigWig
+color 5,179,128
+
+track CF_hs279
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs279.bw
+shortLabel CF_hs279_adj_ditag
+longLabel CF_hs279_adj_ditag
+type bigWig
+color 211,151,205
+
+track CF_hs280
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs280.bw
+shortLabel CF_hs280_adj_ditag
+longLabel CF_hs280_adj_ditag
+type bigWig
+color 0,246,173
+
+track CF_hs281
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs281.bw
+shortLabel CF_hs281_adj_ditag
+longLabel CF_hs281_adj_ditag
+type bigWig
+color 182,21,235
+
+track CF_hs282
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs282.bw
+shortLabel CF_hs282_adj_ditag
+longLabel CF_hs282_adj_ditag
+type bigWig
+color 169,138,138
+
+track CF_hs283
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs283.bw
+shortLabel CF_hs283_adj_ditag
+longLabel CF_hs283_adj_ditag
+type bigWig
+color 248,140,52
+
+track CF_hs284
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs284.bw
+shortLabel CF_hs284_adj_ditag
+longLabel CF_hs284_adj_ditag
+type bigWig
+color 169,13,31
+
+track CF_hs285
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs285.bw
+shortLabel CF_hs285_adj_ditag
+longLabel CF_hs285_adj_ditag
+type bigWig
+color 233,19,155
+
+track CF_hs286
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs286.bw
+shortLabel CF_hs286_adj_ditag
+longLabel CF_hs286_adj_ditag
+type bigWig
+color 241,7,224
+
+track CF_hs289
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs289.bw
+shortLabel CF_hs289_adj_ditag
+longLabel CF_hs289_adj_ditag
+type bigWig
+color 39,131,99
+
+track CF_hs290
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs290.bw
+shortLabel CF_hs290_adj_ditag
+longLabel CF_hs290_adj_ditag
+type bigWig
+color 248,182,124
+
+track CF_hs292
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs292.bw
+shortLabel CF_hs292_adj_ditag
+longLabel CF_hs292_adj_ditag
+type bigWig
+color 253,41,180
+
+track CF_hs293
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs293.bw
+shortLabel CF_hs293_adj_ditag
+longLabel CF_hs293_adj_ditag
+type bigWig
+color 218,35,172
+
+track CF_hs295
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs295.bw
+shortLabel CF_hs295_adj_ditag
+longLabel CF_hs295_adj_ditag
+type bigWig
+color 15,17,32
+
+track CF_hs296
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs296.bw
+shortLabel CF_hs296_adj_ditag
+longLabel CF_hs296_adj_ditag
+type bigWig
+color 22,51,152
+
+track CF_hs297
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs297.bw
+shortLabel CF_hs297_adj_ditag
+longLabel CF_hs297_adj_ditag
+type bigWig
+color 170,192,42
+
+track CF_hs299
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs299.bw
+shortLabel CF_hs299_adj_ditag
+longLabel CF_hs299_adj_ditag
+type bigWig
+color 107,248,12
+
+track CF_hs300
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs300.bw
+shortLabel CF_hs300_adj_ditag
+longLabel CF_hs300_adj_ditag
+type bigWig
+color 175,143,4
+
+track CF_hs301
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs301.bw
+shortLabel CF_hs301_adj_ditag
+longLabel CF_hs301_adj_ditag
+type bigWig
+color 78,166,241
+
+track CF_hs302
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs302.bw
+shortLabel CF_hs302_adj_ditag
+longLabel CF_hs302_adj_ditag
+type bigWig
+color 102,198,148
+
+track CF_hs303
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs303.bw
+shortLabel CF_hs303_adj_ditag
+longLabel CF_hs303_adj_ditag
+type bigWig
+color 234,10,243
+
+track CF_hs306
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs306.bw
+shortLabel CF_hs306_adj_ditag
+longLabel CF_hs306_adj_ditag
+type bigWig
+color 9,156,212
+
+track CF_hs307
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs307.bw
+shortLabel CF_hs307_adj_ditag
+longLabel CF_hs307_adj_ditag
+type bigWig
+color 225,57,174
+
+track CF_hs308
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs308.bw
+shortLabel CF_hs308_adj_ditag
+longLabel CF_hs308_adj_ditag
+type bigWig
+color 135,86,177
+
+track CF_hs309
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs309.bw
+shortLabel CF_hs309_adj_ditag
+longLabel CF_hs309_adj_ditag
+type bigWig
+color 210,253,191
+
+track CF_hs310
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs310.bw
+shortLabel CF_hs310_adj_ditag
+longLabel CF_hs310_adj_ditag
+type bigWig
+color 235,146,55
+
+track CF_hs312
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs312.bw
+shortLabel CF_hs312_adj_ditag
+longLabel CF_hs312_adj_ditag
+type bigWig
+color 49,106,31
+
+track CF_hs313
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs313.bw
+shortLabel CF_hs313_adj_ditag
+longLabel CF_hs313_adj_ditag
+type bigWig
+color 209,15,197
+
+track CF_hs314
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs314.bw
+shortLabel CF_hs314_adj_ditag
+longLabel CF_hs314_adj_ditag
+type bigWig
+color 192,2,192
+
+track CF_hs317
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs317.bw
+shortLabel CF_hs317_adj_ditag
+longLabel CF_hs317_adj_ditag
+type bigWig
+color 113,92,202
+
+track CF_hs318
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs318.bw
+shortLabel CF_hs318_adj_ditag
+longLabel CF_hs318_adj_ditag
+type bigWig
+color 187,86,191
+
+track CF_hs319
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs319.bw
+shortLabel CF_hs319_adj_ditag
+longLabel CF_hs319_adj_ditag
+type bigWig
+color 245,85,141
+
+track CF_hs320
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs320.bw
+shortLabel CF_hs320_adj_ditag
+longLabel CF_hs320_adj_ditag
+type bigWig
+color 193,154,105
+
+track CF_hs321
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs321.bw
+shortLabel CF_hs321_adj_ditag
+longLabel CF_hs321_adj_ditag
+type bigWig
+color 155,231,247
+
+track CF_hs324
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs324.bw
+shortLabel CF_hs324_adj_ditag
+longLabel CF_hs324_adj_ditag
+type bigWig
+color 24,179,27
+
+track CF_hs327
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs327.bw
+shortLabel CF_hs327_adj_ditag
+longLabel CF_hs327_adj_ditag
+type bigWig
+color 82,240,140
+
+track CF_hs328
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs328.bw
+shortLabel CF_hs328_adj_ditag
+longLabel CF_hs328_adj_ditag
+type bigWig
+color 147,205,106
+
+track CF_hs330
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs330.bw
+shortLabel CF_hs330_adj_ditag
+longLabel CF_hs330_adj_ditag
+type bigWig
+color 174,28,13
+
+track CF_hs333
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs333.bw
+shortLabel CF_hs333_adj_ditag
+longLabel CF_hs333_adj_ditag
+type bigWig
+color 126,151,189
+
+track CF_hs334
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs334.bw
+shortLabel CF_hs334_adj_ditag
+longLabel CF_hs334_adj_ditag
+type bigWig
+color 21,112,104
+
+track CF_hs335
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs335.bw
+shortLabel CF_hs335_adj_ditag
+longLabel CF_hs335_adj_ditag
+type bigWig
+color 12,58,57
+
+track CF_hs336
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs336.bw
+shortLabel CF_hs336_adj_ditag
+longLabel CF_hs336_adj_ditag
+type bigWig
+color 232,88,74
+
+track CF_hs337
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs337.bw
+shortLabel CF_hs337_adj_ditag
+longLabel CF_hs337_adj_ditag
+type bigWig
+color 197,101,29
+
+track CF_hs338
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs338.bw
+shortLabel CF_hs338_adj_ditag
+longLabel CF_hs338_adj_ditag
+type bigWig
+color 254,105,196
+
+track CF_hs342
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs342.bw
+shortLabel CF_hs342_adj_ditag
+longLabel CF_hs342_adj_ditag
+type bigWig
+color 29,237,45
+
+track CF_hs343
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs343.bw
+shortLabel CF_hs343_adj_ditag
+longLabel CF_hs343_adj_ditag
+type bigWig
+color 148,76,12
+
+track CF_hs344
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs344.bw
+shortLabel CF_hs344_adj_ditag
+longLabel CF_hs344_adj_ditag
+type bigWig
+color 136,68,159
+
+track CF_hs345
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs345.bw
+shortLabel CF_hs345_adj_ditag
+longLabel CF_hs345_adj_ditag
+type bigWig
+color 172,140,254
+
+track CF_hs346
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs346.bw
+shortLabel CF_hs346_adj_ditag
+longLabel CF_hs346_adj_ditag
+type bigWig
+color 33,44,74
+
+track CF_hs347
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs347.bw
+shortLabel CF_hs347_adj_ditag
+longLabel CF_hs347_adj_ditag
+type bigWig
+color 74,24,158
+
+track CF_hs349
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs349.bw
+shortLabel CF_hs349_adj_ditag
+longLabel CF_hs349_adj_ditag
+type bigWig
+color 145,74,232
+
+track CF_hs350
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs350.bw
+shortLabel CF_hs350_adj_ditag
+longLabel CF_hs350_adj_ditag
+type bigWig
+color 40,8,185
+
+track CF_hs352
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs352.bw
+shortLabel CF_hs352_adj_ditag
+longLabel CF_hs352_adj_ditag
+type bigWig
+color 162,233,229
+
+track CF_hs353
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs353.bw
+shortLabel CF_hs353_adj_ditag
+longLabel CF_hs353_adj_ditag
+type bigWig
+color 159,159,209
+
+track CF_hs356
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs356.bw
+shortLabel CF_hs356_adj_ditag
+longLabel CF_hs356_adj_ditag
+type bigWig
+color 134,182,132
+
+track CF_hs357
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs357.bw
+shortLabel CF_hs357_adj_ditag
+longLabel CF_hs357_adj_ditag
+type bigWig
+color 114,173,230
+
+track CF_hs361
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs361.bw
+shortLabel CF_hs361_adj_ditag
+longLabel CF_hs361_adj_ditag
+type bigWig
+color 140,223,254
+
+track CF_hs362
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs362.bw
+shortLabel CF_hs362_adj_ditag
+longLabel CF_hs362_adj_ditag
+type bigWig
+color 134,1,47
+
+track CF_hs363
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs363.bw
+shortLabel CF_hs363_adj_ditag
+longLabel CF_hs363_adj_ditag
+type bigWig
+color 16,123,82
+
+track CF_hs364
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs364.bw
+shortLabel CF_hs364_adj_ditag
+longLabel CF_hs364_adj_ditag
+type bigWig
+color 196,78,219
+
+track CF_hs366
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs366.bw
+shortLabel CF_hs366_adj_ditag
+longLabel CF_hs366_adj_ditag
+type bigWig
+color 204,236,234
+
+track CF_hs368
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs368.bw
+shortLabel CF_hs368_adj_ditag
+longLabel CF_hs368_adj_ditag
+type bigWig
+color 110,25,10
+
+track CF_hs369
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs369.bw
+shortLabel CF_hs369_adj_ditag
+longLabel CF_hs369_adj_ditag
+type bigWig
+color 112,125,23
+
+track CF_hs37
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs37.bw
+shortLabel CF_hs37_adj_ditag
+longLabel CF_hs37_adj_ditag
+type bigWig
+color 225,44,254
+
+track CF_hs371
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs371.bw
+shortLabel CF_hs371_adj_ditag
+longLabel CF_hs371_adj_ditag
+type bigWig
+color 137,254,9
+
+track CF_hs372
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs372.bw
+shortLabel CF_hs372_adj_ditag
+longLabel CF_hs372_adj_ditag
+type bigWig
+color 144,21,1
+
+track CF_hs373
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs373.bw
+shortLabel CF_hs373_adj_ditag
+longLabel CF_hs373_adj_ditag
+type bigWig
+color 20,236,214
+
+track CF_hs374
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs374.bw
+shortLabel CF_hs374_adj_ditag
+longLabel CF_hs374_adj_ditag
+type bigWig
+color 153,116,40
+
+track CF_hs375
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs375.bw
+shortLabel CF_hs375_adj_ditag
+longLabel CF_hs375_adj_ditag
+type bigWig
+color 206,5,62
+
+track CF_hs376
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs376.bw
+shortLabel CF_hs376_adj_ditag
+longLabel CF_hs376_adj_ditag
+type bigWig
+color 124,241,26
+
+track CF_hs378
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs378.bw
+shortLabel CF_hs378_adj_ditag
+longLabel CF_hs378_adj_ditag
+type bigWig
+color 96,82,108
+
+track CF_hs379
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs379.bw
+shortLabel CF_hs379_adj_ditag
+longLabel CF_hs379_adj_ditag
+type bigWig
+color 245,1,227
+
+track CF_hs381
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs381.bw
+shortLabel CF_hs381_adj_ditag
+longLabel CF_hs381_adj_ditag
+type bigWig
+color 75,185,198
+
+track CF_hs382
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs382.bw
+shortLabel CF_hs382_adj_ditag
+longLabel CF_hs382_adj_ditag
+type bigWig
+color 20,13,134
+
+track CF_hs384
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs384.bw
+shortLabel CF_hs384_adj_ditag
+longLabel CF_hs384_adj_ditag
+type bigWig
+color 81,110,123
+
+track CF_hs385
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs385.bw
+shortLabel CF_hs385_adj_ditag
+longLabel CF_hs385_adj_ditag
+type bigWig
+color 7,10,161
+
+track CF_hs386
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs386.bw
+shortLabel CF_hs386_adj_ditag
+longLabel CF_hs386_adj_ditag
+type bigWig
+color 141,126,110
+
+track CF_hs388
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs388.bw
+shortLabel CF_hs388_adj_ditag
+longLabel CF_hs388_adj_ditag
+type bigWig
+color 95,34,34
+
+track CF_hs390
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs390.bw
+shortLabel CF_hs390_adj_ditag
+longLabel CF_hs390_adj_ditag
+type bigWig
+color 6,117,85
+
+track CF_hs391
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs391.bw
+shortLabel CF_hs391_adj_ditag
+longLabel CF_hs391_adj_ditag
+type bigWig
+color 183,114,164
+
+track CF_hs392
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs392.bw
+shortLabel CF_hs392_adj_ditag
+longLabel CF_hs392_adj_ditag
+type bigWig
+color 63,124,66
+
+track CF_hs395
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs395.bw
+shortLabel CF_hs395_adj_ditag
+longLabel CF_hs395_adj_ditag
+type bigWig
+color 164,240,192
+
+track CF_hs396
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs396.bw
+shortLabel CF_hs396_adj_ditag
+longLabel CF_hs396_adj_ditag
+type bigWig
+color 242,231,107
+
+track CF_hs397
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs397.bw
+shortLabel CF_hs397_adj_ditag
+longLabel CF_hs397_adj_ditag
+type bigWig
+color 161,143,51
+
+track CF_hs399
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs399.bw
+shortLabel CF_hs399_adj_ditag
+longLabel CF_hs399_adj_ditag
+type bigWig
+color 180,34,193
+
+track CF_hs4
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs4.bw
+shortLabel CF_hs4_adj_ditag
+longLabel CF_hs4_adj_ditag
+type bigWig
+color 248,113,202
+
+track CF_hs400
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs400.bw
+shortLabel CF_hs400_adj_ditag
+longLabel CF_hs400_adj_ditag
+type bigWig
+color 65,149,244
+
+track CF_hs402
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs402.bw
+shortLabel CF_hs402_adj_ditag
+longLabel CF_hs402_adj_ditag
+type bigWig
+color 137,132,176
+
+track CF_hs403
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs403.bw
+shortLabel CF_hs403_adj_ditag
+longLabel CF_hs403_adj_ditag
+type bigWig
+color 94,137,212
+
+track CF_hs404
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs404.bw
+shortLabel CF_hs404_adj_ditag
+longLabel CF_hs404_adj_ditag
+type bigWig
+color 39,2,61
+
+track CF_hs407
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs407.bw
+shortLabel CF_hs407_adj_ditag
+longLabel CF_hs407_adj_ditag
+type bigWig
+color 121,110,19
+
+track CF_hs408
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs408.bw
+shortLabel CF_hs408_adj_ditag
+longLabel CF_hs408_adj_ditag
+type bigWig
+color 144,146,167
+
+track CF_hs410
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs410.bw
+shortLabel CF_hs410_adj_ditag
+longLabel CF_hs410_adj_ditag
+type bigWig
+color 136,220,188
+
+track CF_hs411
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs411.bw
+shortLabel CF_hs411_adj_ditag
+longLabel CF_hs411_adj_ditag
+type bigWig
+color 39,215,125
+
+track CF_hs412
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs412.bw
+shortLabel CF_hs412_adj_ditag
+longLabel CF_hs412_adj_ditag
+type bigWig
+color 156,41,225
+
+track CF_hs414
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs414.bw
+shortLabel CF_hs414_adj_ditag
+longLabel CF_hs414_adj_ditag
+type bigWig
+color 66,245,251
+
+track CF_hs415
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs415.bw
+shortLabel CF_hs415_adj_ditag
+longLabel CF_hs415_adj_ditag
+type bigWig
+color 152,155,93
+
+track CF_hs416
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs416.bw
+shortLabel CF_hs416_adj_ditag
+longLabel CF_hs416_adj_ditag
+type bigWig
+color 128,156,35
+
+track CF_hs417
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs417.bw
+shortLabel CF_hs417_adj_ditag
+longLabel CF_hs417_adj_ditag
+type bigWig
+color 228,67,217
+
+track CF_hs420
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs420.bw
+shortLabel CF_hs420_adj_ditag
+longLabel CF_hs420_adj_ditag
+type bigWig
+color 29,100,26
+
+track CF_hs421
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs421.bw
+shortLabel CF_hs421_adj_ditag
+longLabel CF_hs421_adj_ditag
+type bigWig
+color 86,122,150
+
+track CF_hs423
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs423.bw
+shortLabel CF_hs423_adj_ditag
+longLabel CF_hs423_adj_ditag
+type bigWig
+color 103,215,62
+
+track CF_hs424
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs424.bw
+shortLabel CF_hs424_adj_ditag
+longLabel CF_hs424_adj_ditag
+type bigWig
+color 18,24,136
+
+track CF_hs425
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs425.bw
+shortLabel CF_hs425_adj_ditag
+longLabel CF_hs425_adj_ditag
+type bigWig
+color 203,17,150
+
+track CF_hs426
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs426.bw
+shortLabel CF_hs426_adj_ditag
+longLabel CF_hs426_adj_ditag
+type bigWig
+color 40,222,72
+
+track CF_hs428
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs428.bw
+shortLabel CF_hs428_adj_ditag
+longLabel CF_hs428_adj_ditag
+type bigWig
+color 183,193,24
+
+track CF_hs429
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs429.bw
+shortLabel CF_hs429_adj_ditag
+longLabel CF_hs429_adj_ditag
+type bigWig
+color 247,30,245
+
+track CF_hs431
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs431.bw
+shortLabel CF_hs431_adj_ditag
+longLabel CF_hs431_adj_ditag
+type bigWig
+color 181,106,205
+
+track CF_hs432
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs432.bw
+shortLabel CF_hs432_adj_ditag
+longLabel CF_hs432_adj_ditag
+type bigWig
+color 6,41,14
+
+track CF_hs434
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs434.bw
+shortLabel CF_hs434_adj_ditag
+longLabel CF_hs434_adj_ditag
+type bigWig
+color 232,168,202
+
+track CF_hs461
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs461.bw
+shortLabel CF_hs461_adj_ditag
+longLabel CF_hs461_adj_ditag
+type bigWig
+color 250,167,61
+
+track CF_hs472
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs472.bw
+shortLabel CF_hs472_adj_ditag
+longLabel CF_hs472_adj_ditag
+type bigWig
+color 40,153,25
+
+track CF_hs476
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs476.bw
+shortLabel CF_hs476_adj_ditag
+longLabel CF_hs476_adj_ditag
+type bigWig
+color 183,253,47
+
+track CF_hs477
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs477.bw
+shortLabel CF_hs477_adj_ditag
+longLabel CF_hs477_adj_ditag
+type bigWig
+color 242,246,158
+
+track CF_hs478
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs478.bw
+shortLabel CF_hs478_adj_ditag
+longLabel CF_hs478_adj_ditag
+type bigWig
+color 111,9,15
+
+track CF_hs479
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs479.bw
+shortLabel CF_hs479_adj_ditag
+longLabel CF_hs479_adj_ditag
+type bigWig
+color 162,38,246
+
+track CF_hs480
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs480.bw
+shortLabel CF_hs480_adj_ditag
+longLabel CF_hs480_adj_ditag
+type bigWig
+color 164,71,84
+
+track CF_hs483
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs483.bw
+shortLabel CF_hs483_adj_ditag
+longLabel CF_hs483_adj_ditag
+type bigWig
+color 174,249,74
+
+track CF_hs484
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs484.bw
+shortLabel CF_hs484_adj_ditag
+longLabel CF_hs484_adj_ditag
+type bigWig
+color 42,134,247
+
+track CF_hs487
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs487.bw
+shortLabel CF_hs487_adj_ditag
+longLabel CF_hs487_adj_ditag
+type bigWig
+color 139,246,42
+
+track CF_hs488
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs488.bw
+shortLabel CF_hs488_adj_ditag
+longLabel CF_hs488_adj_ditag
+type bigWig
+color 184,215,205
+
+track CF_hs491
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs491.bw
+shortLabel CF_hs491_adj_ditag
+longLabel CF_hs491_adj_ditag
+type bigWig
+color 33,170,105
+
+track CF_hs492
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs492.bw
+shortLabel CF_hs492_adj_ditag
+longLabel CF_hs492_adj_ditag
+type bigWig
+color 44,134,23
+
+track CF_hs495
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs495.bw
+shortLabel CF_hs495_adj_ditag
+longLabel CF_hs495_adj_ditag
+type bigWig
+color 252,22,118
+
+track CF_hs51
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs51.bw
+shortLabel CF_hs51_adj_ditag
+longLabel CF_hs51_adj_ditag
+type bigWig
+color 234,164,48
+
+track CF_hs511
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs511.bw
+shortLabel CF_hs511_adj_ditag
+longLabel CF_hs511_adj_ditag
+type bigWig
+color 200,160,80
+
+track CF_hs513
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs513.bw
+shortLabel CF_hs513_adj_ditag
+longLabel CF_hs513_adj_ditag
+type bigWig
+color 202,23,60
+
+track CF_hs515
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs515.bw
+shortLabel CF_hs515_adj_ditag
+longLabel CF_hs515_adj_ditag
+type bigWig
+color 31,161,177
+
+track CF_hs516
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs516.bw
+shortLabel CF_hs516_adj_ditag
+longLabel CF_hs516_adj_ditag
+type bigWig
+color 51,172,198
+
+track CF_hs521
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs521.bw
+shortLabel CF_hs521_adj_ditag
+longLabel CF_hs521_adj_ditag
+type bigWig
+color 173,137,2
+
+track CF_hs522
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs522.bw
+shortLabel CF_hs522_adj_ditag
+longLabel CF_hs522_adj_ditag
+type bigWig
+color 145,111,222
+
+track CF_hs526
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs526.bw
+shortLabel CF_hs526_adj_ditag
+longLabel CF_hs526_adj_ditag
+type bigWig
+color 2,205,130
+
+track CF_hs529
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs529.bw
+shortLabel CF_hs529_adj_ditag
+longLabel CF_hs529_adj_ditag
+type bigWig
+color 94,142,190
+
+track CF_hs532
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs532.bw
+shortLabel CF_hs532_adj_ditag
+longLabel CF_hs532_adj_ditag
+type bigWig
+color 81,138,225
+
+track CF_hs533
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs533.bw
+shortLabel CF_hs533_adj_ditag
+longLabel CF_hs533_adj_ditag
+type bigWig
+color 89,235,154
+
+track CF_hs536
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs536.bw
+shortLabel CF_hs536_adj_ditag
+longLabel CF_hs536_adj_ditag
+type bigWig
+color 208,251,139
+
+track CF_hs540
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs540.bw
+shortLabel CF_hs540_adj_ditag
+longLabel CF_hs540_adj_ditag
+type bigWig
+color 88,28,87
+
+track CF_hs541
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs541.bw
+shortLabel CF_hs541_adj_ditag
+longLabel CF_hs541_adj_ditag
+type bigWig
+color 137,187,80
+
+track CF_hs545
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs545.bw
+shortLabel CF_hs545_adj_ditag
+longLabel CF_hs545_adj_ditag
+type bigWig
+color 189,69,50
+
+track CF_hs546
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs546.bw
+shortLabel CF_hs546_adj_ditag
+longLabel CF_hs546_adj_ditag
+type bigWig
+color 168,245,205
+
+track CF_hs550
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs550.bw
+shortLabel CF_hs550_adj_ditag
+longLabel CF_hs550_adj_ditag
+type bigWig
+color 17,94,88
+
+track CF_hs553
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs553.bw
+shortLabel CF_hs553_adj_ditag
+longLabel CF_hs553_adj_ditag
+type bigWig
+color 100,5,112
+
+track CF_hs556
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs556.bw
+shortLabel CF_hs556_adj_ditag
+longLabel CF_hs556_adj_ditag
+type bigWig
+color 94,148,47
+
+track CF_hs563
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs563.bw
+shortLabel CF_hs563_adj_ditag
+longLabel CF_hs563_adj_ditag
+type bigWig
+color 235,62,99
+
+track CF_hs565
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs565.bw
+shortLabel CF_hs565_adj_ditag
+longLabel CF_hs565_adj_ditag
+type bigWig
+color 226,131,212
+
+track CF_hs566
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs566.bw
+shortLabel CF_hs566_adj_ditag
+longLabel CF_hs566_adj_ditag
+type bigWig
+color 211,107,52
+
+track CF_hs567
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs567.bw
+shortLabel CF_hs567_adj_ditag
+longLabel CF_hs567_adj_ditag
+type bigWig
+color 73,141,103
+
+track CF_hs568
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs568.bw
+shortLabel CF_hs568_adj_ditag
+longLabel CF_hs568_adj_ditag
+type bigWig
+color 59,35,28
+
+track CF_hs572
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs572.bw
+shortLabel CF_hs572_adj_ditag
+longLabel CF_hs572_adj_ditag
+type bigWig
+color 214,233,94
+
+track CF_hs573
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs573.bw
+shortLabel CF_hs573_adj_ditag
+longLabel CF_hs573_adj_ditag
+type bigWig
+color 124,160,214
+
+track CF_hs576
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs576.bw
+shortLabel CF_hs576_adj_ditag
+longLabel CF_hs576_adj_ditag
+type bigWig
+color 127,238,182
+
+track CF_hs579
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs579.bw
+shortLabel CF_hs579_adj_ditag
+longLabel CF_hs579_adj_ditag
+type bigWig
+color 14,120,83
+
+track CF_hs580
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs580.bw
+shortLabel CF_hs580_adj_ditag
+longLabel CF_hs580_adj_ditag
+type bigWig
+color 245,112,101
+
+track CF_hs586
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs586.bw
+shortLabel CF_hs586_adj_ditag
+longLabel CF_hs586_adj_ditag
+type bigWig
+color 146,236,39
+
+track CF_hs59
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs59.bw
+shortLabel CF_hs59_adj_ditag
+longLabel CF_hs59_adj_ditag
+type bigWig
+color 65,26,186
+
+track CF_hs590
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs590.bw
+shortLabel CF_hs590_adj_ditag
+longLabel CF_hs590_adj_ditag
+type bigWig
+color 15,176,239
+
+track CF_hs592
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs592.bw
+shortLabel CF_hs592_adj_ditag
+longLabel CF_hs592_adj_ditag
+type bigWig
+color 203,42,131
+
+track CF_hs593
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs593.bw
+shortLabel CF_hs593_adj_ditag
+longLabel CF_hs593_adj_ditag
+type bigWig
+color 113,221,18
+
+track CF_hs595
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs595.bw
+shortLabel CF_hs595_adj_ditag
+longLabel CF_hs595_adj_ditag
+type bigWig
+color 173,105,137
+
+track CF_hs598
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs598.bw
+shortLabel CF_hs598_adj_ditag
+longLabel CF_hs598_adj_ditag
+type bigWig
+color 236,168,179
+
+track CF_hs599
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs599.bw
+shortLabel CF_hs599_adj_ditag
+longLabel CF_hs599_adj_ditag
+type bigWig
+color 79,49,137
+
+track CF_hs605
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs605.bw
+shortLabel CF_hs605_adj_ditag
+longLabel CF_hs605_adj_ditag
+type bigWig
+color 247,167,29
+
+track CF_hs607
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs607.bw
+shortLabel CF_hs607_adj_ditag
+longLabel CF_hs607_adj_ditag
+type bigWig
+color 110,169,71
+
+track CF_hs608
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs608.bw
+shortLabel CF_hs608_adj_ditag
+longLabel CF_hs608_adj_ditag
+type bigWig
+color 90,161,59
+
+track CF_hs609
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs609.bw
+shortLabel CF_hs609_adj_ditag
+longLabel CF_hs609_adj_ditag
+type bigWig
+color 1,146,208
+
+track CF_hs611
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs611.bw
+shortLabel CF_hs611_adj_ditag
+longLabel CF_hs611_adj_ditag
+type bigWig
+color 173,241,73
+
+track CF_hs612
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs612.bw
+shortLabel CF_hs612_adj_ditag
+longLabel CF_hs612_adj_ditag
+type bigWig
+color 39,73,246
+
+track CF_hs625
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs625.bw
+shortLabel CF_hs625_adj_ditag
+longLabel CF_hs625_adj_ditag
+type bigWig
+color 158,71,232
+
+track CF_hs627
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs627.bw
+shortLabel CF_hs627_adj_ditag
+longLabel CF_hs627_adj_ditag
+type bigWig
+color 54,193,20
+
+track CF_hs629
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs629.bw
+shortLabel CF_hs629_adj_ditag
+longLabel CF_hs629_adj_ditag
+type bigWig
+color 230,141,127
+
+track CF_hs631
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs631.bw
+shortLabel CF_hs631_adj_ditag
+longLabel CF_hs631_adj_ditag
+type bigWig
+color 107,50,133
+
+track CF_hs633
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs633.bw
+shortLabel CF_hs633_adj_ditag
+longLabel CF_hs633_adj_ditag
+type bigWig
+color 54,205,156
+
+track CF_hs636
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs636.bw
+shortLabel CF_hs636_adj_ditag
+longLabel CF_hs636_adj_ditag
+type bigWig
+color 166,15,28
+
+track CF_hs643
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs643.bw
+shortLabel CF_hs643_adj_ditag
+longLabel CF_hs643_adj_ditag
+type bigWig
+color 210,75,79
+
+track CF_hs644
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs644.bw
+shortLabel CF_hs644_adj_ditag
+longLabel CF_hs644_adj_ditag
+type bigWig
+color 254,204,134
+
+track CF_hs649
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs649.bw
+shortLabel CF_hs649_adj_ditag
+longLabel CF_hs649_adj_ditag
+type bigWig
+color 43,70,181
+
+track CF_hs654
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs654.bw
+shortLabel CF_hs654_adj_ditag
+longLabel CF_hs654_adj_ditag
+type bigWig
+color 61,176,63
+
+track CF_hs657
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs657.bw
+shortLabel CF_hs657_adj_ditag
+longLabel CF_hs657_adj_ditag
+type bigWig
+color 172,18,99
+
+track CF_hs658
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs658.bw
+shortLabel CF_hs658_adj_ditag
+longLabel CF_hs658_adj_ditag
+type bigWig
+color 90,252,141
+
+track CF_hs662
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs662.bw
+shortLabel CF_hs662_adj_ditag
+longLabel CF_hs662_adj_ditag
+type bigWig
+color 143,56,107
+
+track CF_hs667
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs667.bw
+shortLabel CF_hs667_adj_ditag
+longLabel CF_hs667_adj_ditag
+type bigWig
+color 178,83,10
+
+track CF_hs669
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs669.bw
+shortLabel CF_hs669_adj_ditag
+longLabel CF_hs669_adj_ditag
+type bigWig
+color 107,98,17
+
+track CF_hs671
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs671.bw
+shortLabel CF_hs671_adj_ditag
+longLabel CF_hs671_adj_ditag
+type bigWig
+color 192,37,64
+
+track CF_hs672
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs672.bw
+shortLabel CF_hs672_adj_ditag
+longLabel CF_hs672_adj_ditag
+type bigWig
+color 128,107,206
+
+track CF_hs675
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs675.bw
+shortLabel CF_hs675_adj_ditag
+longLabel CF_hs675_adj_ditag
+type bigWig
+color 132,115,60
+
+track CF_hs676
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs676.bw
+shortLabel CF_hs676_adj_ditag
+longLabel CF_hs676_adj_ditag
+type bigWig
+color 18,1,60
+
+track CF_hs678
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs678.bw
+shortLabel CF_hs678_adj_ditag
+longLabel CF_hs678_adj_ditag
+type bigWig
+color 187,70,85
+
+track CF_hs679
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs679.bw
+shortLabel CF_hs679_adj_ditag
+longLabel CF_hs679_adj_ditag
+type bigWig
+color 27,250,162
+
+track CF_hs680
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs680.bw
+shortLabel CF_hs680_adj_ditag
+longLabel CF_hs680_adj_ditag
+type bigWig
+color 144,162,233
+
+track CF_hs688
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs688.bw
+shortLabel CF_hs688_adj_ditag
+longLabel CF_hs688_adj_ditag
+type bigWig
+color 252,195,3
+
+track CF_hs695
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs695.bw
+shortLabel CF_hs695_adj_ditag
+longLabel CF_hs695_adj_ditag
+type bigWig
+color 229,115,38
+
+track CF_hs699
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs699.bw
+shortLabel CF_hs699_adj_ditag
+longLabel CF_hs699_adj_ditag
+type bigWig
+color 139,36,225
+
+track CF_hs702
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs702.bw
+shortLabel CF_hs702_adj_ditag
+longLabel CF_hs702_adj_ditag
+type bigWig
+color 160,122,144
+
+track CF_hs704
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs704.bw
+shortLabel CF_hs704_adj_ditag
+longLabel CF_hs704_adj_ditag
+type bigWig
+color 12,126,10
+
+track CF_hs705
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs705.bw
+shortLabel CF_hs705_adj_ditag
+longLabel CF_hs705_adj_ditag
+type bigWig
+color 66,214,96
+
+track CF_hs71
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs71.bw
+shortLabel CF_hs71_adj_ditag
+longLabel CF_hs71_adj_ditag
+type bigWig
+color 186,186,155
+
+track CF_hs712
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs712.bw
+shortLabel CF_hs712_adj_ditag
+longLabel CF_hs712_adj_ditag
+type bigWig
+color 91,126,10
+
+track CF_hs73
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs73.bw
+shortLabel CF_hs73_adj_ditag
+longLabel CF_hs73_adj_ditag
+type bigWig
+color 69,82,43
+
+track CF_hs737
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs737.bw
+shortLabel CF_hs737_adj_ditag
+longLabel CF_hs737_adj_ditag
+type bigWig
+color 137,247,120
+
+track CF_hs74
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs74.bw
+shortLabel CF_hs74_adj_ditag
+longLabel CF_hs74_adj_ditag
+type bigWig
+color 13,8,169
+
+track CF_hs740
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs740.bw
+shortLabel CF_hs740_adj_ditag
+longLabel CF_hs740_adj_ditag
+type bigWig
+color 17,28,202
+
+track CF_hs741
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs741.bw
+shortLabel CF_hs741_adj_ditag
+longLabel CF_hs741_adj_ditag
+type bigWig
+color 233,221,18
+
+track CF_hs742
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs742.bw
+shortLabel CF_hs742_adj_ditag
+longLabel CF_hs742_adj_ditag
+type bigWig
+color 56,157,34
+
+track CF_hs746
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs746.bw
+shortLabel CF_hs746_adj_ditag
+longLabel CF_hs746_adj_ditag
+type bigWig
+color 122,121,112
+
+track CF_hs749
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs749.bw
+shortLabel CF_hs749_adj_ditag
+longLabel CF_hs749_adj_ditag
+type bigWig
+color 225,200,39
+
+track CF_hs752
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs752.bw
+shortLabel CF_hs752_adj_ditag
+longLabel CF_hs752_adj_ditag
+type bigWig
+color 57,189,228
+
+track CF_hs755
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs755.bw
+shortLabel CF_hs755_adj_ditag
+longLabel CF_hs755_adj_ditag
+type bigWig
+color 241,102,92
+
+track CF_hs759
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs759.bw
+shortLabel CF_hs759_adj_ditag
+longLabel CF_hs759_adj_ditag
+type bigWig
+color 126,52,210
+
+track CF_hs76
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs76.bw
+shortLabel CF_hs76_adj_ditag
+longLabel CF_hs76_adj_ditag
+type bigWig
+color 249,224,133
+
+track CF_hs762
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs762.bw
+shortLabel CF_hs762_adj_ditag
+longLabel CF_hs762_adj_ditag
+type bigWig
+color 167,112,171
+
+track CF_hs774
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs774.bw
+shortLabel CF_hs774_adj_ditag
+longLabel CF_hs774_adj_ditag
+type bigWig
+color 229,43,199
+
+track CF_hs778
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs778.bw
+shortLabel CF_hs778_adj_ditag
+longLabel CF_hs778_adj_ditag
+type bigWig
+color 34,138,61
+
+track CF_hs779
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs779.bw
+shortLabel CF_hs779_adj_ditag
+longLabel CF_hs779_adj_ditag
+type bigWig
+color 96,40,164
+
+track CF_hs781
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs781.bw
+shortLabel CF_hs781_adj_ditag
+longLabel CF_hs781_adj_ditag
+type bigWig
+color 47,100,52
+
+track CF_hs782
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs782.bw
+shortLabel CF_hs782_adj_ditag
+longLabel CF_hs782_adj_ditag
+type bigWig
+color 3,150,55
+
+track CF_hs783
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs783.bw
+shortLabel CF_hs783_adj_ditag
+longLabel CF_hs783_adj_ditag
+type bigWig
+color 121,54,132
+
+track CF_hs784
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs784.bw
+shortLabel CF_hs784_adj_ditag
+longLabel CF_hs784_adj_ditag
+type bigWig
+color 173,231,171
+
+track CF_hs79
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs79.bw
+shortLabel CF_hs79_adj_ditag
+longLabel CF_hs79_adj_ditag
+type bigWig
+color 115,58,207
+
+track CF_hs793
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs793.bw
+shortLabel CF_hs793_adj_ditag
+longLabel CF_hs793_adj_ditag
+type bigWig
+color 143,66,81
+
+track CF_hs798
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs798.bw
+shortLabel CF_hs798_adj_ditag
+longLabel CF_hs798_adj_ditag
+type bigWig
+color 162,223,115
+
+track CF_hs799
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs799.bw
+shortLabel CF_hs799_adj_ditag
+longLabel CF_hs799_adj_ditag
+type bigWig
+color 170,31,99
+
+track CF_hs800
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs800.bw
+shortLabel CF_hs800_adj_ditag
+longLabel CF_hs800_adj_ditag
+type bigWig
+color 49,30,64
+
+track CF_hs807
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs807.bw
+shortLabel CF_hs807_adj_ditag
+longLabel CF_hs807_adj_ditag
+type bigWig
+color 44,9,86
+
+track CF_hs816
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs816.bw
+shortLabel CF_hs816_adj_ditag
+longLabel CF_hs816_adj_ditag
+type bigWig
+color 63,222,177
+
+track CF_hs818
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs818.bw
+shortLabel CF_hs818_adj_ditag
+longLabel CF_hs818_adj_ditag
+type bigWig
+color 146,168,51
+
+track CF_hs824
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs824.bw
+shortLabel CF_hs824_adj_ditag
+longLabel CF_hs824_adj_ditag
+type bigWig
+color 201,208,216
+
+track CF_hs830
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs830.bw
+shortLabel CF_hs830_adj_ditag
+longLabel CF_hs830_adj_ditag
+type bigWig
+color 81,35,4
+
+track CF_hs833
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs833.bw
+shortLabel CF_hs833_adj_ditag
+longLabel CF_hs833_adj_ditag
+type bigWig
+color 224,95,106
+
+track CF_hs834
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs834.bw
+shortLabel CF_hs834_adj_ditag
+longLabel CF_hs834_adj_ditag
+type bigWig
+color 162,229,164
+
+track CF_hs836
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs836.bw
+shortLabel CF_hs836_adj_ditag
+longLabel CF_hs836_adj_ditag
+type bigWig
+color 193,10,244
+
+track CF_hs840
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs840.bw
+shortLabel CF_hs840_adj_ditag
+longLabel CF_hs840_adj_ditag
+type bigWig
+color 152,143,217
+
+track CF_hs841
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs841.bw
+shortLabel CF_hs841_adj_ditag
+longLabel CF_hs841_adj_ditag
+type bigWig
+color 181,15,48
+
+track CF_hs842
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs842.bw
+shortLabel CF_hs842_adj_ditag
+longLabel CF_hs842_adj_ditag
+type bigWig
+color 32,170,141
+
+track CF_hs844
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs844.bw
+shortLabel CF_hs844_adj_ditag
+longLabel CF_hs844_adj_ditag
+type bigWig
+color 190,187,10
+
+track CF_hs85
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs85.bw
+shortLabel CF_hs85_adj_ditag
+longLabel CF_hs85_adj_ditag
+type bigWig
+color 84,134,13
+
+track CF_hs851
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs851.bw
+shortLabel CF_hs851_adj_ditag
+longLabel CF_hs851_adj_ditag
+type bigWig
+color 55,203,211
+
+track CF_hs853
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs853.bw
+shortLabel CF_hs853_adj_ditag
+longLabel CF_hs853_adj_ditag
+type bigWig
+color 196,203,55
+
+track CF_hs855
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs855.bw
+shortLabel CF_hs855_adj_ditag
+longLabel CF_hs855_adj_ditag
+type bigWig
+color 130,168,237
+
+track CF_hs858
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs858.bw
+shortLabel CF_hs858_adj_ditag
+longLabel CF_hs858_adj_ditag
+type bigWig
+color 75,155,137
+
+track CF_hs860
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs860.bw
+shortLabel CF_hs860_adj_ditag
+longLabel CF_hs860_adj_ditag
+type bigWig
+color 76,236,196
+
+track CF_hs865
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs865.bw
+shortLabel CF_hs865_adj_ditag
+longLabel CF_hs865_adj_ditag
+type bigWig
+color 140,236,172
+
+track CF_hs868
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs868.bw
+shortLabel CF_hs868_adj_ditag
+longLabel CF_hs868_adj_ditag
+type bigWig
+color 177,57,50
+
+track CF_hs872
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs872.bw
+shortLabel CF_hs872_adj_ditag
+longLabel CF_hs872_adj_ditag
+type bigWig
+color 73,114,142
+
+track CF_hs876
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs876.bw
+shortLabel CF_hs876_adj_ditag
+longLabel CF_hs876_adj_ditag
+type bigWig
+color 203,92,46
+
+track CF_hs882
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs882.bw
+shortLabel CF_hs882_adj_ditag
+longLabel CF_hs882_adj_ditag
+type bigWig
+color 73,120,194
+
+track CF_hs883
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs883.bw
+shortLabel CF_hs883_adj_ditag
+longLabel CF_hs883_adj_ditag
+type bigWig
+color 86,235,225
+
+track CF_hs886
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs886.bw
+shortLabel CF_hs886_adj_ditag
+longLabel CF_hs886_adj_ditag
+type bigWig
+color 252,205,45
+
+track CF_hs897
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs897.bw
+shortLabel CF_hs897_adj_ditag
+longLabel CF_hs897_adj_ditag
+type bigWig
+color 159,251,76
+
+track CF_hs915
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs915.bw
+shortLabel CF_hs915_adj_ditag
+longLabel CF_hs915_adj_ditag
+type bigWig
+color 10,94,56
+
+track CF_hs919
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs919.bw
+shortLabel CF_hs919_adj_ditag
+longLabel CF_hs919_adj_ditag
+type bigWig
+color 16,44,132
+
+track CF_hs932
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs932.bw
+shortLabel CF_hs932_adj_ditag
+longLabel CF_hs932_adj_ditag
+type bigWig
+color 18,220,76
+
+track CF_hs933
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs933.bw
+shortLabel CF_hs933_adj_ditag
+longLabel CF_hs933_adj_ditag
+type bigWig
+color 67,146,110
+
+track CF_hs935
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs935.bw
+shortLabel CF_hs935_adj_ditag
+longLabel CF_hs935_adj_ditag
+type bigWig
+color 39,48,204
+
+track CF_hs952
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs952.bw
+shortLabel CF_hs952_adj_ditag
+longLabel CF_hs952_adj_ditag
+type bigWig
+color 143,228,203
+
+track CF_hs953
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs953.bw
+shortLabel CF_hs953_adj_ditag
+longLabel CF_hs953_adj_ditag
+type bigWig
+color 94,249,87
+
+track CF_hs957
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs957.bw
+shortLabel CF_hs957_adj_ditag
+longLabel CF_hs957_adj_ditag
+type bigWig
+color 119,173,204
+
+track CF_hs962
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs962.bw
+shortLabel CF_hs962_adj_ditag
+longLabel CF_hs962_adj_ditag
+type bigWig
+color 84,16,67
+
+track CF_hs965
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs965.bw
+shortLabel CF_hs965_adj_ditag
+longLabel CF_hs965_adj_ditag
+type bigWig
+color 22,109,239
+
+track CF_hs966
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs966.bw
+shortLabel CF_hs966_adj_ditag
+longLabel CF_hs966_adj_ditag
+type bigWig
+color 52,15,117
+
+track CF_hs969
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs969.bw
+shortLabel CF_hs969_adj_ditag
+longLabel CF_hs969_adj_ditag
+type bigWig
+color 117,222,105
+
+track CF_hs971
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs971.bw
+shortLabel CF_hs971_adj_ditag
+longLabel CF_hs971_adj_ditag
+type bigWig
+color 89,215,73
+
+track CF_hs972
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs972.bw
+shortLabel CF_hs972_adj_ditag
+longLabel CF_hs972_adj_ditag
+type bigWig
+color 93,103,222
+
+track CF_hs975
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs975.bw
+shortLabel CF_hs975_adj_ditag
+longLabel CF_hs975_adj_ditag
+type bigWig
+color 143,140,179
+
+track CF_hs978
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs978.bw
+shortLabel CF_hs978_adj_ditag
+longLabel CF_hs978_adj_ditag
+type bigWig
+color 76,236,33
+
+track CF_hs981
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs981.bw
+shortLabel CF_hs981_adj_ditag
+longLabel CF_hs981_adj_ditag
+type bigWig
+color 200,197,128
+
+track CF_hs987
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs987.bw
+shortLabel CF_hs987_adj_ditag
+longLabel CF_hs987_adj_ditag
+type bigWig
+color 67,145,62
+
+track CF_hs990
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs990.bw
+shortLabel CF_hs990_adj_ditag
+longLabel CF_hs990_adj_ditag
+type bigWig
+color 168,193,173
+
+track CF_hs993
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs993.bw
+shortLabel CF_hs993_adj_ditag
+longLabel CF_hs993_adj_ditag
+type bigWig
+color 223,64,126
+
+track CF_hs998
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_hs998.bw
+shortLabel CF_hs998_adj_ditag
+longLabel CF_hs998_adj_ditag
+type bigWig
+color 101,175,136
+
+track CF_mm100
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm100.bw
+shortLabel CF_mm100_adj_ditag
+longLabel CF_mm100_adj_ditag
+type bigWig
+color 163,75,137
+
+track CF_mm1001
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1001.bw
+shortLabel CF_mm1001_adj_ditag
+longLabel CF_mm1001_adj_ditag
+type bigWig
+color 7,186,32
+
+track CF_mm1003
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1003.bw
+shortLabel CF_mm1003_adj_ditag
+longLabel CF_mm1003_adj_ditag
+type bigWig
+color 38,149,49
+
+track CF_mm101
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm101.bw
+shortLabel CF_mm101_adj_ditag
+longLabel CF_mm101_adj_ditag
+type bigWig
+color 249,126,100
+
+track CF_mm1010
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1010.bw
+shortLabel CF_mm1010_adj_ditag
+longLabel CF_mm1010_adj_ditag
+type bigWig
+color 207,22,192
+
+track CF_mm1018
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1018.bw
+shortLabel CF_mm1018_adj_ditag
+longLabel CF_mm1018_adj_ditag
+type bigWig
+color 194,69,170
+
+track CF_mm102
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm102.bw
+shortLabel CF_mm102_adj_ditag
+longLabel CF_mm102_adj_ditag
+type bigWig
+color 58,69,44
+
+track CF_mm103
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm103.bw
+shortLabel CF_mm103_adj_ditag
+longLabel CF_mm103_adj_ditag
+type bigWig
+color 123,187,90
+
+track CF_mm1036
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1036.bw
+shortLabel CF_mm1036_adj_ditag
+longLabel CF_mm1036_adj_ditag
+type bigWig
+color 7,10,174
+
+track CF_mm104
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm104.bw
+shortLabel CF_mm104_adj_ditag
+longLabel CF_mm104_adj_ditag
+type bigWig
+color 89,130,15
+
+track CF_mm1048
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1048.bw
+shortLabel CF_mm1048_adj_ditag
+longLabel CF_mm1048_adj_ditag
+type bigWig
+color 167,26,217
+
+track CF_mm1050
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1050.bw
+shortLabel CF_mm1050_adj_ditag
+longLabel CF_mm1050_adj_ditag
+type bigWig
+color 89,7,33
+
+track CF_mm1052
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1052.bw
+shortLabel CF_mm1052_adj_ditag
+longLabel CF_mm1052_adj_ditag
+type bigWig
+color 93,2,15
+
+track CF_mm1054
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1054.bw
+shortLabel CF_mm1054_adj_ditag
+longLabel CF_mm1054_adj_ditag
+type bigWig
+color 201,137,15
+
+track CF_mm106
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm106.bw
+shortLabel CF_mm106_adj_ditag
+longLabel CF_mm106_adj_ditag
+type bigWig
+color 87,8,251
+
+track CF_mm107
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm107.bw
+shortLabel CF_mm107_adj_ditag
+longLabel CF_mm107_adj_ditag
+type bigWig
+color 140,39,119
+
+track CF_mm108
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm108.bw
+shortLabel CF_mm108_adj_ditag
+longLabel CF_mm108_adj_ditag
+type bigWig
+color 172,160,63
+
+track CF_mm1087
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1087.bw
+shortLabel CF_mm1087_adj_ditag
+longLabel CF_mm1087_adj_ditag
+type bigWig
+color 53,166,163
+
+track CF_mm1088
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1088.bw
+shortLabel CF_mm1088_adj_ditag
+longLabel CF_mm1088_adj_ditag
+type bigWig
+color 58,127,0
+
+track CF_mm109
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm109.bw
+shortLabel CF_mm109_adj_ditag
+longLabel CF_mm109_adj_ditag
+type bigWig
+color 112,238,6
+
+track CF_mm1090
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1090.bw
+shortLabel CF_mm1090_adj_ditag
+longLabel CF_mm1090_adj_ditag
+type bigWig
+color 151,6,141
+
+track CF_mm1095
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1095.bw
+shortLabel CF_mm1095_adj_ditag
+longLabel CF_mm1095_adj_ditag
+type bigWig
+color 150,224,30
+
+track CF_mm1098
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1098.bw
+shortLabel CF_mm1098_adj_ditag
+longLabel CF_mm1098_adj_ditag
+type bigWig
+color 88,118,121
+
+track CF_mm1099
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1099.bw
+shortLabel CF_mm1099_adj_ditag
+longLabel CF_mm1099_adj_ditag
+type bigWig
+color 0,88,63
+
+track CF_mm1102
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1102.bw
+shortLabel CF_mm1102_adj_ditag
+longLabel CF_mm1102_adj_ditag
+type bigWig
+color 240,203,213
+
+track CF_mm1105
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1105.bw
+shortLabel CF_mm1105_adj_ditag
+longLabel CF_mm1105_adj_ditag
+type bigWig
+color 18,215,232
+
+track CF_mm1109
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1109.bw
+shortLabel CF_mm1109_adj_ditag
+longLabel CF_mm1109_adj_ditag
+type bigWig
+color 15,147,8
+
+track CF_mm111
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm111.bw
+shortLabel CF_mm111_adj_ditag
+longLabel CF_mm111_adj_ditag
+type bigWig
+color 231,242,24
+
+track CF_mm1112
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1112.bw
+shortLabel CF_mm1112_adj_ditag
+longLabel CF_mm1112_adj_ditag
+type bigWig
+color 155,92,112
+
+track CF_mm113
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm113.bw
+shortLabel CF_mm113_adj_ditag
+longLabel CF_mm113_adj_ditag
+type bigWig
+color 124,196,118
+
+track CF_mm116
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm116.bw
+shortLabel CF_mm116_adj_ditag
+longLabel CF_mm116_adj_ditag
+type bigWig
+color 38,93,125
+
+track CF_mm1165
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1165.bw
+shortLabel CF_mm1165_adj_ditag
+longLabel CF_mm1165_adj_ditag
+type bigWig
+color 189,245,73
+
+track CF_mm1176
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1176.bw
+shortLabel CF_mm1176_adj_ditag
+longLabel CF_mm1176_adj_ditag
+type bigWig
+color 186,141,242
+
+track CF_mm1177
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1177.bw
+shortLabel CF_mm1177_adj_ditag
+longLabel CF_mm1177_adj_ditag
+type bigWig
+color 210,41,219
+
+track CF_mm1179
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1179.bw
+shortLabel CF_mm1179_adj_ditag
+longLabel CF_mm1179_adj_ditag
+type bigWig
+color 39,80,122
+
+track CF_mm1188
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1188.bw
+shortLabel CF_mm1188_adj_ditag
+longLabel CF_mm1188_adj_ditag
+type bigWig
+color 238,79,55
+
+track CF_mm119
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm119.bw
+shortLabel CF_mm119_adj_ditag
+longLabel CF_mm119_adj_ditag
+type bigWig
+color 147,4,176
+
+track CF_mm1193
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1193.bw
+shortLabel CF_mm1193_adj_ditag
+longLabel CF_mm1193_adj_ditag
+type bigWig
+color 31,74,19
+
+track CF_mm1196
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1196.bw
+shortLabel CF_mm1196_adj_ditag
+longLabel CF_mm1196_adj_ditag
+type bigWig
+color 81,218,58
+
+track CF_mm1197
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1197.bw
+shortLabel CF_mm1197_adj_ditag
+longLabel CF_mm1197_adj_ditag
+type bigWig
+color 123,5,197
+
+track CF_mm1199
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1199.bw
+shortLabel CF_mm1199_adj_ditag
+longLabel CF_mm1199_adj_ditag
+type bigWig
+color 7,77,163
+
+track CF_mm1200
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1200.bw
+shortLabel CF_mm1200_adj_ditag
+longLabel CF_mm1200_adj_ditag
+type bigWig
+color 193,75,173
+
+track CF_mm1206
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1206.bw
+shortLabel CF_mm1206_adj_ditag
+longLabel CF_mm1206_adj_ditag
+type bigWig
+color 190,239,121
+
+track CF_mm122
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm122.bw
+shortLabel CF_mm122_adj_ditag
+longLabel CF_mm122_adj_ditag
+type bigWig
+color 206,62,13
+
+track CF_mm1224
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1224.bw
+shortLabel CF_mm1224_adj_ditag
+longLabel CF_mm1224_adj_ditag
+type bigWig
+color 42,99,207
+
+track CF_mm123
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm123.bw
+shortLabel CF_mm123_adj_ditag
+longLabel CF_mm123_adj_ditag
+type bigWig
+color 73,162,153
+
+track CF_mm1234
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1234.bw
+shortLabel CF_mm1234_adj_ditag
+longLabel CF_mm1234_adj_ditag
+type bigWig
+color 10,165,48
+
+track CF_mm1239
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1239.bw
+shortLabel CF_mm1239_adj_ditag
+longLabel CF_mm1239_adj_ditag
+type bigWig
+color 166,126,76
+
+track CF_mm1252
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1252.bw
+shortLabel CF_mm1252_adj_ditag
+longLabel CF_mm1252_adj_ditag
+type bigWig
+color 29,81,143
+
+track CF_mm1256
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1256.bw
+shortLabel CF_mm1256_adj_ditag
+longLabel CF_mm1256_adj_ditag
+type bigWig
+color 156,192,219
+
+track CF_mm1257
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1257.bw
+shortLabel CF_mm1257_adj_ditag
+longLabel CF_mm1257_adj_ditag
+type bigWig
+color 218,30,3
+
+track CF_mm1261
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1261.bw
+shortLabel CF_mm1261_adj_ditag
+longLabel CF_mm1261_adj_ditag
+type bigWig
+color 73,39,58
+
+track CF_mm1263
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1263.bw
+shortLabel CF_mm1263_adj_ditag
+longLabel CF_mm1263_adj_ditag
+type bigWig
+color 96,253,210
+
+track CF_mm127
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm127.bw
+shortLabel CF_mm127_adj_ditag
+longLabel CF_mm127_adj_ditag
+type bigWig
+color 123,194,84
+
+track CF_mm1273
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1273.bw
+shortLabel CF_mm1273_adj_ditag
+longLabel CF_mm1273_adj_ditag
+type bigWig
+color 98,216,96
+
+track CF_mm1274
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1274.bw
+shortLabel CF_mm1274_adj_ditag
+longLabel CF_mm1274_adj_ditag
+type bigWig
+color 81,19,39
+
+track CF_mm1283
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1283.bw
+shortLabel CF_mm1283_adj_ditag
+longLabel CF_mm1283_adj_ditag
+type bigWig
+color 150,254,224
+
+track CF_mm1290
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1290.bw
+shortLabel CF_mm1290_adj_ditag
+longLabel CF_mm1290_adj_ditag
+type bigWig
+color 241,101,88
+
+track CF_mm1295
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1295.bw
+shortLabel CF_mm1295_adj_ditag
+longLabel CF_mm1295_adj_ditag
+type bigWig
+color 58,155,207
+
+track CF_mm1297
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1297.bw
+shortLabel CF_mm1297_adj_ditag
+longLabel CF_mm1297_adj_ditag
+type bigWig
+color 212,113,252
+
+track CF_mm1299
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1299.bw
+shortLabel CF_mm1299_adj_ditag
+longLabel CF_mm1299_adj_ditag
+type bigWig
+color 127,251,78
+
+track CF_mm13
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm13.bw
+shortLabel CF_mm13_adj_ditag
+longLabel CF_mm13_adj_ditag
+type bigWig
+color 194,89,144
+
+track CF_mm131
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm131.bw
+shortLabel CF_mm131_adj_ditag
+longLabel CF_mm131_adj_ditag
+type bigWig
+color 76,56,83
+
+track CF_mm1310
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1310.bw
+shortLabel CF_mm1310_adj_ditag
+longLabel CF_mm1310_adj_ditag
+type bigWig
+color 252,35,26
+
+track CF_mm1312
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1312.bw
+shortLabel CF_mm1312_adj_ditag
+longLabel CF_mm1312_adj_ditag
+type bigWig
+color 122,61,198
+
+track CF_mm1314
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1314.bw
+shortLabel CF_mm1314_adj_ditag
+longLabel CF_mm1314_adj_ditag
+type bigWig
+color 18,160,33
+
+track CF_mm1315
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1315.bw
+shortLabel CF_mm1315_adj_ditag
+longLabel CF_mm1315_adj_ditag
+type bigWig
+color 192,58,120
+
+track CF_mm1317
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1317.bw
+shortLabel CF_mm1317_adj_ditag
+longLabel CF_mm1317_adj_ditag
+type bigWig
+color 59,79,234
+
+track CF_mm1321
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1321.bw
+shortLabel CF_mm1321_adj_ditag
+longLabel CF_mm1321_adj_ditag
+type bigWig
+color 86,211,43
+
+track CF_mm1322
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1322.bw
+shortLabel CF_mm1322_adj_ditag
+longLabel CF_mm1322_adj_ditag
+type bigWig
+color 80,186,28
+
+track CF_mm1328
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1328.bw
+shortLabel CF_mm1328_adj_ditag
+longLabel CF_mm1328_adj_ditag
+type bigWig
+color 220,228,197
+
+track CF_mm1333
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1333.bw
+shortLabel CF_mm1333_adj_ditag
+longLabel CF_mm1333_adj_ditag
+type bigWig
+color 195,124,41
+
+track CF_mm1338
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1338.bw
+shortLabel CF_mm1338_adj_ditag
+longLabel CF_mm1338_adj_ditag
+type bigWig
+color 200,234,13
+
+track CF_mm1340
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1340.bw
+shortLabel CF_mm1340_adj_ditag
+longLabel CF_mm1340_adj_ditag
+type bigWig
+color 120,175,117
+
+track CF_mm1341
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1341.bw
+shortLabel CF_mm1341_adj_ditag
+longLabel CF_mm1341_adj_ditag
+type bigWig
+color 96,162,207
+
+track CF_mm1343
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1343.bw
+shortLabel CF_mm1343_adj_ditag
+longLabel CF_mm1343_adj_ditag
+type bigWig
+color 6,69,221
+
+track CF_mm1344
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1344.bw
+shortLabel CF_mm1344_adj_ditag
+longLabel CF_mm1344_adj_ditag
+type bigWig
+color 130,42,193
+
+track CF_mm1348
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1348.bw
+shortLabel CF_mm1348_adj_ditag
+longLabel CF_mm1348_adj_ditag
+type bigWig
+color 81,107,230
+
+track CF_mm1351
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1351.bw
+shortLabel CF_mm1351_adj_ditag
+longLabel CF_mm1351_adj_ditag
+type bigWig
+color 220,146,182
+
+track CF_mm1367
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1367.bw
+shortLabel CF_mm1367_adj_ditag
+longLabel CF_mm1367_adj_ditag
+type bigWig
+color 52,124,46
+
+track CF_mm1368
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1368.bw
+shortLabel CF_mm1368_adj_ditag
+longLabel CF_mm1368_adj_ditag
+type bigWig
+color 133,241,192
+
+track CF_mm1369
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1369.bw
+shortLabel CF_mm1369_adj_ditag
+longLabel CF_mm1369_adj_ditag
+type bigWig
+color 65,183,14
+
+track CF_mm1371
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1371.bw
+shortLabel CF_mm1371_adj_ditag
+longLabel CF_mm1371_adj_ditag
+type bigWig
+color 159,17,8
+
+track CF_mm1379
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1379.bw
+shortLabel CF_mm1379_adj_ditag
+longLabel CF_mm1379_adj_ditag
+type bigWig
+color 139,100,196
+
+track CF_mm1388
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1388.bw
+shortLabel CF_mm1388_adj_ditag
+longLabel CF_mm1388_adj_ditag
+type bigWig
+color 73,101,80
+
+track CF_mm1393
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1393.bw
+shortLabel CF_mm1393_adj_ditag
+longLabel CF_mm1393_adj_ditag
+type bigWig
+color 96,10,189
+
+track CF_mm1394
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1394.bw
+shortLabel CF_mm1394_adj_ditag
+longLabel CF_mm1394_adj_ditag
+type bigWig
+color 36,222,166
+
+track CF_mm14
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm14.bw
+shortLabel CF_mm14_adj_ditag
+longLabel CF_mm14_adj_ditag
+type bigWig
+color 72,126,113
+
+track CF_mm1403
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1403.bw
+shortLabel CF_mm1403_adj_ditag
+longLabel CF_mm1403_adj_ditag
+type bigWig
+color 65,46,86
+
+track CF_mm1406
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1406.bw
+shortLabel CF_mm1406_adj_ditag
+longLabel CF_mm1406_adj_ditag
+type bigWig
+color 95,73,22
+
+track CF_mm1407
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1407.bw
+shortLabel CF_mm1407_adj_ditag
+longLabel CF_mm1407_adj_ditag
+type bigWig
+color 153,120,131
+
+track CF_mm1408
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1408.bw
+shortLabel CF_mm1408_adj_ditag
+longLabel CF_mm1408_adj_ditag
+type bigWig
+color 184,153,137
+
+track CF_mm1444
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1444.bw
+shortLabel CF_mm1444_adj_ditag
+longLabel CF_mm1444_adj_ditag
+type bigWig
+color 25,104,159
+
+track CF_mm1446
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1446.bw
+shortLabel CF_mm1446_adj_ditag
+longLabel CF_mm1446_adj_ditag
+type bigWig
+color 159,32,198
+
+track CF_mm1447
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1447.bw
+shortLabel CF_mm1447_adj_ditag
+longLabel CF_mm1447_adj_ditag
+type bigWig
+color 34,42,75
+
+track CF_mm145
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm145.bw
+shortLabel CF_mm145_adj_ditag
+longLabel CF_mm145_adj_ditag
+type bigWig
+color 191,93,150
+
+track CF_mm1452
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1452.bw
+shortLabel CF_mm1452_adj_ditag
+longLabel CF_mm1452_adj_ditag
+type bigWig
+color 20,5,145
+
+track CF_mm1454
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1454.bw
+shortLabel CF_mm1454_adj_ditag
+longLabel CF_mm1454_adj_ditag
+type bigWig
+color 59,244,163
+
+track CF_mm1456
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1456.bw
+shortLabel CF_mm1456_adj_ditag
+longLabel CF_mm1456_adj_ditag
+type bigWig
+color 141,187,26
+
+track CF_mm1457
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1457.bw
+shortLabel CF_mm1457_adj_ditag
+longLabel CF_mm1457_adj_ditag
+type bigWig
+color 90,223,166
+
+track CF_mm1460
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1460.bw
+shortLabel CF_mm1460_adj_ditag
+longLabel CF_mm1460_adj_ditag
+type bigWig
+color 83,145,140
+
+track CF_mm1461
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1461.bw
+shortLabel CF_mm1461_adj_ditag
+longLabel CF_mm1461_adj_ditag
+type bigWig
+color 51,233,110
+
+track CF_mm1463
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1463.bw
+shortLabel CF_mm1463_adj_ditag
+longLabel CF_mm1463_adj_ditag
+type bigWig
+color 183,178,253
+
+track CF_mm1464
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1464.bw
+shortLabel CF_mm1464_adj_ditag
+longLabel CF_mm1464_adj_ditag
+type bigWig
+color 11,19,217
+
+track CF_mm1473
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1473.bw
+shortLabel CF_mm1473_adj_ditag
+longLabel CF_mm1473_adj_ditag
+type bigWig
+color 91,146,227
+
+track CF_mm1474
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1474.bw
+shortLabel CF_mm1474_adj_ditag
+longLabel CF_mm1474_adj_ditag
+type bigWig
+color 54,46,237
+
+track CF_mm1475
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1475.bw
+shortLabel CF_mm1475_adj_ditag
+longLabel CF_mm1475_adj_ditag
+type bigWig
+color 201,192,229
+
+track CF_mm148
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm148.bw
+shortLabel CF_mm148_adj_ditag
+longLabel CF_mm148_adj_ditag
+type bigWig
+color 132,40,237
+
+track CF_mm1480
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1480.bw
+shortLabel CF_mm1480_adj_ditag
+longLabel CF_mm1480_adj_ditag
+type bigWig
+color 88,109,152
+
+track CF_mm1481
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1481.bw
+shortLabel CF_mm1481_adj_ditag
+longLabel CF_mm1481_adj_ditag
+type bigWig
+color 120,235,219
+
+track CF_mm1483
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1483.bw
+shortLabel CF_mm1483_adj_ditag
+longLabel CF_mm1483_adj_ditag
+type bigWig
+color 63,70,46
+
+track CF_mm1484
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1484.bw
+shortLabel CF_mm1484_adj_ditag
+longLabel CF_mm1484_adj_ditag
+type bigWig
+color 51,197,241
+
+track CF_mm1485
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1485.bw
+shortLabel CF_mm1485_adj_ditag
+longLabel CF_mm1485_adj_ditag
+type bigWig
+color 141,102,232
+
+track CF_mm1486
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1486.bw
+shortLabel CF_mm1486_adj_ditag
+longLabel CF_mm1486_adj_ditag
+type bigWig
+color 139,202,27
+
+track CF_mm1489
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1489.bw
+shortLabel CF_mm1489_adj_ditag
+longLabel CF_mm1489_adj_ditag
+type bigWig
+color 141,174,30
+
+track CF_mm149
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm149.bw
+shortLabel CF_mm149_adj_ditag
+longLabel CF_mm149_adj_ditag
+type bigWig
+color 130,231,215
+
+track CF_mm1490
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1490.bw
+shortLabel CF_mm1490_adj_ditag
+longLabel CF_mm1490_adj_ditag
+type bigWig
+color 24,212,25
+
+track CF_mm1492
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1492.bw
+shortLabel CF_mm1492_adj_ditag
+longLabel CF_mm1492_adj_ditag
+type bigWig
+color 212,73,29
+
+track CF_mm1494
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1494.bw
+shortLabel CF_mm1494_adj_ditag
+longLabel CF_mm1494_adj_ditag
+type bigWig
+color 54,146,52
+
+track CF_mm1496
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1496.bw
+shortLabel CF_mm1496_adj_ditag
+longLabel CF_mm1496_adj_ditag
+type bigWig
+color 101,218,48
+
+track CF_mm1497
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1497.bw
+shortLabel CF_mm1497_adj_ditag
+longLabel CF_mm1497_adj_ditag
+type bigWig
+color 150,88,40
+
+track CF_mm1499
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1499.bw
+shortLabel CF_mm1499_adj_ditag
+longLabel CF_mm1499_adj_ditag
+type bigWig
+color 95,28,247
+
+track CF_mm1500
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1500.bw
+shortLabel CF_mm1500_adj_ditag
+longLabel CF_mm1500_adj_ditag
+type bigWig
+color 114,106,90
+
+track CF_mm1503
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1503.bw
+shortLabel CF_mm1503_adj_ditag
+longLabel CF_mm1503_adj_ditag
+type bigWig
+color 77,249,114
+
+track CF_mm1505
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1505.bw
+shortLabel CF_mm1505_adj_ditag
+longLabel CF_mm1505_adj_ditag
+type bigWig
+color 103,30,232
+
+track CF_mm1506
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1506.bw
+shortLabel CF_mm1506_adj_ditag
+longLabel CF_mm1506_adj_ditag
+type bigWig
+color 47,120,41
+
+track CF_mm1509
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1509.bw
+shortLabel CF_mm1509_adj_ditag
+longLabel CF_mm1509_adj_ditag
+type bigWig
+color 86,159,182
+
+track CF_mm1514
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1514.bw
+shortLabel CF_mm1514_adj_ditag
+longLabel CF_mm1514_adj_ditag
+type bigWig
+color 221,57,41
+
+track CF_mm1515
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1515.bw
+shortLabel CF_mm1515_adj_ditag
+longLabel CF_mm1515_adj_ditag
+type bigWig
+color 219,20,18
+
+track CF_mm1516
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1516.bw
+shortLabel CF_mm1516_adj_ditag
+longLabel CF_mm1516_adj_ditag
+type bigWig
+color 5,164,72
+
+track CF_mm1518
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1518.bw
+shortLabel CF_mm1518_adj_ditag
+longLabel CF_mm1518_adj_ditag
+type bigWig
+color 214,232,240
+
+track CF_mm152
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm152.bw
+shortLabel CF_mm152_adj_ditag
+longLabel CF_mm152_adj_ditag
+type bigWig
+color 206,189,196
+
+track CF_mm1524
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1524.bw
+shortLabel CF_mm1524_adj_ditag
+longLabel CF_mm1524_adj_ditag
+type bigWig
+color 121,193,174
+
+track CF_mm1525
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1525.bw
+shortLabel CF_mm1525_adj_ditag
+longLabel CF_mm1525_adj_ditag
+type bigWig
+color 63,191,66
+
+track CF_mm1526
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1526.bw
+shortLabel CF_mm1526_adj_ditag
+longLabel CF_mm1526_adj_ditag
+type bigWig
+color 190,243,131
+
+track CF_mm1531
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1531.bw
+shortLabel CF_mm1531_adj_ditag
+longLabel CF_mm1531_adj_ditag
+type bigWig
+color 216,141,18
+
+track CF_mm1537
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1537.bw
+shortLabel CF_mm1537_adj_ditag
+longLabel CF_mm1537_adj_ditag
+type bigWig
+color 105,7,43
+
+track CF_mm1538
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1538.bw
+shortLabel CF_mm1538_adj_ditag
+longLabel CF_mm1538_adj_ditag
+type bigWig
+color 4,222,148
+
+track CF_mm154
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm154.bw
+shortLabel CF_mm154_adj_ditag
+longLabel CF_mm154_adj_ditag
+type bigWig
+color 116,186,50
+
+track CF_mm1546
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1546.bw
+shortLabel CF_mm1546_adj_ditag
+longLabel CF_mm1546_adj_ditag
+type bigWig
+color 183,51,81
+
+track CF_mm1548
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1548.bw
+shortLabel CF_mm1548_adj_ditag
+longLabel CF_mm1548_adj_ditag
+type bigWig
+color 83,76,211
+
+track CF_mm1549
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1549.bw
+shortLabel CF_mm1549_adj_ditag
+longLabel CF_mm1549_adj_ditag
+type bigWig
+color 60,139,173
+
+track CF_mm1552
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1552.bw
+shortLabel CF_mm1552_adj_ditag
+longLabel CF_mm1552_adj_ditag
+type bigWig
+color 159,234,98
+
+track CF_mm1553
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1553.bw
+shortLabel CF_mm1553_adj_ditag
+longLabel CF_mm1553_adj_ditag
+type bigWig
+color 75,167,129
+
+track CF_mm1555
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1555.bw
+shortLabel CF_mm1555_adj_ditag
+longLabel CF_mm1555_adj_ditag
+type bigWig
+color 202,29,115
+
+track CF_mm1556
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1556.bw
+shortLabel CF_mm1556_adj_ditag
+longLabel CF_mm1556_adj_ditag
+type bigWig
+color 1,6,106
+
+track CF_mm1558
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1558.bw
+shortLabel CF_mm1558_adj_ditag
+longLabel CF_mm1558_adj_ditag
+type bigWig
+color 230,139,211
+
+track CF_mm156
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm156.bw
+shortLabel CF_mm156_adj_ditag
+longLabel CF_mm156_adj_ditag
+type bigWig
+color 246,101,140
+
+track CF_mm1561
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1561.bw
+shortLabel CF_mm1561_adj_ditag
+longLabel CF_mm1561_adj_ditag
+type bigWig
+color 140,21,138
+
+track CF_mm1564
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1564.bw
+shortLabel CF_mm1564_adj_ditag
+longLabel CF_mm1564_adj_ditag
+type bigWig
+color 72,182,201
+
+track CF_mm1566
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1566.bw
+shortLabel CF_mm1566_adj_ditag
+longLabel CF_mm1566_adj_ditag
+type bigWig
+color 112,121,162
+
+track CF_mm1567
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1567.bw
+shortLabel CF_mm1567_adj_ditag
+longLabel CF_mm1567_adj_ditag
+type bigWig
+color 28,128,40
+
+track CF_mm1569
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1569.bw
+shortLabel CF_mm1569_adj_ditag
+longLabel CF_mm1569_adj_ditag
+type bigWig
+color 62,118,138
+
+track CF_mm1570
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1570.bw
+shortLabel CF_mm1570_adj_ditag
+longLabel CF_mm1570_adj_ditag
+type bigWig
+color 61,171,65
+
+track CF_mm1571
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1571.bw
+shortLabel CF_mm1571_adj_ditag
+longLabel CF_mm1571_adj_ditag
+type bigWig
+color 194,238,233
+
+track CF_mm1574
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1574.bw
+shortLabel CF_mm1574_adj_ditag
+longLabel CF_mm1574_adj_ditag
+type bigWig
+color 196,110,12
+
+track CF_mm1575
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1575.bw
+shortLabel CF_mm1575_adj_ditag
+longLabel CF_mm1575_adj_ditag
+type bigWig
+color 46,90,223
+
+track CF_mm1576
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1576.bw
+shortLabel CF_mm1576_adj_ditag
+longLabel CF_mm1576_adj_ditag
+type bigWig
+color 203,187,90
+
+track CF_mm1577
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1577.bw
+shortLabel CF_mm1577_adj_ditag
+longLabel CF_mm1577_adj_ditag
+type bigWig
+color 154,108,239
+
+track CF_mm1581
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1581.bw
+shortLabel CF_mm1581_adj_ditag
+longLabel CF_mm1581_adj_ditag
+type bigWig
+color 23,52,254
+
+track CF_mm1583
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1583.bw
+shortLabel CF_mm1583_adj_ditag
+longLabel CF_mm1583_adj_ditag
+type bigWig
+color 180,131,93
+
+track CF_mm1584
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1584.bw
+shortLabel CF_mm1584_adj_ditag
+longLabel CF_mm1584_adj_ditag
+type bigWig
+color 15,120,62
+
+track CF_mm1586
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1586.bw
+shortLabel CF_mm1586_adj_ditag
+longLabel CF_mm1586_adj_ditag
+type bigWig
+color 89,171,141
+
+track CF_mm1597
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1597.bw
+shortLabel CF_mm1597_adj_ditag
+longLabel CF_mm1597_adj_ditag
+type bigWig
+color 94,146,43
+
+track CF_mm1598
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1598.bw
+shortLabel CF_mm1598_adj_ditag
+longLabel CF_mm1598_adj_ditag
+type bigWig
+color 107,75,206
+
+track CF_mm1599
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1599.bw
+shortLabel CF_mm1599_adj_ditag
+longLabel CF_mm1599_adj_ditag
+type bigWig
+color 221,199,178
+
+track CF_mm16
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm16.bw
+shortLabel CF_mm16_adj_ditag
+longLabel CF_mm16_adj_ditag
+type bigWig
+color 180,113,139
+
+track CF_mm1600
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1600.bw
+shortLabel CF_mm1600_adj_ditag
+longLabel CF_mm1600_adj_ditag
+type bigWig
+color 62,133,220
+
+track CF_mm1601
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1601.bw
+shortLabel CF_mm1601_adj_ditag
+longLabel CF_mm1601_adj_ditag
+type bigWig
+color 17,198,53
+
+track CF_mm1604
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm1604.bw
+shortLabel CF_mm1604_adj_ditag
+longLabel CF_mm1604_adj_ditag
+type bigWig
+color 77,82,3
+
+track CF_mm172
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm172.bw
+shortLabel CF_mm172_adj_ditag
+longLabel CF_mm172_adj_ditag
+type bigWig
+color 18,216,159
+
+track CF_mm174
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm174.bw
+shortLabel CF_mm174_adj_ditag
+longLabel CF_mm174_adj_ditag
+type bigWig
+color 5,165,199
+
+track CF_mm182
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm182.bw
+shortLabel CF_mm182_adj_ditag
+longLabel CF_mm182_adj_ditag
+type bigWig
+color 78,197,63
+
+track CF_mm183
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm183.bw
+shortLabel CF_mm183_adj_ditag
+longLabel CF_mm183_adj_ditag
+type bigWig
+color 114,253,210
+
+track CF_mm187
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm187.bw
+shortLabel CF_mm187_adj_ditag
+longLabel CF_mm187_adj_ditag
+type bigWig
+color 203,119,213
+
+track CF_mm192
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm192.bw
+shortLabel CF_mm192_adj_ditag
+longLabel CF_mm192_adj_ditag
+type bigWig
+color 100,5,99
+
+track CF_mm194
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm194.bw
+shortLabel CF_mm194_adj_ditag
+longLabel CF_mm194_adj_ditag
+type bigWig
+color 210,27,111
+
+track CF_mm196
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm196.bw
+shortLabel CF_mm196_adj_ditag
+longLabel CF_mm196_adj_ditag
+type bigWig
+color 104,104,224
+
+track CF_mm21
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm21.bw
+shortLabel CF_mm21_adj_ditag
+longLabel CF_mm21_adj_ditag
+type bigWig
+color 34,11,226
+
+track CF_mm241
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm241.bw
+shortLabel CF_mm241_adj_ditag
+longLabel CF_mm241_adj_ditag
+type bigWig
+color 235,181,157
+
+track CF_mm244
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm244.bw
+shortLabel CF_mm244_adj_ditag
+longLabel CF_mm244_adj_ditag
+type bigWig
+color 59,116,167
+
+track CF_mm245
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm245.bw
+shortLabel CF_mm245_adj_ditag
+longLabel CF_mm245_adj_ditag
+type bigWig
+color 38,22,16
+
+track CF_mm247
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm247.bw
+shortLabel CF_mm247_adj_ditag
+longLabel CF_mm247_adj_ditag
+type bigWig
+color 6,181,109
+
+track CF_mm253
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm253.bw
+shortLabel CF_mm253_adj_ditag
+longLabel CF_mm253_adj_ditag
+type bigWig
+color 241,171,93
+
+track CF_mm257
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm257.bw
+shortLabel CF_mm257_adj_ditag
+longLabel CF_mm257_adj_ditag
+type bigWig
+color 120,137,191
+
+track CF_mm260
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm260.bw
+shortLabel CF_mm260_adj_ditag
+longLabel CF_mm260_adj_ditag
+type bigWig
+color 245,224,238
+
+track CF_mm261
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm261.bw
+shortLabel CF_mm261_adj_ditag
+longLabel CF_mm261_adj_ditag
+type bigWig
+color 157,194,19
+
+track CF_mm265
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm265.bw
+shortLabel CF_mm265_adj_ditag
+longLabel CF_mm265_adj_ditag
+type bigWig
+color 123,47,103
+
+track CF_mm269
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm269.bw
+shortLabel CF_mm269_adj_ditag
+longLabel CF_mm269_adj_ditag
+type bigWig
+color 122,75,37
+
+track CF_mm27
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm27.bw
+shortLabel CF_mm27_adj_ditag
+longLabel CF_mm27_adj_ditag
+type bigWig
+color 187,115,240
+
+track CF_mm271
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm271.bw
+shortLabel CF_mm271_adj_ditag
+longLabel CF_mm271_adj_ditag
+type bigWig
+color 56,144,208
+
+track CF_mm276
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm276.bw
+shortLabel CF_mm276_adj_ditag
+longLabel CF_mm276_adj_ditag
+type bigWig
+color 189,131,249
+
+track CF_mm279
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm279.bw
+shortLabel CF_mm279_adj_ditag
+longLabel CF_mm279_adj_ditag
+type bigWig
+color 168,230,75
+
+track CF_mm28
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm28.bw
+shortLabel CF_mm28_adj_ditag
+longLabel CF_mm28_adj_ditag
+type bigWig
+color 128,232,233
+
+track CF_mm282
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm282.bw
+shortLabel CF_mm282_adj_ditag
+longLabel CF_mm282_adj_ditag
+type bigWig
+color 141,144,206
+
+track CF_mm29
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm29.bw
+shortLabel CF_mm29_adj_ditag
+longLabel CF_mm29_adj_ditag
+type bigWig
+color 173,116,245
+
+track CF_mm291
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm291.bw
+shortLabel CF_mm291_adj_ditag
+longLabel CF_mm291_adj_ditag
+type bigWig
+color 94,26,107
+
+track CF_mm292
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm292.bw
+shortLabel CF_mm292_adj_ditag
+longLabel CF_mm292_adj_ditag
+type bigWig
+color 45,64,104
+
+track CF_mm296
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm296.bw
+shortLabel CF_mm296_adj_ditag
+longLabel CF_mm296_adj_ditag
+type bigWig
+color 173,71,11
+
+track CF_mm30
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm30.bw
+shortLabel CF_mm30_adj_ditag
+longLabel CF_mm30_adj_ditag
+type bigWig
+color 57,136,116
+
+track CF_mm303
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm303.bw
+shortLabel CF_mm303_adj_ditag
+longLabel CF_mm303_adj_ditag
+type bigWig
+color 34,117,160
+
+track CF_mm304
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm304.bw
+shortLabel CF_mm304_adj_ditag
+longLabel CF_mm304_adj_ditag
+type bigWig
+color 240,6,8
+
+track CF_mm318
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm318.bw
+shortLabel CF_mm318_adj_ditag
+longLabel CF_mm318_adj_ditag
+type bigWig
+color 195,87,139
+
+track CF_mm321
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm321.bw
+shortLabel CF_mm321_adj_ditag
+longLabel CF_mm321_adj_ditag
+type bigWig
+color 196,163,196
+
+track CF_mm34
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm34.bw
+shortLabel CF_mm34_adj_ditag
+longLabel CF_mm34_adj_ditag
+type bigWig
+color 239,105,218
+
+track CF_mm340
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm340.bw
+shortLabel CF_mm340_adj_ditag
+longLabel CF_mm340_adj_ditag
+type bigWig
+color 73,47,74
+
+track CF_mm36
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm36.bw
+shortLabel CF_mm36_adj_ditag
+longLabel CF_mm36_adj_ditag
+type bigWig
+color 51,68,121
+
+track CF_mm383
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm383.bw
+shortLabel CF_mm383_adj_ditag
+longLabel CF_mm383_adj_ditag
+type bigWig
+color 81,224,171
+
+track CF_mm384
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm384.bw
+shortLabel CF_mm384_adj_ditag
+longLabel CF_mm384_adj_ditag
+type bigWig
+color 190,48,124
+
+track CF_mm387
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm387.bw
+shortLabel CF_mm387_adj_ditag
+longLabel CF_mm387_adj_ditag
+type bigWig
+color 205,146,160
+
+track CF_mm389
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm389.bw
+shortLabel CF_mm389_adj_ditag
+longLabel CF_mm389_adj_ditag
+type bigWig
+color 3,45,9
+
+track CF_mm39
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm39.bw
+shortLabel CF_mm39_adj_ditag
+longLabel CF_mm39_adj_ditag
+type bigWig
+color 14,94,45
+
+track CF_mm394
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm394.bw
+shortLabel CF_mm394_adj_ditag
+longLabel CF_mm394_adj_ditag
+type bigWig
+color 109,184,229
+
+track CF_mm397
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm397.bw
+shortLabel CF_mm397_adj_ditag
+longLabel CF_mm397_adj_ditag
+type bigWig
+color 16,110,121
+
+track CF_mm400
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm400.bw
+shortLabel CF_mm400_adj_ditag
+longLabel CF_mm400_adj_ditag
+type bigWig
+color 225,211,63
+
+track CF_mm402
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm402.bw
+shortLabel CF_mm402_adj_ditag
+longLabel CF_mm402_adj_ditag
+type bigWig
+color 184,145,151
+
+track CF_mm403
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm403.bw
+shortLabel CF_mm403_adj_ditag
+longLabel CF_mm403_adj_ditag
+type bigWig
+color 57,212,9
+
+track CF_mm404
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm404.bw
+shortLabel CF_mm404_adj_ditag
+longLabel CF_mm404_adj_ditag
+type bigWig
+color 204,210,44
+
+track CF_mm405
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm405.bw
+shortLabel CF_mm405_adj_ditag
+longLabel CF_mm405_adj_ditag
+type bigWig
+color 63,88,246
+
+track CF_mm406
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm406.bw
+shortLabel CF_mm406_adj_ditag
+longLabel CF_mm406_adj_ditag
+type bigWig
+color 155,246,191
+
+track CF_mm407
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm407.bw
+shortLabel CF_mm407_adj_ditag
+longLabel CF_mm407_adj_ditag
+type bigWig
+color 24,40,157
+
+track CF_mm41
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm41.bw
+shortLabel CF_mm41_adj_ditag
+longLabel CF_mm41_adj_ditag
+type bigWig
+color 15,16,174
+
+track CF_mm414
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm414.bw
+shortLabel CF_mm414_adj_ditag
+longLabel CF_mm414_adj_ditag
+type bigWig
+color 248,223,146
+
+track CF_mm417
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm417.bw
+shortLabel CF_mm417_adj_ditag
+longLabel CF_mm417_adj_ditag
+type bigWig
+color 253,195,13
+
+track CF_mm423
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm423.bw
+shortLabel CF_mm423_adj_ditag
+longLabel CF_mm423_adj_ditag
+type bigWig
+color 203,41,87
+
+track CF_mm427
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm427.bw
+shortLabel CF_mm427_adj_ditag
+longLabel CF_mm427_adj_ditag
+type bigWig
+color 239,80,186
+
+track CF_mm428
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm428.bw
+shortLabel CF_mm428_adj_ditag
+longLabel CF_mm428_adj_ditag
+type bigWig
+color 182,85,222
+
+track CF_mm429
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm429.bw
+shortLabel CF_mm429_adj_ditag
+longLabel CF_mm429_adj_ditag
+type bigWig
+color 57,55,196
+
+track CF_mm43
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm43.bw
+shortLabel CF_mm43_adj_ditag
+longLabel CF_mm43_adj_ditag
+type bigWig
+color 88,228,48
+
+track CF_mm435
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm435.bw
+shortLabel CF_mm435_adj_ditag
+longLabel CF_mm435_adj_ditag
+type bigWig
+color 150,18,168
+
+track CF_mm439
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm439.bw
+shortLabel CF_mm439_adj_ditag
+longLabel CF_mm439_adj_ditag
+type bigWig
+color 120,31,241
+
+track CF_mm445
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm445.bw
+shortLabel CF_mm445_adj_ditag
+longLabel CF_mm445_adj_ditag
+type bigWig
+color 180,137,97
+
+track CF_mm448
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm448.bw
+shortLabel CF_mm448_adj_ditag
+longLabel CF_mm448_adj_ditag
+type bigWig
+color 50,19,116
+
+track CF_mm449
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm449.bw
+shortLabel CF_mm449_adj_ditag
+longLabel CF_mm449_adj_ditag
+type bigWig
+color 199,208,224
+
+track CF_mm45
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm45.bw
+shortLabel CF_mm45_adj_ditag
+longLabel CF_mm45_adj_ditag
+type bigWig
+color 157,204,36
+
+track CF_mm451
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm451.bw
+shortLabel CF_mm451_adj_ditag
+longLabel CF_mm451_adj_ditag
+type bigWig
+color 236,124,87
+
+track CF_mm458
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm458.bw
+shortLabel CF_mm458_adj_ditag
+longLabel CF_mm458_adj_ditag
+type bigWig
+color 207,249,8
+
+track CF_mm47
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm47.bw
+shortLabel CF_mm47_adj_ditag
+longLabel CF_mm47_adj_ditag
+type bigWig
+color 187,168,138
+
+track CF_mm474
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm474.bw
+shortLabel CF_mm474_adj_ditag
+longLabel CF_mm474_adj_ditag
+type bigWig
+color 111,248,203
+
+track CF_mm489
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm489.bw
+shortLabel CF_mm489_adj_ditag
+longLabel CF_mm489_adj_ditag
+type bigWig
+color 174,246,1
+
+track CF_mm49
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm49.bw
+shortLabel CF_mm49_adj_ditag
+longLabel CF_mm49_adj_ditag
+type bigWig
+color 112,36,34
+
+track CF_mm491
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm491.bw
+shortLabel CF_mm491_adj_ditag
+longLabel CF_mm491_adj_ditag
+type bigWig
+color 1,32,19
+
+track CF_mm50
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm50.bw
+shortLabel CF_mm50_adj_ditag
+longLabel CF_mm50_adj_ditag
+type bigWig
+color 34,79,100
+
+track CF_mm503
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm503.bw
+shortLabel CF_mm503_adj_ditag
+longLabel CF_mm503_adj_ditag
+type bigWig
+color 124,63,147
+
+track CF_mm505
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm505.bw
+shortLabel CF_mm505_adj_ditag
+longLabel CF_mm505_adj_ditag
+type bigWig
+color 59,221,88
+
+track CF_mm55
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm55.bw
+shortLabel CF_mm55_adj_ditag
+longLabel CF_mm55_adj_ditag
+type bigWig
+color 187,79,33
+
+track CF_mm551
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm551.bw
+shortLabel CF_mm551_adj_ditag
+longLabel CF_mm551_adj_ditag
+type bigWig
+color 45,250,32
+
+track CF_mm554
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm554.bw
+shortLabel CF_mm554_adj_ditag
+longLabel CF_mm554_adj_ditag
+type bigWig
+color 245,163,13
+
+track CF_mm56
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm56.bw
+shortLabel CF_mm56_adj_ditag
+longLabel CF_mm56_adj_ditag
+type bigWig
+color 16,102,29
+
+track CF_mm568
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm568.bw
+shortLabel CF_mm568_adj_ditag
+longLabel CF_mm568_adj_ditag
+type bigWig
+color 190,42,172
+
+track CF_mm569
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm569.bw
+shortLabel CF_mm569_adj_ditag
+longLabel CF_mm569_adj_ditag
+type bigWig
+color 60,74,215
+
+track CF_mm573
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm573.bw
+shortLabel CF_mm573_adj_ditag
+longLabel CF_mm573_adj_ditag
+type bigWig
+color 54,94,4
+
+track CF_mm576
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm576.bw
+shortLabel CF_mm576_adj_ditag
+longLabel CF_mm576_adj_ditag
+type bigWig
+color 89,246,25
+
+track CF_mm577
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm577.bw
+shortLabel CF_mm577_adj_ditag
+longLabel CF_mm577_adj_ditag
+type bigWig
+color 102,92,216
+
+track CF_mm580
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm580.bw
+shortLabel CF_mm580_adj_ditag
+longLabel CF_mm580_adj_ditag
+type bigWig
+color 99,217,101
+
+track CF_mm591
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm591.bw
+shortLabel CF_mm591_adj_ditag
+longLabel CF_mm591_adj_ditag
+type bigWig
+color 91,132,115
+
+track CF_mm594
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm594.bw
+shortLabel CF_mm594_adj_ditag
+longLabel CF_mm594_adj_ditag
+type bigWig
+color 41,72,136
+
+track CF_mm60
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm60.bw
+shortLabel CF_mm60_adj_ditag
+longLabel CF_mm60_adj_ditag
+type bigWig
+color 147,117,135
+
+track CF_mm607
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm607.bw
+shortLabel CF_mm607_adj_ditag
+longLabel CF_mm607_adj_ditag
+type bigWig
+color 99,193,206
+
+track CF_mm610
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm610.bw
+shortLabel CF_mm610_adj_ditag
+longLabel CF_mm610_adj_ditag
+type bigWig
+color 102,93,136
+
+track CF_mm612
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm612.bw
+shortLabel CF_mm612_adj_ditag
+longLabel CF_mm612_adj_ditag
+type bigWig
+color 117,168,160
+
+track CF_mm613
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm613.bw
+shortLabel CF_mm613_adj_ditag
+longLabel CF_mm613_adj_ditag
+type bigWig
+color 163,180,110
+
+track CF_mm62
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm62.bw
+shortLabel CF_mm62_adj_ditag
+longLabel CF_mm62_adj_ditag
+type bigWig
+color 156,70,48
+
+track CF_mm622
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm622.bw
+shortLabel CF_mm622_adj_ditag
+longLabel CF_mm622_adj_ditag
+type bigWig
+color 219,49,194
+
+track CF_mm627
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm627.bw
+shortLabel CF_mm627_adj_ditag
+longLabel CF_mm627_adj_ditag
+type bigWig
+color 125,54,30
+
+track CF_mm628
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm628.bw
+shortLabel CF_mm628_adj_ditag
+longLabel CF_mm628_adj_ditag
+type bigWig
+color 12,108,83
+
+track CF_mm634
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm634.bw
+shortLabel CF_mm634_adj_ditag
+longLabel CF_mm634_adj_ditag
+type bigWig
+color 157,198,124
+
+track CF_mm636
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm636.bw
+shortLabel CF_mm636_adj_ditag
+longLabel CF_mm636_adj_ditag
+type bigWig
+color 252,236,163
+
+track CF_mm64
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm64.bw
+shortLabel CF_mm64_adj_ditag
+longLabel CF_mm64_adj_ditag
+type bigWig
+color 152,88,229
+
+track CF_mm641
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm641.bw
+shortLabel CF_mm641_adj_ditag
+longLabel CF_mm641_adj_ditag
+type bigWig
+color 208,167,8
+
+track CF_mm642
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm642.bw
+shortLabel CF_mm642_adj_ditag
+longLabel CF_mm642_adj_ditag
+type bigWig
+color 192,44,250
+
+track CF_mm645
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm645.bw
+shortLabel CF_mm645_adj_ditag
+longLabel CF_mm645_adj_ditag
+type bigWig
+color 121,107,45
+
+track CF_mm646
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm646.bw
+shortLabel CF_mm646_adj_ditag
+longLabel CF_mm646_adj_ditag
+type bigWig
+color 47,46,93
+
+track CF_mm652
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm652.bw
+shortLabel CF_mm652_adj_ditag
+longLabel CF_mm652_adj_ditag
+type bigWig
+color 140,212,224
+
+track CF_mm67
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm67.bw
+shortLabel CF_mm67_adj_ditag
+longLabel CF_mm67_adj_ditag
+type bigWig
+color 41,136,140
+
+track CF_mm671
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm671.bw
+shortLabel CF_mm671_adj_ditag
+longLabel CF_mm671_adj_ditag
+type bigWig
+color 0,184,174
+
+track CF_mm673
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm673.bw
+shortLabel CF_mm673_adj_ditag
+longLabel CF_mm673_adj_ditag
+type bigWig
+color 138,65,190
+
+track CF_mm678
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm678.bw
+shortLabel CF_mm678_adj_ditag
+longLabel CF_mm678_adj_ditag
+type bigWig
+color 77,248,134
+
+track CF_mm683
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm683.bw
+shortLabel CF_mm683_adj_ditag
+longLabel CF_mm683_adj_ditag
+type bigWig
+color 10,254,119
+
+track CF_mm686
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm686.bw
+shortLabel CF_mm686_adj_ditag
+longLabel CF_mm686_adj_ditag
+type bigWig
+color 75,168,157
+
+track CF_mm693
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm693.bw
+shortLabel CF_mm693_adj_ditag
+longLabel CF_mm693_adj_ditag
+type bigWig
+color 183,25,123
+
+track CF_mm694
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm694.bw
+shortLabel CF_mm694_adj_ditag
+longLabel CF_mm694_adj_ditag
+type bigWig
+color 22,115,241
+
+track CF_mm70
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm70.bw
+shortLabel CF_mm70_adj_ditag
+longLabel CF_mm70_adj_ditag
+type bigWig
+color 155,13,215
+
+track CF_mm702
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm702.bw
+shortLabel CF_mm702_adj_ditag
+longLabel CF_mm702_adj_ditag
+type bigWig
+color 245,7,182
+
+track CF_mm703
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm703.bw
+shortLabel CF_mm703_adj_ditag
+longLabel CF_mm703_adj_ditag
+type bigWig
+color 38,201,153
+
+track CF_mm708
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm708.bw
+shortLabel CF_mm708_adj_ditag
+longLabel CF_mm708_adj_ditag
+type bigWig
+color 29,10,225
+
+track CF_mm71
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm71.bw
+shortLabel CF_mm71_adj_ditag
+longLabel CF_mm71_adj_ditag
+type bigWig
+color 233,113,126
+
+track CF_mm712
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm712.bw
+shortLabel CF_mm712_adj_ditag
+longLabel CF_mm712_adj_ditag
+type bigWig
+color 39,6,94
+
+track CF_mm713
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm713.bw
+shortLabel CF_mm713_adj_ditag
+longLabel CF_mm713_adj_ditag
+type bigWig
+color 35,233,76
+
+track CF_mm716
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm716.bw
+shortLabel CF_mm716_adj_ditag
+longLabel CF_mm716_adj_ditag
+type bigWig
+color 107,84,223
+
+track CF_mm717
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm717.bw
+shortLabel CF_mm717_adj_ditag
+longLabel CF_mm717_adj_ditag
+type bigWig
+color 247,107,167
+
+track CF_mm72
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm72.bw
+shortLabel CF_mm72_adj_ditag
+longLabel CF_mm72_adj_ditag
+type bigWig
+color 90,36,85
+
+track CF_mm720
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm720.bw
+shortLabel CF_mm720_adj_ditag
+longLabel CF_mm720_adj_ditag
+type bigWig
+color 126,86,182
+
+track CF_mm725
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm725.bw
+shortLabel CF_mm725_adj_ditag
+longLabel CF_mm725_adj_ditag
+type bigWig
+color 205,112,11
+
+track CF_mm729
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm729.bw
+shortLabel CF_mm729_adj_ditag
+longLabel CF_mm729_adj_ditag
+type bigWig
+color 75,154,0
+
+track CF_mm73
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm73.bw
+shortLabel CF_mm73_adj_ditag
+longLabel CF_mm73_adj_ditag
+type bigWig
+color 101,143,201
+
+track CF_mm734
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm734.bw
+shortLabel CF_mm734_adj_ditag
+longLabel CF_mm734_adj_ditag
+type bigWig
+color 183,233,198
+
+track CF_mm745
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm745.bw
+shortLabel CF_mm745_adj_ditag
+longLabel CF_mm745_adj_ditag
+type bigWig
+color 236,29,132
+
+track CF_mm75
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm75.bw
+shortLabel CF_mm75_adj_ditag
+longLabel CF_mm75_adj_ditag
+type bigWig
+color 159,249,43
+
+track CF_mm751
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm751.bw
+shortLabel CF_mm751_adj_ditag
+longLabel CF_mm751_adj_ditag
+type bigWig
+color 90,169,23
+
+track CF_mm757
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm757.bw
+shortLabel CF_mm757_adj_ditag
+longLabel CF_mm757_adj_ditag
+type bigWig
+color 132,206,216
+
+track CF_mm76
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm76.bw
+shortLabel CF_mm76_adj_ditag
+longLabel CF_mm76_adj_ditag
+type bigWig
+color 115,144,155
+
+track CF_mm762
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm762.bw
+shortLabel CF_mm762_adj_ditag
+longLabel CF_mm762_adj_ditag
+type bigWig
+color 144,217,10
+
+track CF_mm763
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm763.bw
+shortLabel CF_mm763_adj_ditag
+longLabel CF_mm763_adj_ditag
+type bigWig
+color 84,26,128
+
+track CF_mm768
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm768.bw
+shortLabel CF_mm768_adj_ditag
+longLabel CF_mm768_adj_ditag
+type bigWig
+color 85,186,56
+
+track CF_mm770
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm770.bw
+shortLabel CF_mm770_adj_ditag
+longLabel CF_mm770_adj_ditag
+type bigWig
+color 10,95,62
+
+track CF_mm771
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm771.bw
+shortLabel CF_mm771_adj_ditag
+longLabel CF_mm771_adj_ditag
+type bigWig
+color 63,194,59
+
+track CF_mm774
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm774.bw
+shortLabel CF_mm774_adj_ditag
+longLabel CF_mm774_adj_ditag
+type bigWig
+color 46,177,187
+
+track CF_mm777
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm777.bw
+shortLabel CF_mm777_adj_ditag
+longLabel CF_mm777_adj_ditag
+type bigWig
+color 31,251,185
+
+track CF_mm780
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm780.bw
+shortLabel CF_mm780_adj_ditag
+longLabel CF_mm780_adj_ditag
+type bigWig
+color 242,252,38
+
+track CF_mm782
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm782.bw
+shortLabel CF_mm782_adj_ditag
+longLabel CF_mm782_adj_ditag
+type bigWig
+color 26,53,142
+
+track CF_mm795
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm795.bw
+shortLabel CF_mm795_adj_ditag
+longLabel CF_mm795_adj_ditag
+type bigWig
+color 117,90,57
+
+track CF_mm80
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm80.bw
+shortLabel CF_mm80_adj_ditag
+longLabel CF_mm80_adj_ditag
+type bigWig
+color 29,69,127
+
+track CF_mm81
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm81.bw
+shortLabel CF_mm81_adj_ditag
+longLabel CF_mm81_adj_ditag
+type bigWig
+color 135,188,218
+
+track CF_mm814
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm814.bw
+shortLabel CF_mm814_adj_ditag
+longLabel CF_mm814_adj_ditag
+type bigWig
+color 32,119,4
+
+track CF_mm815
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm815.bw
+shortLabel CF_mm815_adj_ditag
+longLabel CF_mm815_adj_ditag
+type bigWig
+color 249,2,188
+
+track CF_mm817
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm817.bw
+shortLabel CF_mm817_adj_ditag
+longLabel CF_mm817_adj_ditag
+type bigWig
+color 228,99,223
+
+track CF_mm829
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm829.bw
+shortLabel CF_mm829_adj_ditag
+longLabel CF_mm829_adj_ditag
+type bigWig
+color 56,41,140
+
+track CF_mm832
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm832.bw
+shortLabel CF_mm832_adj_ditag
+longLabel CF_mm832_adj_ditag
+type bigWig
+color 16,215,35
+
+track CF_mm84
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm84.bw
+shortLabel CF_mm84_adj_ditag
+longLabel CF_mm84_adj_ditag
+type bigWig
+color 34,100,42
+
+track CF_mm85
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm85.bw
+shortLabel CF_mm85_adj_ditag
+longLabel CF_mm85_adj_ditag
+type bigWig
+color 52,107,213
+
+track CF_mm86
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm86.bw
+shortLabel CF_mm86_adj_ditag
+longLabel CF_mm86_adj_ditag
+type bigWig
+color 94,102,145
+
+track CF_mm871
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm871.bw
+shortLabel CF_mm871_adj_ditag
+longLabel CF_mm871_adj_ditag
+type bigWig
+color 230,28,238
+
+track CF_mm878
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm878.bw
+shortLabel CF_mm878_adj_ditag
+longLabel CF_mm878_adj_ditag
+type bigWig
+color 155,93,13
+
+track CF_mm881
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm881.bw
+shortLabel CF_mm881_adj_ditag
+longLabel CF_mm881_adj_ditag
+type bigWig
+color 202,79,34
+
+track CF_mm89
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm89.bw
+shortLabel CF_mm89_adj_ditag
+longLabel CF_mm89_adj_ditag
+type bigWig
+color 122,206,64
+
+track CF_mm898
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm898.bw
+shortLabel CF_mm898_adj_ditag
+longLabel CF_mm898_adj_ditag
+type bigWig
+color 14,216,243
+
+track CF_mm90
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm90.bw
+shortLabel CF_mm90_adj_ditag
+longLabel CF_mm90_adj_ditag
+type bigWig
+color 124,251,104
+
+track CF_mm901
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm901.bw
+shortLabel CF_mm901_adj_ditag
+longLabel CF_mm901_adj_ditag
+type bigWig
+color 113,111,59
+
+track CF_mm91
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm91.bw
+shortLabel CF_mm91_adj_ditag
+longLabel CF_mm91_adj_ditag
+type bigWig
+color 80,26,180
+
+track CF_mm917
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm917.bw
+shortLabel CF_mm917_adj_ditag
+longLabel CF_mm917_adj_ditag
+type bigWig
+color 126,246,76
+
+track CF_mm919
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm919.bw
+shortLabel CF_mm919_adj_ditag
+longLabel CF_mm919_adj_ditag
+type bigWig
+color 73,100,166
+
+track CF_mm921
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm921.bw
+shortLabel CF_mm921_adj_ditag
+longLabel CF_mm921_adj_ditag
+type bigWig
+color 210,57,87
+
+track CF_mm922
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm922.bw
+shortLabel CF_mm922_adj_ditag
+longLabel CF_mm922_adj_ditag
+type bigWig
+color 253,79,201
+
+track CF_mm924
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm924.bw
+shortLabel CF_mm924_adj_ditag
+longLabel CF_mm924_adj_ditag
+type bigWig
+color 216,24,214
+
+track CF_mm933
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm933.bw
+shortLabel CF_mm933_adj_ditag
+longLabel CF_mm933_adj_ditag
+type bigWig
+color 124,1,158
+
+track CF_mm936
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm936.bw
+shortLabel CF_mm936_adj_ditag
+longLabel CF_mm936_adj_ditag
+type bigWig
+color 68,222,33
+
+track CF_mm938
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm938.bw
+shortLabel CF_mm938_adj_ditag
+longLabel CF_mm938_adj_ditag
+type bigWig
+color 11,43,142
+
+track CF_mm94
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm94.bw
+shortLabel CF_mm94_adj_ditag
+longLabel CF_mm94_adj_ditag
+type bigWig
+color 95,18,170
+
+track CF_mm971
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm971.bw
+shortLabel CF_mm971_adj_ditag
+longLabel CF_mm971_adj_ditag
+type bigWig
+color 79,168,233
+
+track CF_mm976
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm976.bw
+shortLabel CF_mm976_adj_ditag
+longLabel CF_mm976_adj_ditag
+type bigWig
+color 1,166,215
+
+track CF_mm981
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm981.bw
+shortLabel CF_mm981_adj_ditag
+longLabel CF_mm981_adj_ditag
+type bigWig
+color 179,202,110
+
+track CF_mm985
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm985.bw
+shortLabel CF_mm985_adj_ditag
+longLabel CF_mm985_adj_ditag
+type bigWig
+color 30,185,138
+
+track CF_mm99
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm99.bw
+shortLabel CF_mm99_adj_ditag
+longLabel CF_mm99_adj_ditag
+type bigWig
+color 159,22,80
+
+track CF_mm996
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm996.bw
+shortLabel CF_mm996_adj_ditag
+longLabel CF_mm996_adj_ditag
+type bigWig
+color 212,97,15
+
+track CF_mm999
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_mm999.bw
+shortLabel CF_mm999_adj_ditag
+longLabel CF_mm999_adj_ditag
+type bigWig
+color 213,214,7
+
+track CF_PrxEn
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_PrxEn.bw
+shortLabel CF_PrxEn_adj_ditag
+longLabel CF_PrxEn_adj_ditag
+type bigWig
+color 131,22,163
+
+track CF_ZRS
+parent bw_chicago3_CF
+bigDataUrl bw/CF/CF_ZRS.bw
+shortLabel CF_ZRS_adj_ditag
+longLabel CF_ZRS_adj_ditag
+type bigWig
+color 102,63,99
+

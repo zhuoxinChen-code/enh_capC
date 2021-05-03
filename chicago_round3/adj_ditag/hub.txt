@@ -1,0 +1,7 @@
+hub adj_ditag_chicago3
+shortLabel adj_ditag
+longLabel adj_ditag_chicago3
+genomesFile genomes.txt
+email zhuoxinc@uci.edu
+descriptionUrl blank.html
+
