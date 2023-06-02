@@ -1,7 +1,0 @@
-hub enh_chicmaxima
-shortLabel chicmaxima
-longLabel enh_chicmaxima
-genomesFile genomes.txt
-email zhuoxinc@uci.edu
-descriptionUrl blank.html
-

@@ -1,7 +1,0 @@
-hub enh_covnorm
-shortLabel covnorm
-longLabel enh_covnorm
-genomesFile genomes.txt
-email zhuoxinc@uci.edu
-descriptionUrl blank.html
-
