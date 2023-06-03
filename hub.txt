@@ -1,4 +1,4 @@
-hub enh_capC
+hub hub_enh
 shortLabel enh
 longLabel enh_capC
 genomesFile genomes.txt
