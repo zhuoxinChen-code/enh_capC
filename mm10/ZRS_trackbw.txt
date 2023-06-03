@@ -1,0 +1,92 @@
+track bw_combo_ZRS
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel ZRS
+longLabel ZRS_bw_combined
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track ZRS_CF
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_CF.bw
+shortLabel ZRS_CF
+longLabel ZRS_CF
+type bigWig
+color 235,151,78
+
+track ZRS_FB
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_FB.bw
+shortLabel ZRS_FB
+longLabel ZRS_FB
+type bigWig
+color 147,188,200
+
+track ZRS_FL
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_FL.bw
+shortLabel ZRS_FL
+longLabel ZRS_FL
+type bigWig
+color 111,84,198
+
+track ZRS_HB
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_HB.bw
+shortLabel ZRS_HB
+longLabel ZRS_HB
+type bigWig
+color 25,200,212
+
+track ZRS_HL
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_HL.bw
+shortLabel ZRS_HL
+longLabel ZRS_HL
+type bigWig
+color 194,126,108
+
+track ZRS_HR
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_HR.bw
+shortLabel ZRS_HR
+longLabel ZRS_HR
+type bigWig
+color 241,209,180
+
+track ZRS_MB
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_MB.bw
+shortLabel ZRS_MB
+longLabel ZRS_MB
+type bigWig
+color 40,30,231
+
+track ZRS_NT
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_NT.bw
+shortLabel ZRS_NT
+longLabel ZRS_NT
+type bigWig
+color 221,114,179
+
+track ZRS_TK
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_TK.bw
+shortLabel ZRS_TK
+longLabel ZRS_TK
+type bigWig
+color 101,164,177
+
+track ZRS_TL
+parent bw_combo_ZRS
+bigDataUrl bigwig/ZRS/ZRS_TL.bw
+shortLabel ZRS_TL
+longLabel ZRS_TL
+type bigWig
+color 76,150,243
+

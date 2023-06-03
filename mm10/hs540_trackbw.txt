@@ -1,0 +1,92 @@
+track bw_combo_hs540
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel hs540
+longLabel hs540_bw_combined
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track hs540_CF
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_CF.bw
+shortLabel hs540_CF
+longLabel hs540_CF
+type bigWig
+color 235,151,78
+
+track hs540_FB
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_FB.bw
+shortLabel hs540_FB
+longLabel hs540_FB
+type bigWig
+color 147,188,200
+
+track hs540_FL
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_FL.bw
+shortLabel hs540_FL
+longLabel hs540_FL
+type bigWig
+color 111,84,198
+
+track hs540_HB
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_HB.bw
+shortLabel hs540_HB
+longLabel hs540_HB
+type bigWig
+color 25,200,212
+
+track hs540_HL
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_HL.bw
+shortLabel hs540_HL
+longLabel hs540_HL
+type bigWig
+color 194,126,108
+
+track hs540_HR
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_HR.bw
+shortLabel hs540_HR
+longLabel hs540_HR
+type bigWig
+color 241,209,180
+
+track hs540_MB
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_MB.bw
+shortLabel hs540_MB
+longLabel hs540_MB
+type bigWig
+color 40,30,231
+
+track hs540_NT
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_NT.bw
+shortLabel hs540_NT
+longLabel hs540_NT
+type bigWig
+color 221,114,179
+
+track hs540_TK
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_TK.bw
+shortLabel hs540_TK
+longLabel hs540_TK
+type bigWig
+color 101,164,177
+
+track hs540_TL
+parent bw_combo_hs540
+bigDataUrl bigwig/hs540/hs540_TL.bw
+shortLabel hs540_TL
+longLabel hs540_TL
+type bigWig
+color 76,150,243
+

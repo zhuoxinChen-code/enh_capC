@@ -1,0 +1,92 @@
+track bw_combo_mm265
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel mm265
+longLabel mm265_bw_combined
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track mm265_CF
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_CF.bw
+shortLabel mm265_CF
+longLabel mm265_CF
+type bigWig
+color 235,151,78
+
+track mm265_FB
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_FB.bw
+shortLabel mm265_FB
+longLabel mm265_FB
+type bigWig
+color 147,188,200
+
+track mm265_FL
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_FL.bw
+shortLabel mm265_FL
+longLabel mm265_FL
+type bigWig
+color 111,84,198
+
+track mm265_HB
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_HB.bw
+shortLabel mm265_HB
+longLabel mm265_HB
+type bigWig
+color 25,200,212
+
+track mm265_HL
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_HL.bw
+shortLabel mm265_HL
+longLabel mm265_HL
+type bigWig
+color 194,126,108
+
+track mm265_HR
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_HR.bw
+shortLabel mm265_HR
+longLabel mm265_HR
+type bigWig
+color 241,209,180
+
+track mm265_MB
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_MB.bw
+shortLabel mm265_MB
+longLabel mm265_MB
+type bigWig
+color 40,30,231
+
+track mm265_NT
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_NT.bw
+shortLabel mm265_NT
+longLabel mm265_NT
+type bigWig
+color 221,114,179
+
+track mm265_TK
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_TK.bw
+shortLabel mm265_TK
+longLabel mm265_TK
+type bigWig
+color 101,164,177
+
+track mm265_TL
+parent bw_combo_mm265
+bigDataUrl bigwig/mm265/mm265_TL.bw
+shortLabel mm265_TL
+longLabel mm265_TL
+type bigWig
+color 76,150,243
+

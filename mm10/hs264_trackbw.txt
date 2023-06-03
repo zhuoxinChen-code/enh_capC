@@ -1,0 +1,92 @@
+track bw_combo_hs264
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel hs264
+longLabel hs264_bw_combined
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track hs264_CF
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_CF.bw
+shortLabel hs264_CF
+longLabel hs264_CF
+type bigWig
+color 235,151,78
+
+track hs264_FB
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_FB.bw
+shortLabel hs264_FB
+longLabel hs264_FB
+type bigWig
+color 147,188,200
+
+track hs264_FL
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_FL.bw
+shortLabel hs264_FL
+longLabel hs264_FL
+type bigWig
+color 111,84,198
+
+track hs264_HB
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_HB.bw
+shortLabel hs264_HB
+longLabel hs264_HB
+type bigWig
+color 25,200,212
+
+track hs264_HL
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_HL.bw
+shortLabel hs264_HL
+longLabel hs264_HL
+type bigWig
+color 194,126,108
+
+track hs264_HR
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_HR.bw
+shortLabel hs264_HR
+longLabel hs264_HR
+type bigWig
+color 241,209,180
+
+track hs264_MB
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_MB.bw
+shortLabel hs264_MB
+longLabel hs264_MB
+type bigWig
+color 40,30,231
+
+track hs264_NT
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_NT.bw
+shortLabel hs264_NT
+longLabel hs264_NT
+type bigWig
+color 221,114,179
+
+track hs264_TK
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_TK.bw
+shortLabel hs264_TK
+longLabel hs264_TK
+type bigWig
+color 101,164,177
+
+track hs264_TL
+parent bw_combo_hs264
+bigDataUrl bigwig/hs264/hs264_TL.bw
+shortLabel hs264_TL
+longLabel hs264_TL
+type bigWig
+color 76,150,243
+

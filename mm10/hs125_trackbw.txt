@@ -1,0 +1,92 @@
+track bw_combo_hs125
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel hs125
+longLabel hs125_bw_combined
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track hs125_CF
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_CF.bw
+shortLabel hs125_CF
+longLabel hs125_CF
+type bigWig
+color 235,151,78
+
+track hs125_FB
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_FB.bw
+shortLabel hs125_FB
+longLabel hs125_FB
+type bigWig
+color 147,188,200
+
+track hs125_FL
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_FL.bw
+shortLabel hs125_FL
+longLabel hs125_FL
+type bigWig
+color 111,84,198
+
+track hs125_HB
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_HB.bw
+shortLabel hs125_HB
+longLabel hs125_HB
+type bigWig
+color 25,200,212
+
+track hs125_HL
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_HL.bw
+shortLabel hs125_HL
+longLabel hs125_HL
+type bigWig
+color 194,126,108
+
+track hs125_HR
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_HR.bw
+shortLabel hs125_HR
+longLabel hs125_HR
+type bigWig
+color 241,209,180
+
+track hs125_MB
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_MB.bw
+shortLabel hs125_MB
+longLabel hs125_MB
+type bigWig
+color 40,30,231
+
+track hs125_NT
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_NT.bw
+shortLabel hs125_NT
+longLabel hs125_NT
+type bigWig
+color 221,114,179
+
+track hs125_TK
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_TK.bw
+shortLabel hs125_TK
+longLabel hs125_TK
+type bigWig
+color 101,164,177
+
+track hs125_TL
+parent bw_combo_hs125
+bigDataUrl bigwig/hs125/hs125_TL.bw
+shortLabel hs125_TL
+longLabel hs125_TL
+type bigWig
+color 76,150,243
+

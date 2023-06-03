@@ -1,0 +1,92 @@
+track bw_combo_HLEA
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel HLEA
+longLabel HLEA_bw_combined
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track HLEA_CF
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_CF.bw
+shortLabel HLEA_CF
+longLabel HLEA_CF
+type bigWig
+color 235,151,78
+
+track HLEA_FB
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_FB.bw
+shortLabel HLEA_FB
+longLabel HLEA_FB
+type bigWig
+color 147,188,200
+
+track HLEA_FL
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_FL.bw
+shortLabel HLEA_FL
+longLabel HLEA_FL
+type bigWig
+color 111,84,198
+
+track HLEA_HB
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_HB.bw
+shortLabel HLEA_HB
+longLabel HLEA_HB
+type bigWig
+color 25,200,212
+
+track HLEA_HL
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_HL.bw
+shortLabel HLEA_HL
+longLabel HLEA_HL
+type bigWig
+color 194,126,108
+
+track HLEA_HR
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_HR.bw
+shortLabel HLEA_HR
+longLabel HLEA_HR
+type bigWig
+color 241,209,180
+
+track HLEA_MB
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_MB.bw
+shortLabel HLEA_MB
+longLabel HLEA_MB
+type bigWig
+color 40,30,231
+
+track HLEA_NT
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_NT.bw
+shortLabel HLEA_NT
+longLabel HLEA_NT
+type bigWig
+color 221,114,179
+
+track HLEA_TK
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_TK.bw
+shortLabel HLEA_TK
+longLabel HLEA_TK
+type bigWig
+color 101,164,177
+
+track HLEA_TL
+parent bw_combo_HLEA
+bigDataUrl bigwig/HLEA/HLEA_TL.bw
+shortLabel HLEA_TL
+longLabel HLEA_TL
+type bigWig
+color 76,150,243
+

@@ -1,0 +1,92 @@
+track bw_combo_mm148
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel mm148
+longLabel mm148_bw_combined
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track mm148_CF
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_CF.bw
+shortLabel mm148_CF
+longLabel mm148_CF
+type bigWig
+color 235,151,78
+
+track mm148_FB
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_FB.bw
+shortLabel mm148_FB
+longLabel mm148_FB
+type bigWig
+color 147,188,200
+
+track mm148_FL
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_FL.bw
+shortLabel mm148_FL
+longLabel mm148_FL
+type bigWig
+color 111,84,198
+
+track mm148_HB
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_HB.bw
+shortLabel mm148_HB
+longLabel mm148_HB
+type bigWig
+color 25,200,212
+
+track mm148_HL
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_HL.bw
+shortLabel mm148_HL
+longLabel mm148_HL
+type bigWig
+color 194,126,108
+
+track mm148_HR
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_HR.bw
+shortLabel mm148_HR
+longLabel mm148_HR
+type bigWig
+color 241,209,180
+
+track mm148_MB
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_MB.bw
+shortLabel mm148_MB
+longLabel mm148_MB
+type bigWig
+color 40,30,231
+
+track mm148_NT
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_NT.bw
+shortLabel mm148_NT
+longLabel mm148_NT
+type bigWig
+color 221,114,179
+
+track mm148_TK
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_TK.bw
+shortLabel mm148_TK
+longLabel mm148_TK
+type bigWig
+color 101,164,177
+
+track mm148_TL
+parent bw_combo_mm148
+bigDataUrl bigwig/mm148/mm148_TL.bw
+shortLabel mm148_TL
+longLabel mm148_TL
+type bigWig
+color 76,150,243
+

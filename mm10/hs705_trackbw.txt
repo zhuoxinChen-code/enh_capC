@@ -1,0 +1,92 @@
+track bw_combo_hs705
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel hs705
+longLabel hs705_bw_combined
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track hs705_CF
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_CF.bw
+shortLabel hs705_CF
+longLabel hs705_CF
+type bigWig
+color 235,151,78
+
+track hs705_FB
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_FB.bw
+shortLabel hs705_FB
+longLabel hs705_FB
+type bigWig
+color 147,188,200
+
+track hs705_FL
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_FL.bw
+shortLabel hs705_FL
+longLabel hs705_FL
+type bigWig
+color 111,84,198
+
+track hs705_HB
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_HB.bw
+shortLabel hs705_HB
+longLabel hs705_HB
+type bigWig
+color 25,200,212
+
+track hs705_HL
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_HL.bw
+shortLabel hs705_HL
+longLabel hs705_HL
+type bigWig
+color 194,126,108
+
+track hs705_HR
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_HR.bw
+shortLabel hs705_HR
+longLabel hs705_HR
+type bigWig
+color 241,209,180
+
+track hs705_MB
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_MB.bw
+shortLabel hs705_MB
+longLabel hs705_MB
+type bigWig
+color 40,30,231
+
+track hs705_NT
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_NT.bw
+shortLabel hs705_NT
+longLabel hs705_NT
+type bigWig
+color 221,114,179
+
+track hs705_TK
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_TK.bw
+shortLabel hs705_TK
+longLabel hs705_TK
+type bigWig
+color 101,164,177
+
+track hs705_TL
+parent bw_combo_hs705
+bigDataUrl bigwig/hs705/hs705_TL.bw
+shortLabel hs705_TL
+longLabel hs705_TL
+type bigWig
+color 76,150,243
+
