@@ -1,5 +1,5 @@
 hub hub_enh
-shortLabel enh
-longLabel enh_capC
+shortLabel enh_capC
+longLabel enhancer_capture_Hi-C
 genomesFile genomes.txt
 email zhuoxinc@uci.edu
