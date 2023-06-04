@@ -1,5 +1,5 @@
-hub hub_enh
+hub hubenh
 shortLabel enh
-longLabel enh_capC
+longLabel enhcapC
 genomesFile genomes.txt
 email zhuoxinc@uci.edu
