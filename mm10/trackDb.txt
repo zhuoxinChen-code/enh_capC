@@ -31,7 +31,6 @@ color 25,200,212
 visibility dense
 
 track CNS65_HL
-parent bw_combo_CNS65
 bigDataUrl bigwig/CNS65/CNS65_HL.bw
 shortLabel CNS65_HL
 longLabel CNS65_HL
@@ -40,7 +39,6 @@ color 194,126,108
 visibility dense
 
 track CNS65_HR
-parent bw_combo_CNS65
 bigDataUrl bigwig/CNS65/CNS65_HR.bw
 shortLabel CNS65_HR
 longLabel CNS65_HR
@@ -49,7 +47,6 @@ color 241,209,180
 visibility dense
 
 track CNS65_MB
-parent bw_combo_CNS65
 bigDataUrl bigwig/CNS65/CNS65_MB.bw
 shortLabel CNS65_MB
 longLabel CNS65_MB
@@ -58,7 +55,6 @@ color 40,30,231
 visibility dense
 
 track CNS65_NT
-parent bw_combo_CNS65
 bigDataUrl bigwig/CNS65/CNS65_NT.bw
 shortLabel CNS65_NT
 longLabel CNS65_NT
