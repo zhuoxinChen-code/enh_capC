@@ -4,7 +4,6 @@ shortLabel CNS65_CF
 longLabel CNS65_CF
 type bigWig
 color 235,151,78
-autoScale on
 visibility dense
 
 track CNS65_FB
@@ -13,7 +12,6 @@ shortLabel CNS65_FB
 longLabel CNS65_FB
 type bigWig
 color 147,188,200
-autoScale on
 visibility dense
 
 track CNS65_FL
@@ -22,7 +20,6 @@ shortLabel CNS65_FL
 longLabel CNS65_FL
 type bigWig
 color 111,84,198
-autoScale on
 visibility dense
 
 track CNS65_HB
@@ -31,7 +28,6 @@ shortLabel CNS65_HB
 longLabel CNS65_HB
 type bigWig
 color 25,200,212
-autoScale on
 visibility dense
 
 track CNS65_HL
@@ -40,7 +36,6 @@ shortLabel CNS65_HL
 longLabel CNS65_HL
 type bigWig
 color 194,126,108
-autoScale on
 visibility dense
 
 track CNS65_HR
@@ -49,7 +44,6 @@ shortLabel CNS65_HR
 longLabel CNS65_HR
 type bigWig
 color 241,209,180
-autoScale on
 visibility dense
 
 track CNS65_MB
@@ -58,7 +52,6 @@ shortLabel CNS65_MB
 longLabel CNS65_MB
 type bigWig
 color 40,30,231
-autoScale on
 visibility dense
 
 track CNS65_NT
@@ -67,7 +60,6 @@ shortLabel CNS65_NT
 longLabel CNS65_NT
 type bigWig
 color 221,114,179
-autoScale on
 visibility dense
 
 track CNS65_TK
@@ -76,7 +68,6 @@ shortLabel CNS65_TK
 longLabel CNS65_TK
 type bigWig
 color 101,164,177
-autoScale on
 visibility dense
 
 track CNS65_TL
@@ -85,5 +76,4 @@ shortLabel CNS65_TL
 longLabel CNS65_TL
 type bigWig
 color 76,150,243
-autoScale on
 visibility dense
