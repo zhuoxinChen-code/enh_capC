@@ -1,2 +1,83 @@
-# bw file
-include CNS65_trackbw.txt
+track CNS65_CF
+bigDataUrl bigwig/CNS65/CNS65_CF.bw
+shortLabel CNS65_CF
+longLabel CNS65_CF
+type bigWig
+color 235,151,78
+visibility dense
+
+track CNS65_FB
+bigDataUrl bigwig/CNS65/CNS65_FB.bw
+shortLabel CNS65_FB
+longLabel CNS65_FB
+type bigWig
+color 147,188,200
+visibility dense
+
+track CNS65_FL
+bigDataUrl bigwig/CNS65/CNS65_FL.bw
+shortLabel CNS65_FL
+longLabel CNS65_FL
+type bigWig
+color 111,84,198
+visibility dense
+
+track CNS65_HB
+bigDataUrl bigwig/CNS65/CNS65_HB.bw
+shortLabel CNS65_HB
+longLabel CNS65_HB
+type bigWig
+color 25,200,212
+visibility dense
+
+track CNS65_HL
+parent bw_combo_CNS65
+bigDataUrl bigwig/CNS65/CNS65_HL.bw
+shortLabel CNS65_HL
+longLabel CNS65_HL
+type bigWig
+color 194,126,108
+visibility dense
+
+track CNS65_HR
+parent bw_combo_CNS65
+bigDataUrl bigwig/CNS65/CNS65_HR.bw
+shortLabel CNS65_HR
+longLabel CNS65_HR
+type bigWig
+color 241,209,180
+visibility dense
+
+track CNS65_MB
+parent bw_combo_CNS65
+bigDataUrl bigwig/CNS65/CNS65_MB.bw
+shortLabel CNS65_MB
+longLabel CNS65_MB
+type bigWig
+color 40,30,231
+visibility dense
+
+track CNS65_NT
+parent bw_combo_CNS65
+bigDataUrl bigwig/CNS65/CNS65_NT.bw
+shortLabel CNS65_NT
+longLabel CNS65_NT
+type bigWig
+color 221,114,179
+visibility dense
+
+track CNS65_TK
+bigDataUrl bigwig/CNS65/CNS65_TK.bw
+shortLabel CNS65_TK
+longLabel CNS65_TK
+type bigWig
+color 101,164,177
+visibility dense
+
+track CNS65_TL
+bigDataUrl bigwig/CNS65/CNS65_TL.bw
+shortLabel CNS65_TL
+longLabel CNS65_TL
+type bigWig
+color 76,150,243
+visibility dense
