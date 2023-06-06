@@ -1,5 +1,0 @@
-hub hub_enh
-shortLabel CNS65_ecHiC
-longLabel CNS65_enhancer_capture_Hi-C
-genomesFile genomes.txt
-email zhuoxinc@uci.edu
