@@ -10,7 +10,7 @@ visibility full
 type bigWig
 maxHeightPixels 50:40:10
 
-track hs654_CF
+track hs654_CF_combo
 parent bw_combo_hs654
 bigDataUrl hs654_CF.bw
 shortLabel hs654_CF
@@ -18,7 +18,7 @@ longLabel hs654_CF
 type bigWig
 color 235,151,78
 
-track hs654_FB
+track hs654_FB_combo
 parent bw_combo_hs654
 bigDataUrl hs654_FB.bw
 shortLabel hs654_FB
@@ -26,7 +26,7 @@ longLabel hs654_FB
 type bigWig
 color 147,188,200
 
-track hs654_FL
+track hs654_FL_combo
 parent bw_combo_hs654
 bigDataUrl hs654_FL.bw
 shortLabel hs654_FL
@@ -34,7 +34,7 @@ longLabel hs654_FL
 type bigWig
 color 111,84,198
 
-track hs654_HB
+track hs654_HB_combo
 parent bw_combo_hs654
 bigDataUrl hs654_HB.bw
 shortLabel hs654_HB
@@ -42,7 +42,7 @@ longLabel hs654_HB
 type bigWig
 color 25,200,212
 
-track hs654_HL
+track hs654_HL_combo
 parent bw_combo_hs654
 bigDataUrl hs654_HL.bw
 shortLabel hs654_HL
@@ -50,7 +50,7 @@ longLabel hs654_HL
 type bigWig
 color 194,126,108
 
-track hs654_HR
+track hs654_HR_combo
 parent bw_combo_hs654
 bigDataUrl hs654_HR.bw
 shortLabel hs654_HR
@@ -58,7 +58,7 @@ longLabel hs654_HR
 type bigWig
 color 241,209,180
 
-track hs654_MB
+track hs654_MB_combo
 parent bw_combo_hs654
 bigDataUrl hs654_MB.bw
 shortLabel hs654_MB
@@ -66,7 +66,7 @@ longLabel hs654_MB
 type bigWig
 color 40,30,231
 
-track hs654_NT
+track hs654_NT_combo
 parent bw_combo_hs654
 bigDataUrl hs654_NT.bw
 shortLabel hs654_NT
@@ -74,7 +74,7 @@ longLabel hs654_NT
 type bigWig
 color 221,114,179
 
-track hs654_TK
+track hs654_TK_combo
 parent bw_combo_hs654
 bigDataUrl hs654_TK.bw
 shortLabel hs654_TK
@@ -82,14 +82,13 @@ longLabel hs654_TK
 type bigWig
 color 101,164,177
 
-track hs654_TL
+track hs654_TL_combo
 parent bw_combo_hs654
 bigDataUrl hs654_TL.bw
 shortLabel hs654_TL
 longLabel hs654_TL
 type bigWig
 color 76,150,243
-
 
 
 track hs654_CF
