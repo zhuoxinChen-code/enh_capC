@@ -28,12 +28,22 @@ visibility dense
 windowingFunction mean
 smoothingWindow 5
 
+track hs654_NT
+bigDataUrl hs654_NT.bw
+shortLabel hs654_NT
+longLabel hs654_NT
+type bigWig
+color 91,134,61
+visibility dense
+windowingFunction mean
+smoothingWindow 5
+
 track hs654_CF
 bigDataUrl hs654_CF.bw
 shortLabel hs654_CF
 longLabel hs654_CF
 type bigWig
-color 235,151,78
+color 199,91,124
 visibility dense
 windowingFunction mean
 smoothingWindow 5
@@ -43,7 +53,7 @@ bigDataUrl hs654_FL.bw
 shortLabel hs654_FL
 longLabel hs654_FL
 type bigWig
-color 111,84,198
+color 201,149,22
 visibility dense
 windowingFunction mean
 smoothingWindow 5
@@ -53,7 +63,7 @@ bigDataUrl hs654_HL.bw
 shortLabel hs654_HL
 longLabel hs654_HL
 type bigWig
-color 194,126,108
+color 207,207,60
 visibility dense
 windowingFunction mean
 smoothingWindow 5
@@ -63,17 +73,7 @@ bigDataUrl hs654_HR.bw
 shortLabel hs654_HR
 longLabel hs654_HR
 type bigWig
-color 241,209,180
-visibility dense
-windowingFunction mean
-smoothingWindow 5
-
-track hs654_NT
-bigDataUrl hs654_NT.bw
-shortLabel hs654_NT
-longLabel hs654_NT
-type bigWig
-color 221,114,179
+color 200,55,55
 visibility dense
 windowingFunction mean
 smoothingWindow 5
@@ -83,7 +83,7 @@ bigDataUrl hs654_TK.bw
 shortLabel hs654_TK
 longLabel hs654_TK
 type bigWig
-color 101,164,177
+color 193,209,125
 visibility dense
 windowingFunction mean
 smoothingWindow 5
