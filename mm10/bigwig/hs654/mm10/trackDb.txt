@@ -6,7 +6,7 @@ type bigWig
 color 235,151,78
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_FB
 bigDataUrl hs654_FB.bw
@@ -16,7 +16,7 @@ type bigWig
 color 147,188,200
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_FL
 bigDataUrl hs654_FL.bw
@@ -26,7 +26,7 @@ type bigWig
 color 111,84,198
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_HB
 bigDataUrl hs654_HB.bw
@@ -36,7 +36,7 @@ type bigWig
 color 25,200,212
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_HL
 bigDataUrl hs654_HL.bw
@@ -46,7 +46,7 @@ type bigWig
 color 194,126,108
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_HR
 bigDataUrl hs654_HR.bw
@@ -56,7 +56,7 @@ type bigWig
 color 241,209,180
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_MB
 bigDataUrl hs654_MB.bw
@@ -66,7 +66,7 @@ type bigWig
 color 40,30,231
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_NT
 bigDataUrl hs654_NT.bw
@@ -76,7 +76,7 @@ type bigWig
 color 221,114,179
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_TK
 bigDataUrl hs654_TK.bw
@@ -86,7 +86,7 @@ type bigWig
 color 101,164,177
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
 
 track hs654_TL
 bigDataUrl hs654_TL.bw
@@ -96,4 +96,4 @@ type bigWig
 color 76,150,243
 visibility full
 windowingFunction mean
-smoothingWindow 3
+smoothingWindow 10
